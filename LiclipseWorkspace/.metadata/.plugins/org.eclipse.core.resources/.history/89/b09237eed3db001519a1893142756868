@@ -1,0 +1,13 @@
+'''
+Created on Feb 25, 2016
+
+@author: vtassan
+'''
+
+def hello():
+    print ("Hello World!")
+
+if __name__ == '__main__':
+    hello()
+
+
