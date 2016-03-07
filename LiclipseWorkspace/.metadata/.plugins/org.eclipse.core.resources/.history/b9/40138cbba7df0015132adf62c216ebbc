@@ -1,0 +1,28 @@
+'''
+Created on Feb 25, 2016
+
+@author: vtassan
+'''
+import sys  
+
+def countoverlappingdistinct(pattern, thestring):
+  total = 0
+  start = 0
+  there = re.compile(pattern)
+  while True:
+    mo = there.search(thestring, start)
+    if mo is None: return total
+    total += 1
+    start = 1 + mo.start()
+
+def allchar():
+    reload(sys)  
+    sys.setdefaultencoding('utf8')
+    str = '0394'
+    print u'\u2122'
+    print str
+#     for i in range(0,100):
+#         print u'\u0001'+str(i)
+
+if __name__ == '__main__':
+    allchar()

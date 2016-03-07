@@ -1,0 +1,40 @@
+'''
+Created on Feb 25, 2016
+
+@author: vtassan
+'''
+
+import os, sys
+import PyPDF2
+import codecs
+
+def read():
+    #tmfile = codecs.open('tm.txt', 'r')
+    tmfile = open('tm.txt', 'r')
+    tm = tmfile.read()
+    print tm
+    tm = tm[0]
+    print tm
+    fo =open ('16d03.txt', 'w')
+    pdfFileObj = open('16d03.pdf', 'rb')
+    pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
+    numPages =  pdfReader.numPages
+    for i in range(0,numPages):
+        pageObj = pdfReader.getPage(i)
+        page = pageObj.extractText().encode('unicode')
+        print page[0], i+1
+        j = i+1
+        if(page[0] != ' ' and int(page[0]) == j):
+            page = page[3:]
+        page.replace(u'u\2122','\'')
+        fo.write(page)
+        fo.write("\n")
+    fo.close()
+    pdfFileObj.close()
+    
+
+
+if __name__ == '__main__':
+    read()
+
+

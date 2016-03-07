@@ -1,18 +1,19 @@
 -- VERSION_4
 -- START DISKCACHE_2
 /home/vtassan/Documents/Master-Thesis/Git/LiclipseWorkspace/.metadata/.plugins/org.eclipse.core.resources/.projects/PDFReader/com.python.pydev.analysis/v2_indexcache
-FirstTry|1456411592000000000|/home/vtassan/Documents/Master-Thesis/Git/LiclipseWorkspace/PDFReader/FirstTry.py
+FirstTry|1456834720000000000|/home/vtassan/Documents/Master-Thesis/Git/LiclipseWorkspace/PDFReader/FirstTry.py
+main|1456913553000000000|/home/vtassan/Documents/Master-Thesis/Git/LiclipseWorkspace/PDFReader/main.py
 -- END DISKCACHE
 -- START DICTIONARY
-0
+2
+1=FirstTry
+2=main
 -- END DICTIONARY
 -- START TREE 1
-5
-hel|0|
-mai|0|
-pag|0|
-pdf|0|
-rea|0|
+3
+all|1|allchar!10@
+cou|1|countoverlappingdistinct!18@
+rea|1|read!18@
 -- END TREE
 -- START TREE 2
 0

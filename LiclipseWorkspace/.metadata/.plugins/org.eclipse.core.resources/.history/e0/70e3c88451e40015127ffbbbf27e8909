@@ -1,0 +1,15 @@
+'''
+Created on Mar 7, 2016
+
+@author: vtassan
+'''
+
+def read():
+    readfile = open('../00d01.txt','r')
+    for line in readfile.readlines():
+        print line
+    readfile.close()
+
+
+if __name__ == '__main__':
+    read()

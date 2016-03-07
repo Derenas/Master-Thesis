@@ -1,0 +1,6 @@
+def allchar():
+    for i in range(0,100):
+        print u'\u220'
+
+if __name__ == '__main__':
+    allchar()
