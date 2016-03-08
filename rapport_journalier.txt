@@ -1,38 +1,47 @@
 ﻿Semaine 1 : Du 15 février au 19 février
-Lundi:
-
-Mardi:
-
-Mercredi:
-
 Jeudi:
+Arrivée + installation et lecture
 
 Vendredi:
+Lecture
 
 Semaine 2 : Du 22 février au 26 février
 Lundi:
 
+
 Mardi:
+Installation de Git
 
 Mercredi:
+Installation de git (pc travail) + test de conversion pdf sous python (package PyPDF2)
 
 Jeudi:
+Nouvelles lectures
 
 Vendredi:
-
+Premier cours de droit sur les stratégies d'entreprise (cartel, dilemme du prisonnier) et de l'autorité
 Semaine 3 : Du 29 février au 4 mars
-Lundi:
 
-Mardi:
+Lundi:
+Présentation de l'article "Using Pattern Structure..." by Amedeo Napoli et Adrien Coulet
+
+Mardi: 
+Mise en place du script pour télécharger l'intégralité des décisions et avis sur le site + Test de pdfminer qui, à première vue, paraît plus efficace que l'autre (pypdf2).
 
 Mercredi:
+Lancement du script + nouveau script sur PDFMiner permettant une conversion automatique
 
 Jeudi:
+Matin: Visite du Loria aux nouveaux arrivants
+Après-midi: Conférence sur le dilemne itéré du prisonnier (cf carnet de notes)
 
 Vendredi:
+Journée en fac de droits
 
 semaine 4 : Du 7 mars au 11 mars
 Lundi:
+J'ai enfin trouvé un convertisseur pdf convenable le plus simple en commande linux qui s'appelle pdftotext (ligne de commande)
+on peut faire mieux mais bon...
 
 Mardi:
 
