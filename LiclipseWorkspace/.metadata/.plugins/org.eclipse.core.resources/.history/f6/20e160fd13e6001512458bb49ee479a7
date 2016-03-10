@@ -1,0 +1,12 @@
+'''
+Created on 9 mars 2016
+
+@author: virgilt
+'''
+
+from nltk import tree
+
+def test(directory, file):
+    f = open(directory+'/'+file,'r')
+    print f.readline()
+    f.close()

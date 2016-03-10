@@ -1,0 +1,8 @@
+'''
+Created on 9 mars 2016
+
+@author: virgilt
+'''
+
+def test(file):
+    print file

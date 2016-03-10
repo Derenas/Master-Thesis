@@ -1,0 +1,19 @@
+'''
+Created on 9 mars 2016
+
+@author: virgilt
+'''
+
+import os
+import regularExpression
+
+def getAllFiles():
+    for element in os.listdir('./../../../../Avis_Decisions/pdftotext'):
+        if os.path.isdir(element):
+            print("'%s' un dossier" % element)
+        else:
+            print("'%s' est un fichier" % element)
+
+
+if __name__ == '__main__':
+    getAllFiles()

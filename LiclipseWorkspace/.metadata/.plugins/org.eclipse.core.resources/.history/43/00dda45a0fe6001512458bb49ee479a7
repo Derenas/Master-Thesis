@@ -1,0 +1,15 @@
+'''
+Created on 9 mars 2016
+
+@author: virgilt
+'''
+
+import os
+import regularExpression
+
+def getAllFiles():
+    print os.listdir('./../../../..')
+
+
+if __name__ == '__main__':
+    getAllFiles()

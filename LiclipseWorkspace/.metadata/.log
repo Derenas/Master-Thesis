@@ -971,3 +971,21 @@ Caused by: java.lang.IllegalArgumentException: Argument not valid
 	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
 	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
 	... 24 more
+!SESSION 2016-03-09 12:46:18.090 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.python.pydev.shared_core 4 4 2016-03-09 12:46:44.545
+!MESSAGE Info: Rebuilding internal caches: /home/virgilt/Documents/Master-Thesis/Git/LiclipseWorkspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Keras/com.python.pydev.analysis/AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
+!SESSION 2016-03-09 16:25:07.555 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.python.pydev.shared_core 4 4 2016-03-09 16:26:40.561
+!MESSAGE Info: Rebuilding internal caches: /home/virgilt/Documents/Master-Thesis/Git/LiclipseWorkspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Semi-lattice_Similarity/com.python.pydev.analysis/AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)

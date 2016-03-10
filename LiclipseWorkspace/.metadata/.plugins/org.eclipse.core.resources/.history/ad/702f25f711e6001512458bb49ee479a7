@@ -1,0 +1,9 @@
+'''
+Created on 9 mars 2016
+
+@author: virgilt
+'''
+
+def test(file):
+    f = open('file','r')
+    print file

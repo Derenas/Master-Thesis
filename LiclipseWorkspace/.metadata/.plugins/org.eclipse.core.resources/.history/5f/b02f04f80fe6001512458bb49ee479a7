@@ -1,0 +1,18 @@
+'''
+Created on 9 mars 2016
+
+@author: virgilt
+'''
+
+import os
+import regularExpression
+
+def getAllFiles():
+    for dossier, fichier in os.walk('./../../../../Avis_Decisions/pdftotext'):
+            print('##### %s #####' % dossier)
+    print("Sous dossiers : %s" % sous_dossiers)
+    print("Fichiers : %s" % fichiers)
+
+
+if __name__ == '__main__':
+    getAllFiles()
