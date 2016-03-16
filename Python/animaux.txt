@@ -1,0 +1,28 @@
+B
+
+7
+9
+
+Bat
+Eagle
+Monkey
+Parrot Fish
+Penguin
+Shark
+Lantern Fish
+breath in water
+can fly
+has beak
+has hands
+has skeleton
+has wings
+lives in water
+is viviparous
+produces light
+.X..XX.X.
+.XX.XX...
+...XX..X.
+X.X.X.X..
+..X.XXX..
+X...X.X..
+X...X.X.X

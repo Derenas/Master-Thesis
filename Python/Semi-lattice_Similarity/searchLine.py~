@@ -5,19 +5,8 @@ Created on 9 mars 2016
 @author: virgilt
 '''
 
-
-import os
 import regularExpression as regex
-import re
 import sys
-import files
-
-
-def printAvis():
-	print files.getAllAvis()
-
-def printFiles():
-	print files.getAllFiles()		
 
 if __name__ == '__main__':
 	#printAvis()	
