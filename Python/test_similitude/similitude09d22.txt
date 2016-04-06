@@ -1,8 +1,0 @@
-15d15.txt 6
-07d38.txt 6
-09d22.txt 7
-14mc01.txt 6
-09d30.txt 6
-09d26.txt 6
-04d02.txt 6
-14d07.txt 7

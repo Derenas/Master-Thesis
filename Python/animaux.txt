@@ -6,11 +6,11 @@ B
 Bat
 Eagle
 Monkey
-Parrot Fish
+Parrot fish
 Penguin
 Shark
-Lantern Fish
-breath in water
+Lantern fish
+breathes in water
 can fly
 has beak
 has hands

@@ -23,6 +23,7 @@ if __name__ == '__main__':
 	expreArticle = regex.expreReguliereArticle()+regex.expreReguliereCode()
 	expreDoc = r'[0-9]{2}(a|d|mc|soa|da)[0-9]{2}\.txt'
 	maxValue = 0
+	secondMaxValue = 0
 	for line in f.readlines():
 		lineSplitted = re.split("'", line)
 		#print lineSplitted
@@ -37,14 +38,23 @@ if __name__ == '__main__':
 					m = re.search('code', item)
 					if m is not None:
 						i = i + 1
-			if i > 1:
+			if i > 1 :
 				for item in listDico:
+					print item
 					if item not in dico or dico[item]<i:
 						dico[item] = i
-			maxValue = max(i, maxValue)
-	res = open('test_similitude/similitude'+doc,'w')
+			if i > maxValue:
+				secondMaxValue = maxValue
+				maxValue = i
+			else:
+				if i > secondMaxValue:
+					secondMaxValue = i
+	res = open('test_similitude/sim'+doc,'w')
+	#del dico[doc]
+	#print dico[doc]
+	print dico, maxValue, secondMaxValue
 	for key, value in dico.iteritems():
-		if value >= maxValue-1:
+		if value >= secondMaxValue-1:
 			res.write(key+" "+str(value)+'\n')
 	res.close()
 

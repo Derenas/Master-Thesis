@@ -1,0 +1,12 @@
+15d15.txt 6
+13d04.txt 6
+11mc01.txt 7
+09d22.txt 6
+08d10.txt 6
+09mc02.txt 6
+14mc02.txt 6
+14mc01.txt 9
+10d09.txt 6
+09d26.txt 6
+13d08.txt 6
+14d07.txt 6

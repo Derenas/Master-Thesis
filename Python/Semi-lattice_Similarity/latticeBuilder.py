@@ -20,7 +20,7 @@ def writeAttributes(liste):
 		res.write(item+'\n')
 	res.close()
 
-
+#Ecrit la liste des concepts et leur nombre dans un fichier externe
 def writeConcepts(lattice):
 	res = open('concepts.txt','w')
 	i = 0
@@ -33,6 +33,8 @@ def writeConcepts(lattice):
 		res.write(concept)
 	res.close()	
 
+#Corrige les fautes faites par les rédacteurs des décisions
+#sert à formater les attributs
 def correctSyntaxe(attribut):
 	if attribut == 'code du commerce':
 		return 'code de commerce'
@@ -41,38 +43,99 @@ def correctSyntaxe(attribut):
 	else:
 		return attribut
 
-def buildLattice():
-	listavis = fg.getAllFiles()
-	setOfAvis = set()
+#Construit l'expression reguliere qui retrouve tous les attributs
+def expreAttribute():
 	expre = regex.expreReguliereArticle()+regex.expreReguliereCode()
-	lengthAvis = len(listavis)
+	return expre	
+
+
+#exporte le context en json pour pouvoir l'utiliser sur une application
+def exportContext(objects,attributes,matrix):
+	res = open('lattice.json','w')
+	#creation d'une liste de dictionnaire
+	json = []
+	#creation du premier dictionnaire de json
+	parametre = {}
+	parametre["ObjNames"] = objects
+	attribut = {}
+	attribut["AttrNames"] = attributes
+	parametre["Params"] = attribut
+	#creation du deuxieme dictionnaire de json
+	data = {}
+	data["Count"] = len(matrix)
+	listAttributes = []
+	for element in matrix:
+		dico = {}
+		attr = getAllTrue(element)
+		dico["Count"] = len(attr)
+		dico["Inds"] = attr
+		listAttributes.append(dico)	
+	data["Data"] = listAttributes
+	#parametre = OrderedDict(sorted(parametre.items(), key=lambda t: t[0]))
+	#data = OrderedDict(sorted(data.items(), key=lambda t: t[0]))
+	json.append(parametre)
+	json.append(data)
+	json = str(json)
+	json = re.sub("'",'"',json)
+	json = re.sub(", ",",",json)
+	json = re.sub(": ",":",json)
+	print json
+	whatever = '([0-9]|[a-z]|[A-Z]|[, ".-])*'
+	paramexpression = r'"Params":\{"AttrNames":\['+whatever+'\]\}'
+	params = re.search(paramexpression,json)
+	objnamesexpression = r'"ObjNames":\['+whatever+'\]'
+	objnames = re.search(objnamesexpression,json)
+	print params.group(),objnames.group()
+	if params.start() < objnames.start():
+		newjson = json[:params.start()]
+		newjson += objnames.group()+','+params.group()+json[objnames.end():]
+		json = newjson
+	res.write(json)
+	res.close()
+
+def getAllTrue(objet):
+	res = []
 	i = 0
-	for avis in listavis:
-		f = open(avis,'r')
+	length = len(objet)
+	for i in range(0,length):
+		if objet[i] == True:
+			res.append(i)
+	print res
+	return res
+
+#Construit la lattice à partir de documents
+def buildLattice():
+	listAllFiles = fg.getAllDecisions()
+	setOfAttributes = set()
+	expre = expreAttribute()
+	lengthAllFiles = len(listAllFiles)
+	i = 0
+	for dfile in listAllFiles:
+		f = open(dfile,'r')
 		data = ' '.join([line.rstrip() for line in f])
 		for m in re.finditer(expre, data):
 			attributFormated = m.group(0)
 			attributFormated = regex.removeAccent(attributFormated)
 			attributFormated = correctSyntaxe(attributFormated)
-			setOfAvis.add(attributFormated)
+			setOfAttributes.add(attributFormated)
 		i = i + 1
 		if i%100==0:
-			print str(i)+' fichiers lus sur '+str(lengthAvis*2)
-	print len(setOfAvis)
+			print str(i)+' fichiers lus sur '+str(lengthAllFiles*2)
+	print len(setOfAttributes)
 	matrixAttribute = []
 	listFiles = []
-	setOfAvis = list(setOfAvis)
+	setOfAttributes = list(setOfAttributes)
 	setFormated = set()
-	for item in setOfAvis:
+	for item in setOfAttributes:
 		if line[0]!='n':
 			setFormated.add(regex.formatArticle(item))
 	setFormated =  list(setFormated)
 	print len(setFormated)
 	lenset = len(setFormated)
-	for avis in listavis:
-		f = open(avis, 'r')
+	for dfile in listAllFiles:
+		f = open(dfile, 'r')
 		data = ' '.join([line.rstrip() for line in f])
-		listFiles.append(regex.nomDocument(avis))
+		listFiles.append(regex.nomDocument(dfile))
 		nuplet = (False,)*lenset
 		listuple = list(nuplet)
 		for m in re.finditer(expre, data):
@@ -83,13 +146,14 @@ def buildLattice():
 			listuple[index] = True
 		i = i + 1
 		if i%100==0:
-			print str(i)+' fichiers lus sur '+str(lengthAvis*2)
+			print str(i)+' fichiers lus sur '+str(lengthAllFiles*2)
 		nuplet = tuple(listuple)
 		matrixAttribute.append(nuplet)
 	writeAttributes(setFormated)
+	exportContext(listFiles,setFormated,matrixAttribute)
 	c = Context(listFiles,setFormated,matrixAttribute)
 	print "construction de la lattice. Cela peut prendre quelques instants"
-	#c.lattice.graphviz(view=True)
+	c.lattice.graphviz(view=True)
 	writeConcepts(c.lattice)
 	c.tofile('saveLattice.txt',frmat='cxt',encoding='utf-8')
 

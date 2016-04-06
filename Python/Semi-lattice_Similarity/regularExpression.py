@@ -24,7 +24,7 @@ def removeAccent(word):
 def expreReguliereCode():
 	listecodes = ['général des collectivités', 'commerce', 'postes et télécommunications', 'procédure civile', 'sécurité sociale', 'marchés publics', 'communes', 'travail', 'tourisme', 'santé public']
 	liens = r'(d(u|e|es))? (la )?'
-	res = 'code '
+	res = '(c|C)ode '
 	res = res + liens
 	discodes = listToDisjonction(listecodes)
 	res = res + discodes
@@ -42,6 +42,7 @@ def expreReguliereArticle():
 #Formate les articles retrouvés pour éviter les redondances
 def formatArticle(article):
 	res = article
+	res = re.sub('C','c',res)
 	res = re.sub(' et suivants ',' ',res)
 	res = re.sub('Livre','livre',res)
 	res = re.sub('\. ','.',res)
@@ -69,7 +70,7 @@ def exprReguliereDecision():
 
 # récupère le nom du document dans le chemin donné en paramètre
 def nomDocument(file):
-	filetxt = re.search(r'[0-9]{2}(a|d|mc|soa|da)[0-9]{2}\.txt',file)
+	filetxt = re.search(r'[0-9]{2}(a|d|mc|soa|da)[0-9]{2}\',file)
 	return filetxt.group(0)
 
 #pas utilisée
@@ -98,7 +99,7 @@ def rechercherMot(file, mot):
     	f.close()
 	return ls
 	
-
+#Pour chaque mot, retourne un fichier avec chaque ligne ou ce mot apparait
 def rechercherMots(mots):
 	i = 0
 	for mot in mots:
@@ -112,6 +113,4 @@ def rechercherMots(mots):
 			if i%10 == 0:
 				print(str(i)+' fichiers lus sur '+str(len(files)))
 		f.close()
-
-
 
