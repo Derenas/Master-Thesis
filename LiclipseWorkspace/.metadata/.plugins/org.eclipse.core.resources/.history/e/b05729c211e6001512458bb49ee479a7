@@ -1,9 +1,0 @@
-'''
-Created on 9 mars 2016
-
-@author: virgilt
-'''
-
-def test(filelist):
-    for file in filelist:
-        print file
