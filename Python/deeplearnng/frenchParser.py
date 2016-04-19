@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 
-'''import nltk
+import nltk
 import io
 from nltk.tokenize import TreebankWordTokenizer
+from nltk.tokenize import WordPunctTokenizer
 
 f = io.open('00d10.txt','rU',encoding='utf-8')
 text = ' '.join([line.rstrip() for line in f])
@@ -11,21 +12,24 @@ tokenizer = nltk.data.load('tokenizers/punkt/french.pickle')
 
 tokens = tokenizer.tokenize(text)
 
-wordtokenizer = TreebankWordTokenizer()
-
+#wordtokenizer = TreebankWordTokenizer()
+wordtokenizer = WordPunctTokenizer()
 
 wlist =[]
 for token in tokens:
 	wtoken = wordtokenizer.tokenize(token)
 	wlist.append(wtoken)
 	
-for i in range(0,10):
-	print wlist[i]'''
-
+res = io.open('res.txt','w',encoding='utf-8')
+for sentence in wlist:
+	for word in sentence:
+		res.write(word)
+		res.write(u' ')
+	res.write(u'\n')
 '''nltk.data.load('tokenizers/punkt/french.pickle')
 tokens = [french_tokenizer.tokenize(s) for s in sentences]'''
 
-from nltk.tokenize import TreebankWordTokenizer
+'''from nltk.tokenize import TreebankWordTokenizer
 import io
 # On instancie notre tokenizer
 tokenizer = TreebankWordTokenizer()
@@ -35,4 +39,4 @@ text = ' '.join([line.rstrip() for line in f])
 
 tokens = tokenizer.tokenize(text)
 
-print(tokens)  
+print(tokens)  '''

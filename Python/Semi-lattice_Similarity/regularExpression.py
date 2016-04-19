@@ -70,7 +70,7 @@ def exprReguliereDecision():
 
 # récupère le nom du document dans le chemin donné en paramètre
 def nomDocument(file):
-	filetxt = re.search(r'[0-9]{2}(a|d|mc|soa|da)[0-9]{2}\',file)
+	filetxt = re.search(r'[0-9]{2}(a|d|mc|soa|da)[0-9]{2}',file)
 	return filetxt.group(0)
 
 #pas utilisée

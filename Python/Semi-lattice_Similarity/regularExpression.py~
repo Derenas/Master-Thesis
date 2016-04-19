@@ -99,7 +99,7 @@ def rechercherMot(file, mot):
     	f.close()
 	return ls
 	
-
+#Pour chaque mot, retourne un fichier avec chaque ligne ou ce mot apparait
 def rechercherMots(mots):
 	i = 0
 	for mot in mots:
@@ -114,5 +114,3 @@ def rechercherMots(mots):
 				print(str(i)+' fichiers lus sur '+str(len(files)))
 		f.close()
 
-
-print expreReguliereArticle()

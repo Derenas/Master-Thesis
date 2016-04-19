@@ -11,6 +11,7 @@ import re
 from concepts import Context
 import graphviz
 import filesGetter as fg
+import sys
 
 #Ecrit la liste des attributs dans un fichier externe
 def writeAttributes(liste):
@@ -22,7 +23,7 @@ def writeAttributes(liste):
 
 #Ecrit la liste des concepts et leur nombre dans un fichier externe
 def writeConcepts(lattice):
-	res = open('concepts.txt','w')
+	res = open('conceptsartdoc.txt','w')
 	i = 0
 	listeconcepts = []
 	for extent, intent in lattice:
@@ -79,13 +80,13 @@ def exportContext(objects,attributes,matrix):
 	json = re.sub("'",'"',json)
 	json = re.sub(", ",",",json)
 	json = re.sub(": ",":",json)
-	print json
+	#print json
 	whatever = '([0-9]|[a-z]|[A-Z]|[, ".-])*'
 	paramexpression = r'"Params":\{"AttrNames":\['+whatever+'\]\}'
 	params = re.search(paramexpression,json)
 	objnamesexpression = r'"ObjNames":\['+whatever+'\]'
 	objnames = re.search(objnamesexpression,json)
-	print params.group(),objnames.group()
+	#print params.group(),objnames.group()
 	if params.start() < objnames.start():
 		newjson = json[:params.start()]
 		newjson += objnames.group()+','+params.group()+json[objnames.end():]
@@ -100,64 +101,115 @@ def getAllTrue(objet):
 	for i in range(0,length):
 		if objet[i] == True:
 			res.append(i)
-	print res
+	#print res
 	return res
 
 #Construit la lattice à partir de documents
-def buildLattice():
-	listAllFiles = fg.getAllDecisions()
-	setOfAttributes = set()
-	expre = expreAttribute()
+def buildLattice(inputFiles = "dec", inputAttributes = "artsdocs"):
+	print inputFiles, inputAttributes
+	#Le contexte a construire
+	matrixAttribute = []
+	#
+	listFiles = []
+	#Liste des fichiers lus pour construire le contexte
+	if(inputFiles == "dec"):
+		print "cuocou"
+		listAllFiles = fg.getAllDecisions()
+	elif(inputFiles == "avis"):
+		listAllFiles = fg.getAllAvis()
+	elif(inputFiles == "all"):
+		listAllFiles = fg.getAllFiles()
+	else:
+		print "choix non reconnu. Choix possibles : 'dec' 'avis' 'all'"
+		listAllFiles = fg.getAllDecisions()
+	#Nombre de fichiers lus
 	lengthAllFiles = len(listAllFiles)
+	#L'ensemble des attributs du contexte
+	setOfAttributes = set()
+	#L'ensemble des attributs modifiés du contexte
+	setFormated = set()
+	#L'expression régulière des attributs possibles des différents textes
+	if (inputAttributes == "arts"):
+		expre = expreAttribute()
+	elif(inputAttributes == "artsdocs"):
+		print "lol"
+		expre = expreAttribute()+'|'+regex.exprReguliereDecision()
+	else:
+		print "choix non reconnu. Choix possibles : 'arts' 'docs' 'artsdocs'"
+		expre = expreAttribute()
+	#Compteur de fichiers lus 
 	i = 0
+	#Lecture des fichiers pour lister les attributs
 	for dfile in listAllFiles:
 		f = open(dfile,'r')
+		#Enlever les sauts de lignes dûs au copier/coller du pdf
 		data = ' '.join([line.rstrip() for line in f])
+		#Pour chaque expression trouvée dans le texte
 		for m in re.finditer(expre, data):
+			#Expression réguliere
 			attributFormated = m.group(0)
+			#Lissage de l'expression :
+			#Enlever les accents
 			attributFormated = regex.removeAccent(attributFormated)
+			#Corriger les erreurs potentielles
 			attributFormated = correctSyntaxe(attributFormated)
+			attributFormated = regex.supprNumero(attributFormated)
 			setOfAttributes.add(attributFormated)
-		i = i + 1
+		i = i + 0.5
 		if i%100==0:
-			print str(i)+' fichiers lus sur '+str(lengthAllFiles*2)
-	print len(setOfAttributes)
-	matrixAttribute = []
-	listFiles = []
+			print str(int(i))+' fichiers lus sur '+str(lengthAllFiles)
+	#Modification des attributs pour éviter les doublons
 	setOfAttributes = list(setOfAttributes)
-	setFormated = set()
 	for item in setOfAttributes:
-		if line[0]!='n':
-			setFormated.add(regex.formatArticle(item))
+		setFormated.add(regex.formatArticle(item))
 	setFormated =  list(setFormated)
-	print len(setFormated)
+	#Nombre d'attributs dans le contexte
 	lenset = len(setFormated)
+	#Construction du contexte
 	for dfile in listAllFiles:
 		f = open(dfile, 'r')
 		data = ' '.join([line.rstrip() for line in f])
+		#Lister les documents pour la construction du contexte
 		listFiles.append(regex.nomDocument(dfile))
+		#Construction d'une ligne du contexte
 		nuplet = (False,)*lenset
 		listuple = list(nuplet)
+		#Pour chaque expression
 		for m in re.finditer(expre, data):
 			attributFormated = m.group(0)
+			#Formater l'expression régulière
 			attributFormated = regex.removeAccent(attributFormated)
 			attributFormated = correctSyntaxe(attributFormated)
+			attributFormated = regex.supprNumero(attributFormated)
+			#Trouver l'indice de l'attribut
 			index = setFormated.index(regex.formatArticle(attributFormated))
+			#Mettre à jour la valeur
 			listuple[index] = True
-		i = i + 1
+		i = i + 0.5
 		if i%100==0:
-			print str(i)+' fichiers lus sur '+str(lengthAllFiles*2)
+			print str(int(i))+' fichiers lus sur '+str(lengthAllFiles)
 		nuplet = tuple(listuple)
+		#Ajoute le nouvel objet au contexte
 		matrixAttribute.append(nuplet)
+	print str(int(i))+' fichiers lus sur '+str(lengthAllFiles)
+	#Sauvegarde les attributs dans un txt
 	writeAttributes(setFormated)
+	#sauvegarde le contexte dans un json
 	exportContext(listFiles,setFormated,matrixAttribute)
 	c = Context(listFiles,setFormated,matrixAttribute)
 	print "construction de la lattice. Cela peut prendre quelques instants"
 	c.lattice.graphviz(view=True)
+	#Sauvegarde le contexte dans un txt
 	writeConcepts(c.lattice)
 	c.tofile('saveLattice.txt',frmat='cxt',encoding='utf-8')
 
-buildLattice()
+if(len(sys.argv)==2):
+	if(len(sys.argv)>=3):
+		buildLattice(sys.argv[1],sys.argv[2])
+	else:
+		buildLattice(sys.argv[1])
+else:
+	buildLattice()
 #print (regex.expreReguliereCode())
 
 
