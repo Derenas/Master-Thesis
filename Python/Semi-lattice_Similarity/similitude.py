@@ -6,23 +6,27 @@ Created on 9 mars 2016
 '''
 
 import re
+import sys
 
-def similitude():
-	f = open('Semi-lattice_Similarity/concepts.txt','r')
-	res = open('similarite.txt','w')
-	expre = r"\((\'[0-9]{2}(a|d|mc|soa|da)[0-9]{2}\.txt\'(, )?){2,15}\)"
-	print expre
+def similitude(name, numberOfSim):
+	f = open('latticeEtContext/concepts'+name+'.txt','r')
+	res = open('latticeEtContext/similarite'+name+'.txt','w')
+	expre = r"\((\'[0-9]{2}(a|d|mc|soa|da)[0-9]{2}\'(, )?){2,18}\)"
 	for line in f.readlines():
-		#print line
 		m = re.search(expre,line)
 		if m is not None:
 			newline = line[m.end():]
-			#print newline
 			count = newline.count(',')
-			if count > 6:
+			if count > numberOfSim-2:
 				res.write(str(count+1)+'\n'+line)
 	f.close()
 	res.close()
 
 
-similitude()
+if(len(sys.argv)>=2):
+	if(len(sys.argv)>=3):
+		similitude(sys.argv[1],int(sys.argv[2]))
+	else:
+		similitude(sys.argv[1],10)
+else:
+	similitude("WithoutPS",10)

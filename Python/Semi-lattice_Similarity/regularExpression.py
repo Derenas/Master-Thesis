@@ -42,12 +42,13 @@ def expreReguliereArticle():
 #Formate les articles retrouvés pour éviter les redondances
 def formatArticle(article):
 	res = article
-	res = re.sub('C','c',res)
 	res = re.sub(' et suivants ',' ',res)
-	res = re.sub('Livre','livre',res)
 	res = re.sub('\. ','.',res)
 	res = re.sub(' ','.',res)
 	res = re.sub('\.',' ',res)
+	res = re.sub('du commerce','de commerce',res)
+	res = re.sub('du travail','de travail',res)
+	res = res.lower()
 	return res
 
 # retourne l'expression reguliere d'une date : XX mois XXXX
@@ -103,7 +104,7 @@ def rechercherMot(file, mot):
 def rechercherMots(mots):
 	i = 0
 	for mot in mots:
-		f = open(mot+'.txt','w')
+		f = open("search/"+mot+'.txt','w')
 		files = fg.getAllFiles()
 		for file in files:
 			lines = rechercherMot(file,mot)	

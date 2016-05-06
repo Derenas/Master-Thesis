@@ -11,13 +11,13 @@ text = ' '.join([line.rstrip() for line in f])
 tokenizer = nltk.data.load('tokenizers/punkt/french.pickle')
 
 tokens = tokenizer.tokenize(text)
-
+print tokens
 #wordtokenizer = TreebankWordTokenizer()
 wordtokenizer = WordPunctTokenizer()
-
 wlist =[]
 for token in tokens:
 	wtoken = wordtokenizer.tokenize(token)
+	print wtoken
 	wlist.append(wtoken)
 	
 res = io.open('res.txt','w',encoding='utf-8')

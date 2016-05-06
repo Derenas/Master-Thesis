@@ -12,18 +12,19 @@ from concepts import Context
 import graphviz
 import filesGetter as fg
 import sys
+import roman
 
 #Ecrit la liste des attributs dans un fichier externe
-def writeAttributes(liste):
-	res = open('attributes.txt','w')
+def writeAttributes(liste,name):
+	res = open('latticeEtContext/attributes'+name+'.txt','w')
 	res.write("nombre d'attributs : "+str(len(liste))+'\n')
 	for item in liste:
 		res.write(item+'\n')
 	res.close()
 
 #Ecrit la liste des concepts et leur nombre dans un fichier externe
-def writeConcepts(lattice):
-	res = open('conceptsartdoc.txt','w')
+def writeConcepts(lattice,name):
+	res = open('latticeEtContext/concepts'+name+'.txt','w')
 	i = 0
 	listeconcepts = []
 	for extent, intent in lattice:
@@ -36,6 +37,7 @@ def writeConcepts(lattice):
 
 #Corrige les fautes faites par les rédacteurs des décisions
 #sert à formater les attributs
+# sert à rien pour l'instant
 def correctSyntaxe(attribut):
 	if attribut == 'code du commerce':
 		return 'code de commerce'
@@ -51,8 +53,8 @@ def expreAttribute():
 
 
 #exporte le context en json pour pouvoir l'utiliser sur une application
-def exportContext(objects,attributes,matrix):
-	res = open('lattice.json','w')
+def exportContext(objects,attributes,matrix,name):
+	res = open('latticeEtContext/lattice'+name+'.json','w')
 	#creation d'une liste de dictionnaire
 	json = []
 	#creation du premier dictionnaire de json
@@ -104,16 +106,57 @@ def getAllTrue(objet):
 	#print res
 	return res
 
+def developAttribute(attribute):
+	developpedList = []
+	code = ""
+	developpedList.append(attribute.lower())
+	m = re.search('du code',attribute)
+	if m is not None:
+		art = attribute[:m.start()]
+		code = attribute[m.start()+3:]
+	developpedList.append(code.lower())
+	if attribute[1] == " ":
+		ind = art.rfind('-') 
+		while(ind!=-1):
+			art = art[:ind]
+			developpedList.append(art+" du "+code)
+			ind = art.rfind('-')
+		#print attribute,code.lower()
+		if attribute[2] == "0":
+			livre = "Livre 0 du "+code
+		else:
+			livre = "Livre "+roman.toRoman(int(attribute[2]))+" du "+code
+		developpedList.append(livre.lower())
+		if attribute[3].isdigit():
+			if attribute[3] == "0":
+				titre = "Titre 0 du "+livre
+			else:
+				titre = "Titre "+roman.toRoman(int(attribute[3]))+" du "+livre
+			developpedList.append(titre.lower())
+	return developpedList
+
+def buildAttributes(setOfAttributes):
+	setRes = set()
+	for attribute in setOfAttributes:
+		setOfDeclension = developAttribute(attribute)
+		for att in setOfDeclension:
+			setRes.add(att)
+	return setRes
+
+
 #Construit la lattice à partir de documents
-def buildLattice(inputFiles = "dec", inputAttributes = "artsdocs"):
-	print inputFiles, inputAttributes
+def buildLattice(pattern = True, inputFiles = "dec", inputAttributes = "arts"):
+	if pattern == True:
+		name = "WithPS"
+	else:
+		name = "WithoutPS"
+	print inputFiles, inputAttributes, name
 	#Le contexte a construire
 	matrixAttribute = []
 	#
 	listFiles = []
 	#Liste des fichiers lus pour construire le contexte
 	if(inputFiles == "dec"):
-		print "cuocou"
 		listAllFiles = fg.getAllDecisions()
 	elif(inputFiles == "avis"):
 		listAllFiles = fg.getAllAvis()
@@ -132,7 +175,6 @@ def buildLattice(inputFiles = "dec", inputAttributes = "artsdocs"):
 	if (inputAttributes == "arts"):
 		expre = expreAttribute()
 	elif(inputAttributes == "artsdocs"):
-		print "lol"
 		expre = expreAttribute()+'|'+regex.exprReguliereDecision()
 	else:
 		print "choix non reconnu. Choix possibles : 'arts' 'docs' 'artsdocs'"
@@ -160,11 +202,16 @@ def buildLattice(inputFiles = "dec", inputAttributes = "artsdocs"):
 			print str(int(i))+' fichiers lus sur '+str(lengthAllFiles)
 	#Modification des attributs pour éviter les doublons
 	setOfAttributes = list(setOfAttributes)
+
 	for item in setOfAttributes:
 		setFormated.add(regex.formatArticle(item))
-	setFormated =  list(setFormated)
+	if pattern == True:
+		developAttributes = buildAttributes(setFormated)
+		setFormated =  list(developAttributes)
+
 	#Nombre d'attributs dans le contexte
 	lenset = len(setFormated)
+	print str(lenset)
 	#Construction du contexte
 	for dfile in listAllFiles:
 		f = open(dfile, 'r')
@@ -181,10 +228,20 @@ def buildLattice(inputFiles = "dec", inputAttributes = "artsdocs"):
 			attributFormated = regex.removeAccent(attributFormated)
 			attributFormated = correctSyntaxe(attributFormated)
 			attributFormated = regex.supprNumero(attributFormated)
-			#Trouver l'indice de l'attribut
-			index = setFormated.index(regex.formatArticle(attributFormated))
-			#Mettre à jour la valeur
-			listuple[index] = True
+			attributFormated = regex.formatArticle(attributFormated)
+			#Si pattern, on découpe chaque attribut
+			if pattern == True:
+				listAtt = developAttribute(attributFormated)
+				for item in listAtt:
+					#Trouver l'indice de l'attribut
+					index = setFormated.index(item)
+					#Mettre à jour la valeur
+					listuple[index] = True
+			#Sinon on cherche juste les attributs
+			else:
+				index = setFormated.index(attributFormated)
+				listuple[index] = True
+
 		i = i + 0.5
 		if i%100==0:
 			print str(int(i))+' fichiers lus sur '+str(lengthAllFiles)
@@ -193,19 +250,22 @@ def buildLattice(inputFiles = "dec", inputAttributes = "artsdocs"):
 		matrixAttribute.append(nuplet)
 	print str(int(i))+' fichiers lus sur '+str(lengthAllFiles)
 	#Sauvegarde les attributs dans un txt
-	writeAttributes(setFormated)
+	writeAttributes(setFormated,name)
 	#sauvegarde le contexte dans un json
-	exportContext(listFiles,setFormated,matrixAttribute)
+	exportContext(listFiles,setFormated,matrixAttribute,name)
 	c = Context(listFiles,setFormated,matrixAttribute)
 	print "construction de la lattice. Cela peut prendre quelques instants"
 	c.lattice.graphviz(view=True)
 	#Sauvegarde le contexte dans un txt
-	writeConcepts(c.lattice)
-	c.tofile('saveLattice.txt',frmat='cxt',encoding='utf-8')
+	writeConcepts(c.lattice,name)
+	c.tofile('latticeEtContext/saveLatticeWithPS.txt',frmat='cxt',encoding='utf-8')
 
-if(len(sys.argv)==2):
+if(len(sys.argv)>=2):
 	if(len(sys.argv)>=3):
-		buildLattice(sys.argv[1],sys.argv[2])
+		if(len(sys.argv)>=4):
+			buildLattice(sys.argv[1],sys.argv[2],sys.argv[3])
+		else:
+			buildLattice(sys.argv[1],sys.argv[2])
 	else:
 		buildLattice(sys.argv[1])
 else:
