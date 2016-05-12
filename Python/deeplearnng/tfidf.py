@@ -8,6 +8,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.stem import SnowballStemmer
 from nltk.tokenize import WordPunctTokenizer
 import operator
+from sklearn.cluster import KMeans
+import numpy
 
 def loadStopWords():
 	french_stop_words = []
@@ -80,6 +82,12 @@ def writeFeatures(feature_names,name):
 		for name in feature_names:
 			outfile.write(name+'\n')
 
+def saveMatrix(matrix,name):
+
+	numpMatrix = numpy.matrix(matrix)
+
+	numpMatrix.dump(name)
+
 def writeMatrix(matrix,name):
 	with io.open(name,'w',encoding='utf-8') as outfile:
 
@@ -127,7 +135,14 @@ def buildDictionnary(path):
 			lowers = text.lower()
 			no_punctuation = lowers.translate(None, string.punctuation)
 			dicoToken[file] = no_punctuation
+	with open('listDoc.txt','w') as outfile:
+		for vals in dicoToken.keys():
+			outfile.write(vals[:-4]+'\n')	
 	return dicoToken
+
+def clusteringTFIDf(matrix):
+	kmeans = KMeans(n_clusters=2)
+	print kmeans.fit_predict(matrix)
 
 def tfidf(writeDoc=False,writeMatrix=False):
 	path = '../../../Avis_Decisions/pdftotext/Decisions'
@@ -146,6 +161,12 @@ def tfidf(writeDoc=False,writeMatrix=False):
 		writeFrequencyByDocuments(tfs,token_dict,'restfidf/tfidf')
 
 	tenMaxColumns(tfs,token_dict,features)
+
+	clusteringTFIDf(tfs)
+
+	saveMatrix(tfs,"tf_idf.dat")
+
+
 
 #Programme
 stemmer = SnowballStemmer('french')
