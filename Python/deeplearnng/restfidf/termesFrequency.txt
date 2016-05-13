@@ -3,7 +3,7 @@ cofrac:0.188 - techniqu:0.217 - dekr:0.245 - desriac:0.219 - centr:0.378 - lourd
 13d01.txt
 sommital:0.24 - concentr:0.093 - group:0.171 - arpeg:0.425 - l’associ:0.083 - fusion:0.075 - prévoi:0.075 - réunic:0.753 - 2010:0.072 - gi:0.1 - 
 01d02.txt
-sudouest:0.286 - central:0.224 - bme:0.232 - ame:0.262 - bitumin:0.247 - screg:0.174 - enrob:0.458 - cub:0.221 - crégut:0.389 - denrob:0.15 - 
+sudouest:0.286 - central:0.224 - bme:0.233 - ame:0.262 - bitumin:0.247 - screg:0.174 - enrob:0.458 - cub:0.221 - crégut:0.389 - denrob:0.15 - 
 04d13.txt
 fromag:0.177 - societ:0.174 - group:0.099 - cot:0.129 - accord:0.106 - cav:0.367 - roquefort:0.686 - templi:0.102 - alric:0.107 - promod:0.103 - 
 98d45.txt
@@ -17,7 +17,7 @@ abopress:0.186 - dna:0.198 - strasbourg:0.243 - dépositair:0.21 - diffuseur:0.2
 07d32.txt
 protocol:0.263 - complémentair:0.122 - rémuner:0.223 - saemtp:0.193 - diffuseur:0.426 - messager:0.174 - sndp:0.143 - press:0.28 - »:0.123 - nmpp:0.388 - 
 98mc16.txt
-iledefr:0.347 - cocherybourdin:0.193 - normand:0.374 - bitumin:0.195 - d’enrob:0.16 - fton:0.171 - screg:0.228 - calvados:0.207 - deval:0.41 - col:0.211 - 
+iledefr:0.347 - cocherybourdin:0.194 - normand:0.374 - bitumin:0.195 - d’enrob:0.16 - fton:0.171 - screg:0.228 - calvados:0.207 - deval:0.41 - col:0.211 - 
 07d43.txt
 nucléair:0.212 - march:0.163 - délectr:0.156 - lacquéreur:0.163 - €mwh:0.159 - ciseau:0.146 - prix:0.189 - contrat:0.157 - edf:0.435 - dedf:0.225 - 
 02d06.txt
@@ -53,11 +53,11 @@ télécharg:0.246 - apple:0.237 - baladeur:0.496 - fairplay:0.134 - drm:0.393 - 
 01d81.txt
 d’éven:0.149 - télévis:0.185 - diffuseur:0.543 - cfdt:0.16 - vidéomobil:0.126 - d’un:0.112 - abus:0.111 - sportif:0.257 - prestatair:0.278 - l’alleg:0.136 - 
 99d38.txt
-conseil:0.108 - societ:0.096 - process:0.483 - 888:0.205 - solaronic:0.632 - guedj:0.117 - concurrent:0.108 - 99d38:0.167 - electr:0.186 - class:0.099 - 
+conseil:0.108 - societ:0.096 - process:0.482 - 888:0.205 - solaronic:0.632 - guedj:0.117 - concurrent:0.108 - 99d38:0.167 - electr:0.186 - class:0.099 - 
 01d47.txt
 energ:0.497 - societ:0.11 - edf:0.131 - 1172:0.199 - concurrent:0.115 - 99mc09:0.121 - 01d47:0.127 - bigorr:0.627 - désist:0.184 - 99d02:0.116 - 
 99d01.txt
-dcm:0.572 - 1994:0.085 - référenc:0.079 - club:0.151 - dickinson:0.408 - societ:0.095 - franchis:0.248 - médical:0.23 - distr:0.259 - becton:0.417 - 
+dcm:0.572 - 1994:0.084 - référenc:0.079 - club:0.151 - dickinson:0.408 - societ:0.095 - franchis:0.248 - médical:0.23 - distr:0.259 - becton:0.417 - 
 00d26.txt
 sdep:0.272 - 1994:0.226 - sauni:0.218 - duval:0.207 - 1:0.139 - lot:0.434 - electr:0.165 - d’offr:0.139 - etde:0.354 - scle:0.14 - 
 00d84.txt
@@ -71,9 +71,9 @@ d’assain:0.222 - syndicat:0.135 - déleg:0.107 - prédateur:0.136 - 1256:0.155
 05d33.txt
 ristourn:0.178 - fournisseur:0.15 - lilec:0.522 - négoci:0.161 - l’ilec:0.201 - luc:0.533 - adhérent:0.148 - central:0.104 - »:0.132 - «:0.137 - 
 01d31.txt
-jeanneau:0.171 - march:0.132 - traploir:0.138 - spietrindel:0.158 - sauni:0.133 - allez:0.238 - mainguy:0.631 - garczynsk:0.152 - bordereau:0.157 - robin:0.171 - 
+jeanneau:0.171 - march:0.132 - traploir:0.138 - spietrindel:0.158 - sauni:0.133 - allez:0.239 - mainguy:0.631 - garczynsk:0.152 - bordereau:0.157 - robin:0.171 - 
 97d52.txt
-protocol:0.33 - sgebtp:0.301 - temporair:0.316 - intérim:0.286 - savoi:0.274 - entrepris:0.134 - travail:0.229 - bât:0.136 - liser:0.306 - ecco:0.142 - 
+protocol:0.33 - sgebtp:0.301 - temporair:0.315 - intérim:0.286 - savoi:0.274 - entrepris:0.134 - travail:0.229 - bât:0.136 - liser:0.306 - ecco:0.142 - 
 00d23.txt
 barreau:0.426 - l’ordr:0.142 - honorair:0.133 - l’avocat:0.199 - bâtonni:0.126 - fallion:0.167 - cscv:0.165 - avocat:0.378 - bonnevill:0.55 - d’honorair:0.136 - 
 08d25.txt
@@ -109,13 +109,13 @@ salon:0.372 - gilot:0.222 - merceron:0.241 - pemzec:0.206 - gimbert:0.222 - conc
 04d64.txt
 électrodomest:0.27 - mf:0.144 - vent:0.18 - cas:0.119 - m€:0.132 - caprofem:0.699 - 2001:0.143 - sfac:0.175 - pai:0.139 - societ:0.144 - 
 92d54.txt
-pierrefeuduvar:0.274 - digneslesbain:0.274 - cfdt:0.208 - fréquenc:0.216 - laudiovisuel:0.197 - compssurartuby:0.274 - pac:0.186 - liman:0.274 - provencealpescôt:0.193 - paysann:0.25 - 
+pierrefeuduvar:0.275 - digneslesbain:0.275 - cfdt:0.208 - fréquenc:0.216 - laudiovisuel:0.197 - compssurartuby:0.275 - pac:0.186 - liman:0.275 - provencealpescôt:0.193 - paysann:0.25 - 
 14d06.txt
 euris:0.358 - don:0.134 - bas:0.127 - laboratoir:0.145 - «:0.096 - onekey:0.382 - logiciel:0.11 - cegedim:0.66 - »:0.098 - crm:0.177 - 
 08d29.txt
 societ:0.081 - march:0.128 - girod:0.545 - per:0.07 - smab:0.621 - appel:0.077 - d’un:0.087 - offre:0.114 - lot:0.296 - d’offr:0.153 - 
 99d75.txt
-1094:0.289 - franc:0.209 - labard:0.171 - societ:0.176 - 1999:0.154 - bus:0.553 - boutard:0.171 - leymoner:0.171 - 99d75:0.204 - publiqu:0.208 - 
+1094:0.289 - franc:0.208 - labard:0.171 - societ:0.176 - 1999:0.154 - bus:0.553 - boutard:0.171 - leymoner:0.171 - 99d75:0.204 - publiqu:0.208 - 
 94d59.txt
 soléiad:0.656 - syndicat:0.128 - larticl:0.108 - drôm:0.343 - laction:0.109 - 94d59:0.104 - 693:0.128 - boulanger:0.279 - bedouin:0.109 - départemental:0.109 - 
 96d14.txt
@@ -151,7 +151,7 @@ canal:0.13 - group:0.11 - télévis:0.124 - tp:0.341 - itel:0.623 - 2003:0.108 -
 13d11.txt
 sant:0.116 - plavix®:0.432 - clopidogrel:0.339 - sanofiavent:0.458 - «:0.148 - médic:0.126 - 090117:0.255 - géner:0.272 - »:0.127 - sel:0.12 - 
 96d11.txt
-cooper:0.125 - concurrent:0.139 - agricol:0.557 - négoc:0.401 - d’av:0.269 - pme:0.189 - 96d11:0.179 - féder:0.197 - 172:0.15 - d’approvision:0.143 - 
+cooper:0.125 - concurrent:0.139 - agricol:0.556 - négoc:0.401 - d’av:0.269 - pme:0.189 - 96d11:0.179 - féder:0.197 - 172:0.15 - d’approvision:0.143 - 
 97d90.txt
 intégral:0.199 - boul:0.83 - societ:0.08 - sportboul:0.179 - ffsb:0.273 - magazin:0.082 - féder:0.077 - lyonnais:0.083 - sport:0.077 - compétit:0.1 - 
 98mc08.txt
@@ -177,23 +177,23 @@ produit:0.12 - societ:0.077 - prothes:0.223 - cap:0.077 - dentair:0.294 - dent:0
 91d60.txt
 cultiv:0.145 - agricol:0.142 - p:0.101 - couch:0.195 - frais:0.106 - champignon:0.727 - fnsacc:0.275 - féder:0.117 - lyophilis:0.092 - circulair:0.108 - 
 00d67.txt
-march:0.191 - télévis:0.213 - m6:0.168 - médi:0.254 - publiqu:0.241 - annonceur:0.228 - télévisuel:0.144 - chaîn:0.184 - part:0.156 - tf1:0.583 - 
+march:0.191 - télévis:0.213 - m6:0.168 - médi:0.254 - publiqu:0.241 - annonceur:0.228 - télévisuel:0.144 - chaîn:0.184 - part:0.156 - tf1:0.584 - 
 97d04.txt
 pontivyen:0.133 - pomp:0.28 - saintthuriau:0.254 - pontivy:0.456 - funebr:0.306 - chambr:0.166 - corp:0.12 - funérair:0.375 - beaudr:0.351 - etabl:0.169 - 
 98d71.txt
 tat:0.223 - conseil:0.143 - navig:0.285 - prescript:0.148 - air:0.286 - sofipost:0.277 - 98d71:0.157 - syndical:0.176 - inter:0.184 - l’union:0.169 - 
 93d13.txt
-dexposit:0.153 - deurexpo:0.106 - salon:0.442 - societ:0.124 - latmrp:0.258 - lp:0.127 - sepic:0.425 - sepel:0.212 - manutent:0.461 - entrepris:0.106 - 
+dexposit:0.153 - deurexpo:0.106 - salon:0.442 - societ:0.125 - latmrp:0.258 - lp:0.127 - sepic:0.425 - sepel:0.212 - manutent:0.461 - entrepris:0.106 - 
 03d18.txt
 glem:0.185 - cinémathequ:0.164 - gaumont:0.142 - lin:0.55 - fiction:0.098 - archiv:0.435 - programm:0.1 - path:0.115 - audiovisuel:0.319 - societ:0.094 - 
 02d09.txt
-a:0.113 - conseil:0.113 - cour:0.135 - infract:0.173 - consider:0.115 - prescript:0.308 - acte:0.131 - part:0.108 - post:0.135 - sfmi:0.516 - 
+a:0.113 - conseil:0.113 - cour:0.135 - infract:0.173 - consider:0.116 - prescript:0.308 - acte:0.131 - part:0.108 - post:0.135 - sfmi:0.516 - 
 05d16.txt
 sacd:0.706 - d’auteur:0.161 - statut:0.086 - dramat:0.154 - percept:0.086 - droit:0.267 - auteur:0.173 - gestion:0.137 - d’un:0.116 - audiovisuel:0.251 - 
 95d66.txt
 doffr:0.164 - sac:0.287 - centreouest:0.298 - scregouest:0.341 - screg:0.163 - lot:0.368 - cum:0.166 - scr:0.277 - col:0.318 - man:0.295 - 
 90d42.txt
-1987:0.121 - societ:0.15 - vent:0.115 - 1988:0.15 - p:0.179 - sony:0.678 - 100:0.161 - distributeur:0.138 - semavem:0.15 - chapel:0.184 - 
+1987:0.121 - societ:0.15 - vent:0.115 - 1988:0.15 - p:0.179 - sony:0.678 - 100:0.161 - distributeur:0.137 - semavem:0.15 - chapel:0.184 - 
 00mc09.txt
 comput:0.312 - électron:0.138 - entertainment:0.591 - consol:0.169 - interact:0.165 - jpf:0.291 - jeux:0.209 - eidos:0.313 - vidéo:0.23 - sony:0.267 - 
 94d02.txt
@@ -207,17 +207,17 @@ produit:0.156 - syndicat:0.119 - surfac:0.112 - marg:0.124 - pharmac:0.109 - p:0
 93mc05.txt
 drôm:0.175 - violenc:0.115 - conservatoir:0.14 - agricol:0.124 - mesur:0.158 - légum:0.369 - fruit:0.277 - import:0.202 - féder:0.332 - ladopt:0.116 - 
 01d07.txt
-sant:0.158 - pharmacien:0.169 - cerp:0.455 - d’ocp:0.192 - orp:0.177 - pharm:0.158 - rouen:0.277 - schulz:0.197 - ocp:0.438 - allianc:0.143 - 
+sant:0.158 - pharmacien:0.169 - cerp:0.455 - d’ocp:0.192 - orp:0.178 - pharm:0.158 - rouen:0.277 - schulz:0.197 - ocp:0.438 - allianc:0.143 - 
 91d31.txt
-hond:0.751 - marqu:0.139 - 1987:0.154 - dynamic:0.136 - p:0.14 - concessionnair:0.2 - dmsa:0.21 - contrat:0.123 - 100:0.119 - véhicul:0.135 - 
+hond:0.751 - marqu:0.139 - 1987:0.154 - dynamic:0.136 - p:0.14 - concessionnair:0.2 - dmsa:0.21 - contrat:0.122 - 100:0.119 - véhicul:0.135 - 
 91d19.txt
-lordon:0.11 - societ:0.114 - sousmarin:0.261 - scubapro:0.603 - pineau:0.136 - 91d19:0.159 - prôn:0.114 - irrecev:0.105 - 375:0.151 - plong:0.384 - 
+lordon:0.11 - societ:0.115 - sousmarin:0.261 - scubapro:0.603 - pineau:0.136 - 91d19:0.159 - prôn:0.114 - irrecev:0.105 - 375:0.151 - plong:0.384 - 
 03d66.txt
-renault:0.439 - twingo:0.278 - scenic:0.159 - lagun:0.156 - budget:0.166 - gcr:0.278 - concessionnair:0.284 - véhicul:0.189 - fronti:0.24 - spe:0.15 - 
+renault:0.439 - twingo:0.278 - scenic:0.159 - lagun:0.156 - budget:0.166 - gcr:0.278 - concessionnair:0.284 - véhicul:0.189 - fronti:0.241 - spe:0.15 - 
 05d41.txt
 animaler:0.323 - format:0.369 - toilettag:0.11 - audreco:0.248 - graineter:0.147 - d’habilit:0.113 - cfppa:0.11 - cqp:0.312 - jardiner:0.346 - cpnefp:0.45 - 
 95d02.txt
-lordon:0.225 - iledefr:0.17 - oeuvr:0.159 - btp:0.203 - isof:0.308 - 95d02:0.163 - wann:0.296 - francheteau:0.154 - cass:0.149 - nanterr:0.176 - 
+lordon:0.224 - iledefr:0.17 - oeuvr:0.159 - btp:0.203 - isof:0.308 - 95d02:0.163 - wann:0.296 - francheteau:0.154 - cass:0.149 - nanterr:0.176 - 
 94d32.txt
 produit:0.084 - coiffur:0.641 - salon:0.181 - franchiseur:0.154 - david:0.322 - franchis:0.408 - jeanlou:0.319 - réseau:0.094 - savoirfair:0.064 - gérom:0.227 - 
 99d70.txt
@@ -229,7 +229,7 @@ mutual:0.196 - laboratoir:0.335 - danalys:0.376 - marn:0.335 - conservatoir:0.10
 09d10.txt
 cmn:0.166 - passager:0.15 - lign:0.192 - navir:0.203 - corsic:0.213 - cors:0.306 - ferr:0.141 - sncm:0.579 - marseil:0.123 - offre:0.124 - 
 96d53.txt
-larticl:0.095 - cours:0.268 - dun:0.103 - allo:0.579 - tax:0.435 - standard:0.09 - cann:0.224 - station:0.219 - laport:0.143 - societ:0.123 - 
+larticl:0.095 - cours:0.268 - dun:0.102 - allo:0.579 - tax:0.435 - standard:0.09 - cann:0.224 - station:0.219 - laport:0.143 - societ:0.123 - 
 98d80.txt
 madam:0.209 - 16:0.163 - d’av:0.202 - 1998:0.15 - l’associ:0.315 - n°°861309:0.202 - secour:0.482 - 98d80:0.202 - 69:0.247 - 221:0.264 - 
 94d52.txt
@@ -243,13 +243,13 @@ societ:0.166 - «:0.207 - revendeur:0.129 - «retent:0.096 - plus:0.096 - pénur
 97d40.txt
 dagen:0.302 - aart:0.151 - lassoci:0.201 - tax:0.445 - boudignon:0.143 - guimon:0.251 - agen:0.182 - allô:0.238 - radio:0.144 - radiotéléphon:0.158 - 
 95d44.txt
-delhomm:0.366 - hospitali:0.258 - centr:0.152 - perbost:0.367 - saintgauden:0.415 - sanitair:0.192 - lacroix:0.237 - fil:0.149 - transport:0.199 - etabl:0.229 - 
+delhomm:0.367 - hospitali:0.258 - centr:0.152 - perbost:0.367 - saintgauden:0.415 - sanitair:0.192 - lacroix:0.237 - fil:0.149 - transport:0.199 - etabl:0.229 - 
 95d41.txt
 societ:0.113 - tp:0.398 - bonicol:0.612 - ferr:0.201 - caltran:0.315 - offre:0.097 - lot:0.161 - frer:0.122 - couren:0.289 - redland:0.142 - 
 98d53.txt
 secodip:0.302 - vérimédi:0.196 - médiamat:0.208 - audipub:0.237 - médi:0.268 - ●:0.148 - pig:0.22 - médiametr:0.492 - publicitair:0.157 - d’audienc:0.226 - 
 92d61.txt
-syndicat:0.213 - societ:0.118 - pain:0.332 - nic:0.092 - scolair:0.155 - boulanger:0.541 - arc:0.465 - pâtissi:0.221 - alpesmaritim:0.148 - écol:0.167 - 
+syndicat:0.213 - societ:0.118 - pain:0.332 - nic:0.093 - scolair:0.155 - boulanger:0.541 - arc:0.465 - pâtissi:0.221 - alpesmaritim:0.148 - écol:0.167 - 
 95mc09.txt
 franc:0.124 - catalogu:0.302 - societ:0.201 - 1995:0.161 - revendeur:0.14 - diffus:0.121 - conservatoir:0.104 - sony:0.52 - jean:0.243 - chapel:0.354 - 
 08d30.txt
@@ -263,7 +263,7 @@ franc:0.124 - bat:0.166 - batternetix:0.362 - dun:0.132 - edismart:0.298 - logic
 94d28.txt
 komet:0.262 - brassel:0.412 - diamant:0.262 - cm:0.335 - dental:0.497 - dentair:0.238 - instrument:0.207 - societ:0.131 - diadent:0.112 - rotat:0.176 - 
 99d48.txt
-boscariol:0.168 - central:0.275 - bourgogn:0.183 - béton:0.471 - zon:0.11 - granulat:0.228 - redland:0.383 - malesherb:0.241 - nemour:0.145 - unimix:0.244 - 
+boscariol:0.168 - central:0.275 - bourgogn:0.183 - béton:0.47 - zon:0.11 - granulat:0.228 - redland:0.383 - malesherb:0.241 - nemour:0.145 - unimix:0.244 - 
 96d50.txt
 campagn:0.119 - societ:0.194 - bouvard:0.365 - «:0.134 - officiel’com:0.415 - hrp:0.189 - erg:0.528 - méti:0.159 - »:0.12 - chambr:0.141 - 
 90d52.txt
@@ -273,13 +273,13 @@ march:0.134 - cpn:0.221 - sit:0.129 - ipodec:0.299 - normand:0.469 - propret:0.1
 15d10.txt
 sit:0.162 - «:0.11 - eiffel:0.287 - tdf:0.721 - tour:0.149 - diffus:0.112 - 070017f:0.134 - »:0.11 - towercast:0.274 - 070018m:0.133 - 
 01d78.txt
-siren:0.536 - rediffu:0.14 - rediffuseur:0.16 - l’inse:0.349 - cegedim:0.193 - ●:0.147 - fichi:0.35 - mail:0.101 - don:0.122 - répertoir:0.377 - 
+siren:0.536 - rediffu:0.14 - rediffuseur:0.16 - l’inse:0.349 - cegedim:0.193 - ●:0.147 - fichi:0.35 - mail:0.101 - don:0.122 - répertoir:0.378 - 
 91d03.txt
-salomon:0.815 - 19871988:0.115 - stag:0.076 - ski:0.22 - chaussur:0.151 - prix:0.085 - nordic:0.135 - contrat:0.139 - distributeur:0.133 - saison:0.077 - 
+salomon:0.815 - 19871988:0.116 - stag:0.076 - ski:0.22 - chaussur:0.151 - prix:0.085 - nordic:0.135 - contrat:0.139 - distributeur:0.133 - saison:0.077 - 
 91d20.txt
-lordon:0.128 - grandperrin:0.557 - larticl:0.132 - yvet:0.196 - madam:0.288 - conservatoir:0.127 - hachet:0.216 - sncf:0.239 - concurrent:0.129 - 397:0.117 - 
+lordon:0.128 - grandperrin:0.557 - larticl:0.131 - yvet:0.196 - madam:0.288 - conservatoir:0.127 - hachet:0.216 - sncf:0.239 - concurrent:0.13 - 397:0.117 - 
 98d06.txt
-bâtonni:0.194 - barreau:0.343 - l’ordr:0.209 - honorair:0.337 - l’avocat:0.128 - 000:0.448 - avocat:0.352 - grenobl:0.226 - 500:0.127 - d’honorair:0.19 - 
+bâtonni:0.194 - barreau:0.343 - l’ordr:0.209 - honorair:0.337 - l’avocat:0.128 - 000:0.448 - avocat:0.352 - grenobl:0.227 - 500:0.127 - d’honorair:0.19 - 
 05d38.txt
 urbain:0.156 - transdev:0.383 - viagt:0.514 - cge:0.223 - cgfte:0.187 - interurbain:0.131 - sodetrav:0.151 - march:0.142 - filial:0.136 - transport:0.172 - 
 95d10.txt
@@ -291,13 +291,13 @@ sacd:0.623 - scénar:0.377 - télévis:0.139 - d’auteur:0.204 - «:0.141 - dro
 08d07.txt
 syndicat:0.179 - smat:0.159 - provenc:0.155 - tax:0.383 - €:0.168 - radio:0.261 - tupp:0.359 - 2007:0.153 - marseil:0.349 - artisan:0.19 - 
 14d13.txt
-stationsservic:0.184 - lubrifi:0.293 - commun:0.229 - eller:0.202 - centim:0.207 - pétroli:0.288 - saintleu:0.445 - compagn:0.16 - carbur:0.327 - remis:0.151 - 
+stationsservic:0.184 - lubrifi:0.293 - commun:0.229 - eller:0.203 - centim:0.207 - pétroli:0.288 - saintleu:0.446 - compagn:0.16 - carbur:0.327 - remis:0.151 - 
 10d11.txt
 sant:0.124 - ophtalmolog:0.309 - lunet:0.1 - opticien:0.472 - «:0.132 - boycott:0.084 - santéclair:0.354 - »:0.137 - maaf:0.221 - snof:0.495 - 
 99d31.txt
 rechang:0.094 - ferodo:0.497 - sun:0.094 - lourd:0.119 - abex:0.679 - garnitur:0.264 - kemp:0.109 - frein:0.176 - poid:0.113 - freinag:0.173 - 
 99d37.txt
-oper:0.176 - afopt:0.347 - 1041:0.341 - français:0.142 - 1999:0.159 - l’associ:0.329 - conseil:0.137 - télécommun:0.379 - 99d37:0.211 - priv:0.219 - 
+oper:0.176 - afopt:0.347 - 1041:0.341 - français:0.142 - 1999:0.16 - l’associ:0.329 - conseil:0.137 - télécommun:0.379 - 99d37:0.211 - priv:0.219 - 
 01d76.txt
 conseil:0.124 - societ:0.138 - satellit:0.186 - 1277:0.262 - hot:0.612 - 01d76:0.159 - grand:0.165 - télédiffu:0.212 - désist:0.307 - magasin:0.294 - 
 03d04.txt
@@ -323,11 +323,11 @@ d’électr:0.114 - energ:0.143 - societ:0.132 - edf:0.338 - esp:0.128 - 1946:0.
 04d21.txt
 grenoblois:0.081 - pomp:0.183 - intercommunal:0.09 - saempf:0.733 - funebr:0.199 - famill:0.073 - tronch:0.085 - funérair:0.444 - grenobl:0.09 - chambr:0.088 - 
 14d03.txt
-vlaemynck:0.09 - tisseur:0.09 - contractuel:0.096 - serviet:0.199 - mew:0.754 - client:0.142 - d’exclus:0.104 - contrat:0.201 - rvt:0.159 - dur:0.16 - 
+vlaemynck:0.09 - tisseur:0.09 - contractuel:0.096 - serviet:0.199 - mew:0.754 - client:0.142 - d’exclus:0.104 - contrat:0.2 - rvt:0.159 - dur:0.16 - 
 03d40.txt
 chariot:0.154 - ceacexid:0.166 - oldham:0.359 - traction:0.084 - mont:0.072 - societ:0.145 - batter:0.587 - jungheinrich:0.568 - hawk:0.102 - vhb:0.086 - 
 02d60.txt
-dadhes:0.103 - csd:0.631 - statut:0.101 - ●:0.118 - déménageur:0.175 - fid:0.228 - déménag:0.269 - syndical:0.139 - lafd:0.395 - chambr:0.104 - 
+dadhes:0.103 - csd:0.631 - statut:0.101 - ●:0.118 - déménageur:0.175 - fid:0.228 - déménag:0.269 - syndical:0.139 - lafd:0.395 - chambr:0.105 - 
 94d10.txt
 dynov:0.184 - alphacan:0.352 - polyéthylen:0.222 - polyoléfin:0.145 - méridional:0.155 - plastiqu:0.21 - sotr:0.18 - pebd:0.184 - tuyal:0.456 - kulk:0.145 - 
 00d86.txt
@@ -365,7 +365,7 @@ pomp:0.148 - pfi:0.578 - funebr:0.161 - famill:0.145 - corp:0.132 - déces:0.088
 97d58.txt
 chauffeur:0.313 - a:0.156 - court:0.179 - facchin:0.179 - prescript:0.161 - 97d58:0.171 - véhicul:0.194 - jeanclaud:0.166 - léger:0.197 - locat:0.196 - 
 14mc01.txt
-premium:0.133 - vnc:0.194 - top:0.271 - lnr:0.435 - gcp:0.518 - droit:0.147 - saison:0.159 - 2014:0.141 - sport:0.165 - bein:0.265 - 
+premium:0.133 - vnc:0.194 - top:0.271 - lnr:0.436 - gcp:0.518 - droit:0.147 - saison:0.159 - 2014:0.141 - sport:0.165 - bein:0.265 - 
 97d73.txt
 franc:0.145 - club:0.285 - reebok:0.199 - football:0.473 - divis:0.142 - ligu:0.398 - adid:0.421 - lnf:0.166 - national:0.114 - 95mc10:0.187 - 
 02d19.txt
@@ -397,7 +397,7 @@ societ:0.124 - sturm:0.373 - linjonct:0.108 - réun:0.1 - 90d27:0.176 - briqu:0.
 10d26.txt
 coefficient:0.233 - 0240:0.131 - tem:0.249 - 0170:0.136 - eg:0.358 - bérang:0.384 - epm:0.249 - tropin:0.149 - provenc:0.139 - cot:0.138 - 
 01d36.txt
-societ:0.154 - matérial:0.292 - pagot:0.242 - «:0.141 - dijon:0.346 - maggion:0.477 - bloc:0.143 - dor:0.217 - »:0.143 - béton:0.415 - 
+societ:0.154 - matérial:0.292 - pagot:0.242 - «:0.141 - dijon:0.346 - maggion:0.478 - bloc:0.143 - dor:0.217 - »:0.143 - béton:0.414 - 
 98d10.txt
 98d10:0.186 - d’av:0.372 - financ:0.172 - 406483:0.186 - l’industr:0.266 - ministr:0.155 - casinoguichardperrachon:0.319 - 231:0.17 - l’économ:0.191 - promodes:0.275 - 
 93d56.txt
@@ -407,7 +407,7 @@ ristourn:0.169 - societ:0.165 - rentr:0.168 - fx:0.155 - cf:0.158 - tex:0.393 - 
 95d20.txt
 propriet:0.11 - droit:0.125 - rémuner:0.11 - jyd:0.312 - artistesinterpret:0.128 - phonogramm:0.144 - discothequ:0.289 - spre:0.579 - intellectuel:0.149 - bemimafedd:0.329 - 
 05d10.txt
-chouxfleur:0.356 - saintpoldeléon:0.199 - «:0.171 - kampexport:0.171 - cadran:0.265 - cerafel:0.459 - contrat:0.181 - choufleur:0.207 - producteur:0.204 - »:0.176 - 
+chouxfleur:0.356 - saintpoldeléon:0.199 - «:0.171 - kampexport:0.171 - cadran:0.265 - cerafel:0.459 - contrat:0.18 - choufleur:0.207 - producteur:0.204 - »:0.176 - 
 92mc05.txt
 grandsud:0.103 - societ:0.104 - chaux:0.147 - conservatoir:0.088 - béteil:0.086 - meac:0.374 - timac:0.362 - bigorr:0.169 - sochaub:0.584 - 92mc05:0.097 - 
 91d05.txt
@@ -425,7 +425,7 @@ group:0.153 - «:0.188 - uat:0.353 - membr:0.126 - artisan:0.142 - l’admiss:0.
 98d83.txt
 a:0.148 - conseil:0.148 - gaz:0.188 - prescript:0.179 - décembr:0.151 - °:0.265 - annick:0.163 - biolleycoornaert:0.156 - 98d83:0.19 - chauffag:0.212 - 
 99d08.txt
-coefficient:0.13 - central:0.243 - l’academ:0.567 - d’oeuvr:0.171 - d’architectur:0.37 - prix:0.239 - d’un:0.109 - valeur:0.113 - unitair:0.111 - main:0.109 - 
+coefficient:0.13 - central:0.243 - traval:0.109 - l’academ:0.567 - d’oeuvr:0.171 - d’architectur:0.37 - prix:0.239 - valeur:0.113 - unitair:0.111 - main:0.109 - 
 04d62.txt
 claus:0.114 - coupon:0.507 - 02d33:0.157 - «:0.125 - codag:0.172 - banqu:0.098 - gestion:0.246 - sogec:0.615 - réduct:0.112 - »:0.099 - 
 93d60.txt
@@ -445,7 +445,7 @@ srca:0.535 - sainttrop:0.262 - segp:0.535 - dassain:0.13 - dazur:0.101 - canoubi
 03d32.txt
 soupl:0.085 - johnson:0.126 - lsrf:0.102 - opticien:0.207 - acuvu:0.223 - jetabl:0.177 - médical:0.09 - vistakon:0.406 - ophtalmolog:0.07 - lentill:0.764 - 
 00d02.txt
-conseil:0.174 - fertierpotti:0.209 - 00d02:0.255 - d’industr:0.156 - 1093:0.397 - d’azur:0.161 - concurrent:0.173 - societ:0.155 - cit:0.301 - hagelsteen:0.164 - 
+conseil:0.173 - fertierpotti:0.211 - 00d02:0.267 - d’industr:0.155 - 1093:0.4 - d’azur:0.16 - concurrent:0.172 - societ:0.154 - cit:0.299 - hagelsteen:0.163 - 
 99mc04.txt
 ola:0.198 - téléphon:0.267 - march:0.143 - loft:0.203 - franc:0.194 - télécom:0.472 - primal:0.211 - abon:0.263 - distanc:0.154 - mobil:0.293 - 
 00mc16.txt
@@ -453,7 +453,7 @@ societ:0.108 - céphalosporin:0.114 - céfuroxim:0.343 - zinnat:0.439 - coût:0.
 99d41.txt
 offprint:0.185 - syndicat:0.205 - l’impress:0.143 - ayach:0.206 - l’imprimer:0.291 - parisien:0.199 - labeur:0.237 - cilp:0.521 - imprimer:0.307 - press:0.192 - 
 96d20.txt
-metr:0.193 - societ:0.179 - carr:0.232 - carrelag:0.172 - kit:0.163 - comafranc:0.23 - ludr:0.292 - cermiphon:0.284 - carmat:0.331 - desvr:0.523 - 
+metr:0.193 - societ:0.18 - carr:0.232 - carrelag:0.172 - kit:0.163 - comafranc:0.23 - ludr:0.292 - cermiphon:0.284 - carmat:0.331 - desvr:0.523 - 
 96d12.txt
 dobutrex:0.471 - societ:0.111 - vancomycin:0.422 - hospitali:0.105 - franc:0.158 - laboratoir:0.133 - lederl:0.145 - médic:0.305 - dakot:0.125 - lilly:0.424 - 
 07d46.txt
@@ -471,7 +471,7 @@ sprimont:0.642 - conseil:0.104 - carrefour:0.243 - 07:0.168 - 1997:0.161 - boeuf
 08d13.txt
 l’offic:0.074 - march:0.082 - spid:0.674 - mayen:0.105 - anjou:0.085 - servic:0.077 - nettoyag:0.073 - onet:0.538 - offre:0.096 - lot:0.191 - 
 94d50.txt
-lordon:0.188 - dacqu:0.154 - società:0.163 - puymoren:0.154 - 94d50:0.163 - 9117835:0.163 - cass:0.149 - gfa:0.154 - condott:0.154 - nanterr:0.177 - 
+lordon:0.188 - dacqu:0.155 - società:0.163 - puymoren:0.155 - 94d50:0.163 - 9117835:0.163 - cass:0.149 - gfa:0.155 - condott:0.155 - nanterr:0.177 - 
 98d08.txt
 châlonmégard:0.428 - fromager:0.269 - societ:0.094 - microperfor:0.181 - inox:0.095 - comt:0.161 - moul:0.594 - doryl:0.451 - install:0.091 - beuqu:0.176 - 
 05d57.txt
@@ -511,13 +511,13 @@ vent:0.144 - concess:0.136 - rémuner:0.143 - tuxedo:0.273 - prh:0.253 - message
 01d53.txt
 787:0.202 - consider:0.146 - f:0.171 - 798:0.272 - societ:0.174 - fnac:0.25 - sony:0.15 - madelein:0.215 - darty:0.484 - magasin:0.282 - 
 07d40.txt
-saulxuressurmoselott:0.162 - propret:0.18 - veoli:0.162 - sit:0.221 - onyx:0.505 - déchet:0.152 - lorrain:0.185 - d’onyx:0.182 - espac:0.154 - saintdi:0.212 - 
+saulxuressurmoselott:0.162 - propret:0.18 - veoli:0.162 - sit:0.221 - onyx:0.506 - déchet:0.152 - lorrain:0.185 - d’onyx:0.182 - espac:0.154 - saintdi:0.212 - 
 95d86.txt
 cliniqu:0.336 - societ:0.125 - fouger:0.174 - prothes:0.279 - z:0.123 - hades:0.415 - orthoped:0.176 - docteur:0.302 - promat:0.512 - delmed:0.159 - 
 01d77.txt
 tdi:0.372 - voyag:0.168 - indre:0.181 - boutet:0.314 - borel:0.188 - joubert:0.164 - circuit:0.205 - car:0.165 - dejoi:0.168 - l’indr:0.254 - 
 99d58.txt
-conseil:0.189 - 1140:0.442 - statu:0.167 - concurrent:0.264 - 99d58:0.292 - n°:0.151 - hagelsteen:0.178 - d’éclair:0.198 - rapporteur:0.152 - servellahuert:0.201 - 
+conseil:0.189 - 1140:0.442 - statu:0.167 - concurrent:0.264 - 99d58:0.291 - n°:0.151 - hagelsteen:0.178 - d’éclair:0.198 - rapporteur:0.152 - servellahuert:0.201 - 
 97d24.txt
 lyon:0.222 - societ:0.113 - 793:0.202 - srme:0.112 - entrepris:0.112 - egl:0.394 - 97d24:0.112 - enrob:0.479 - pian:0.529 - grand:0.116 - 
 00d57.txt
@@ -543,7 +543,7 @@ réunion:0.248 - laéroport:0.212 - carburéacteur:0.271 - elf:0.305 - ccir:0.4 
 14d09.txt
 machin:0.34 - expresso:0.108 - ecc:0.098 - techniqu:0.054 - nespresso:0.698 - portion:0.05 - nestl:0.062 - capsul:0.522 - demb:0.088 - caf:0.144 - 
 00d24.txt
-l’associ:0.159 - ugc:0.298 - défens:0.097 - construir:0.114 - bibliothequ:0.306 - l’environ:0.158 - paris:0.102 - d’un:0.139 - tolbiac:0.516 - mk2:0.418 - 
+l’associ:0.159 - ugc:0.299 - défens:0.097 - construir:0.114 - bibliothequ:0.306 - l’environ:0.158 - paris:0.102 - d’un:0.139 - tolbiac:0.516 - mk2:0.418 - 
 04d12.txt
 cdec:0.106 - tsl:0.527 - rando:0.105 - raquet:0.258 - décathlon:0.446 - neig:0.093 - bado:0.084 - go:0.331 - sport:0.433 - magasin:0.154 - 
 14d19.txt
@@ -557,7 +557,7 @@ renaiss:0.442 - spedidam:0.303 - dans:0.277 - artistesinterpret:0.268 - percept:
 15d09.txt
 fp:0.182 - oper:0.141 - sit:0.187 - anticip:0.135 - tdf:0.581 - contrat:0.164 - pylôn:0.4 - 2014:0.145 - mobil:0.176 - résili:0.124 - 
 99d27.txt
-labellis:0.316 - d’av:0.22 - l’assur:0.224 - demand:0.162 - malad:0.198 - concurrent:0.171 - glam:0.294 - l’ordon:0.243 - 251:0.136 - 99d27:0.147 - 
+labellis:0.316 - d’av:0.22 - l’assur:0.224 - demand:0.162 - malad:0.198 - concurrent:0.171 - glam:0.294 - l’ordon:0.244 - 251:0.136 - 99d27:0.147 - 
 03d56.txt
 l’afan:0.17 - archéolog:0.16 - munit:0.247 - armement:0.203 - sotradex:0.425 - neutralis:0.167 - dcmat:0.255 - nams:0.177 - déminag:0.247 - 030042:0.187 - 
 09d21.txt
@@ -567,7 +567,7 @@ mf:0.1 - imag:0.291 - spot:0.408 - satellit:0.399 - scot:0.342 - cne:0.469 - spa
 00mc10.txt
 123multimédi:0.16 - societ:0.175 - jet:0.322 - médi:0.273 - audiotel:0.224 - bay:0.454 - télétel:0.229 - adrian:0.436 - gratuit:0.164 - convivial:0.31 - 
 92d19.txt
-26:0.108 - societ:0.121 - laurent:0.146 - detain:0.675 - 92d19:0.169 - 462:0.191 - rémanent:0.169 - 93:0.112 - plat:0.416 - charri:0.122 - 
+26:0.108 - societ:0.122 - laurent:0.146 - detain:0.675 - 92d19:0.169 - 462:0.191 - rémanent:0.169 - 93:0.112 - plat:0.416 - charri:0.122 - 
 94d48.txt
 94d48:0.212 - 1994:0.21 - numéros:0.129 - barbeau:0.136 - 130:0.15 - 685:0.245 - autorout:0.131 - industriel:0.128 - stip:0.602 - nitrobickford:0.212 - 
 92mc04.txt
@@ -581,7 +581,7 @@ shop:0.228 - societ:0.141 - ben:0.239 - parfum:0.535 - beauty:0.288 - west:0.281
 97d75.txt
 solonoc:0.163 - societ:0.148 - sacem:0.228 - synd:0.163 - prescript:0.17 - phonogramm:0.159 - discothequ:0.476 - djinn:0.163 - nougues:0.163 - armagnac:0.154 - 
 92d56.txt
-shel:0.2 - sp:0.532 - elf:0.127 - raffineur:0.114 - 98:0.194 - supercarbur:0.386 - plomb:0.382 - carbur:0.195 - esso:0.139 - antar:0.107 - 
+shel:0.2 - sp:0.532 - elf:0.127 - raffineur:0.115 - 98:0.194 - supercarbur:0.386 - plomb:0.382 - carbur:0.195 - esso:0.139 - antar:0.107 - 
 96d58.txt
 a:0.151 - tribunal:0.156 - sacem:0.51 - d’av:0.218 - instanc:0.183 - grand:0.12 - 96d58:0.145 - grenobl:0.46 - désist:0.14 - l’entrepôt:0.113 - 
 05d09.txt
@@ -591,7 +591,7 @@ group:0.157 - accor:0.535 - nuit:0.096 - hôtel:0.292 - sncf:0.455 - train:0.346
 96d16.txt
 temax:0.184 - evas:0.093 - franchiseur:0.512 - réseau:0.082 - gymnasium:0.408 - luxeuil:0.198 - tarif:0.104 - franchis:0.549 - contrat:0.084 - centr:0.086 - 
 98d01.txt
-barreau:0.394 - hauteprovent:0.389 - l’ordr:0.174 - honorair:0.237 - l’avocat:0.138 - 00000:0.244 - alpe:0.261 - avocat:0.329 - guid:0.145 - d’honorair:0.186 - 
+barreau:0.394 - hauteprovent:0.39 - l’ordr:0.174 - honorair:0.237 - l’avocat:0.138 - 00000:0.244 - alpe:0.261 - avocat:0.329 - guid:0.145 - d’honorair:0.186 - 
 98mc05.txt
 nrj:0.3 - radiophon:0.251 - europ:0.249 - ip:0.25 - rtv:0.38 - couplag:0.317 - station:0.137 - publicitair:0.281 - reg:0.366 - societ:0.156 - 
 93mc01.txt
@@ -607,13 +607,13 @@ deleyroll:0.131 - salondeprovent:0.22 - lassoci:0.128 - latsus:0.394 - ambul:0.4
 00d64.txt
 96312:0.14 - 414:0.184 - loi:0.17 - compétent:0.129 - télévis:0.154 - polynes:0.531 - téléfénu:0.28 - concurrent:0.172 - conseil:0.136 - l’opt:0.14 - 
 06d35.txt
-mainteneur:0.2 - mge:0.728 - onduleur:0.276 - «:0.216 - d’onduleur:0.097 - l’alarm:0.13 - constructeur:0.1 - certificat:0.123 - mainten:0.133 - »:0.217 - 
+mainteneur:0.2 - mge:0.729 - onduleur:0.276 - «:0.216 - d’onduleur:0.097 - l’alarm:0.13 - constructeur:0.1 - certificat:0.123 - mainten:0.133 - »:0.217 - 
 02d07.txt
 d’électron:0.298 - d’interrompr:0.142 - 1998:0.161 - prescript:0.205 - tend:0.178 - 02d07:0.218 - recherch:0.162 - 4627:0.2 - 1031:0.156 - acte:0.158 - 
 96d61.txt
 fagiht:0.105 - malibu:0.148 - sacem:0.104 - bemim:0.135 - club:0.164 - cscaslsvdf:0.111 - loisir:0.116 - exploit:0.186 - discothequ:0.677 - cfhrcd:0.105 - 
 93d25.txt
-ateli:0.105 - cercl:0.155 - lhomm:0.235 - commémor:0.15 - daubusson:0.212 - pinton:0.125 - command:0.118 - aubusson:0.185 - dart:0.119 - tapisser:0.802 - 
+ateli:0.105 - cercl:0.155 - lhomm:0.235 - commémor:0.15 - daubusson:0.212 - pinton:0.125 - command:0.118 - aubusson:0.185 - dart:0.119 - tapisser:0.803 - 
 90d34.txt
 denregistr:0.304 - appareil:0.098 - chronotachygraph:0.445 - informat:0.091 - keko:0.089 - lhomolog:0.113 - kienzl:0.324 - disqu:0.604 - mannesmann:0.229 - garant:0.126 - 
 98d11.txt
@@ -625,17 +625,17 @@ sopr:0.215 - produit:0.182 - phytosanitair:0.206 - dupont:0.266 - chemical:0.173
 09d08.txt
 candidatur:0.25 - dagr:0.159 - dépannag:0.352 - escot:0.169 - autorout:0.208 - asf:0.209 - agrément:0.22 - interdépartemental:0.174 - cofirout:0.18 - dépanneur:0.331 - 
 94d16.txt
-veltz:0.191 - mauduit:0.227 - esch:0.215 - eschenlau:0.196 - jund:0.262 - lautoécol:0.18 - hemberg:0.179 - lleren:0.283 - autoécol:0.441 - déduc:0.217 - 
+veltz:0.191 - mauduit:0.227 - esch:0.215 - eschenlau:0.196 - jund:0.263 - lautoécol:0.18 - hemberg:0.179 - lleren:0.283 - autoécol:0.441 - déduc:0.217 - 
 92mc10.txt
 a:0.103 - salon:0.314 - vidal:0.313 - ffsa:0.385 - assureexpo:0.452 - societ:0.133 - bureau:0.126 - compagn:0.213 - féder:0.192 - dassur:0.148 - 
 04d50.txt
 d’assain:0.081 - societ:0.11 - march:0.088 - traval:0.112 - broglio:0.483 - 1:0.083 - stphv:0.721 - lot:0.112 - xonruptlongem:0.193 - gerardm:0.147 - 
 03d13.txt
-produit:0.139 - certif:0.163 - marqu:0.163 - lafnor:0.357 - nf:0.306 - sodif:0.158 - 124:0.207 - pil:0.487 - pam:0.224 - norm:0.291 - 
+produit:0.139 - certif:0.163 - marqu:0.162 - lafnor:0.357 - nf:0.306 - sodif:0.158 - 124:0.207 - pil:0.487 - pam:0.224 - norm:0.291 - 
 11d07.txt
 a:0.085 - «:0.101 - prezioso:0.496 - grivetto:0.207 - soresp:0.198 - offre:0.103 - d’offr:0.154 - »:0.101 - peintur:0.085 - lassarat:0.632 - 
 02d61.txt
-sitom:0.331 - sit:0.128 - mos:0.515 - trait:0.165 - lixiviat:0.248 - déchet:0.355 - bagnolsenforêt:0.166 - décharg:0.119 - coved:0.122 - sma:0.215 - 
+sitom:0.331 - sit:0.127 - mos:0.515 - trait:0.165 - lixiviat:0.248 - déchet:0.355 - bagnolsenforêt:0.166 - décharg:0.119 - coved:0.122 - sma:0.215 - 
 96mc05.txt
 siged:0.437 - societ:0.155 - edf:0.197 - nucléair:0.104 - mesur:0.094 - conservatoir:0.132 - d’outillag:0.118 - contamin:0.122 - snmo:0.656 - d’edf:0.135 - 
 07d29.txt
@@ -643,13 +643,13 @@ l’epv:0.276 - snef:0.447 - électr:0.143 - march:0.129 - «:0.117 - sve:0.261 
 02d18.txt
 prévent:0.163 - culturel:0.077 - fouill:0.472 - l’archéolog:0.088 - archéolog:0.56 - traval:0.071 - l’afan:0.458 - l’état:0.103 - cultur:0.115 - pyrénéesoriental:0.176 - 
 96d81.txt
-fromag:0.339 - cantal:0.483 - cif:0.247 - 1996:0.12 - affineur:0.142 - comit:0.122 - interprofessionnel:0.171 - 1532:0.254 - 96d81:0.165 - syfac:0.451 - 
+fromag:0.339 - cantal:0.483 - cif:0.247 - 1996:0.119 - affineur:0.142 - comit:0.122 - interprofessionnel:0.171 - 1532:0.254 - 96d81:0.165 - syfac:0.451 - 
 05d28.txt
 pât:0.229 - papi:0.122 - cogem:0.312 - bollor:0.146 - grum:0.353 - delm:0.432 - fast:0.45 - portuair:0.124 - rochel:0.257 - manutent:0.187 - 
 00d27.txt
 d’ois:0.075 - frais:0.091 - cantin:0.673 - d’osny:0.369 - d’arrêt:0.176 - prix:0.104 - eurest:0.311 - maison:0.141 - détenus:0.127 - pénitentiair:0.184 - 
 04d03.txt
-societ:0.162 - log:0.178 - traval:0.124 - f:0.291 - modern:0.301 - cirem:0.146 - offre:0.135 - electr:0.329 - cardellacirem:0.549 - bât:0.225 - 
+societ:0.162 - log:0.178 - traval:0.124 - f:0.291 - modern:0.301 - cirem:0.146 - offre:0.135 - electr:0.329 - cardellacirem:0.549 - bât:0.224 - 
 05d12.txt
 spqr:0.333 - l’europqn:0.148 - pqn:0.172 - cesp:0.142 - métro:0.153 - gratuit:0.197 - press:0.336 - quotidien:0.357 - minut:0.155 - europqn:0.338 - 
 94mc09.txt
@@ -663,15 +663,15 @@ clément:0.112 - urgenc:0.161 - chg:0.229 - d’epinal:0.153 - l’associ:0.155 
 91d48.txt
 1991:0.133 - 2fr:0.13 - societ:0.15 - laurent:0.113 - forgency:0.13 - pseudo:0.119 - 91d48:0.13 - vladim:0.124 - jafo:0.782 - saisin:0.104 - 
 99mc02.txt
-câbl:0.61 - societ:0.094 - franc:0.138 - télécom:0.238 - odyss:0.093 - planet:0.533 - bayonneangletbiarritz:0.115 - chaîn:0.312 - réseau:0.126 - diffus:0.13 - 
+câbl:0.61 - societ:0.094 - franc:0.138 - télécom:0.238 - odyss:0.093 - planet:0.533 - bayonneangletbiarritz:0.115 - chaîn:0.312 - réseau:0.126 - diffus:0.129 - 
 09d38.txt
 baiss:0.106 - prix:0.153 - ethicon:0.419 - cep:0.106 - tip:0.181 - tyco:0.403 - tarif:0.162 - islim:0.211 - endo:0.135 - rembours:0.213 - 
 00d04.txt
-conseil:0.135 - 1086:0.319 - decid:0.119 - eda:0.67 - 00d04:0.208 - fertierpotti:0.162 - concurrent:0.134 - 2000:0.202 - societ:0.12 - hagelsteen:0.127 - 
+conseil:0.135 - 1086:0.319 - decid:0.119 - eda:0.669 - 00d04:0.208 - fertierpotti:0.164 - concurrent:0.134 - 2000:0.202 - societ:0.12 - hagelsteen:0.127 - 
 97d39.txt
 mas:0.189 - societ:0.199 - béton:0.706 - chanti:0.195 - 1993:0.155 - granulat:0.12 - sup:0.118 - redland:0.171 - smb:0.163 - unimix:0.148 - 
 15d04.txt
-minoter:0.266 - meuni:0.262 - «:0.137 - hauss:0.142 - moulin:0.356 - boulanger:0.194 - farin:0.355 - meuner:0.274 - 2007:0.17 - blé:0.237 - 
+minoter:0.266 - meuni:0.263 - «:0.137 - hauss:0.142 - moulin:0.357 - boulanger:0.194 - farin:0.355 - meuner:0.274 - 2007:0.17 - blé:0.237 - 
 98d24.txt
 verr:0.366 - technolog:0.204 - psg:0.507 - pol:0.115 - plomb:0.231 - contrat:0.089 - sov:0.249 - schott:0.098 - adh:0.512 - societ:0.155 - 
 99d43.txt
@@ -679,7 +679,7 @@ verr:0.366 - technolog:0.204 - psg:0.507 - pol:0.115 - plomb:0.231 - contrat:0.0
 98d13.txt
 d’immatricul:0.428 - préfectur:0.14 - ad:0.278 - minister:0.16 - télétransmiss:0.347 - valorem:0.39 - véhicul:0.191 - fichi:0.123 - immatricul:0.13 - l’intérieur:0.199 - 
 96d48.txt
-conservatoir:0.183 - mc:0.577 - 1996:0.207 - invest:0.268 - 875:0.245 - barbeau:0.137 - pêch:0.136 - 185:0.175 - 96d48:0.214 - vegl:0.144 - 
+conservatoir:0.183 - mc:0.577 - 1996:0.206 - invest:0.268 - 875:0.245 - barbeau:0.137 - pêch:0.136 - 185:0.175 - 96d48:0.214 - vegl:0.144 - 
 12d28.txt
 rugby:0.166 - événementiel:0.208 - convent:0.094 - sportiv:0.091 - «:0.106 - ffr:0.567 - stad:0.153 - »:0.11 - csdf:0.59 - match:0.088 - 
 04d53.txt
@@ -693,17 +693,17 @@ franc:0.133 - mengel:0.74 - societ:0.112 - 1995:0.189 - barbeau:0.125 - 735:0.22
 02d04.txt
 a:0.097 - societ:0.139 - 1335:0.232 - ccas:0.437 - 330:0.178 - vill:0.115 - olivi:0.313 - saiem:0.353 - d’héberg:0.096 - saintetien:0.387 - 
 06d15.txt
-mso:0.303 - sra:0.205 - meccol:0.157 - traval:0.158 - vecchiet:0.218 - sncf:0.317 - etf:0.365 - 00000:0.186 - stpv:0.177 - d’offr:0.154 - 
+mso:0.303 - sra:0.205 - meccol:0.157 - traval:0.158 - vecchiet:0.219 - sncf:0.317 - etf:0.365 - 00000:0.186 - stpv:0.177 - d’offr:0.154 - 
 92d10.txt
 blasqu:0.076 - lavaud:0.08 - pasdeloup:0.08 - visag:0.065 - antiquario:0.08 - labast:0.08 - boissery:0.08 - puned:0.08 - autoécol:0.892 - cérou:0.08 - 
 91d53.txt
-societ:0.114 - laser:0.194 - continuum:0.194 - optic:0.125 - quantel:0.224 - qlsa:0.552 - vu:0.092 - qli:0.394 - communaut:0.116 - electro:0.125 - 
+societ:0.114 - laser:0.194 - continuum:0.194 - optic:0.125 - quantel:0.224 - qlsa:0.552 - vu:0.092 - qli:0.394 - communaut:0.115 - electro:0.125 - 
 15d13.txt
 googl:0.536 - sit:0.169 - «:0.184 - …:0.085 - suspens:0.082 - 2014:0.095 - 2015:0.132 - adword:0.322 - gibmedi:0.586 - »:0.144 - 
 96d15.txt
 d’auvergn:0.234 - syndicat:0.13 - jury:0.176 - régional:0.11 - libéral:0.202 - l’ordr:0.147 - architect:0.62 - concour:0.212 - »:0.089 - hauteloir:0.446 - 
 01mc07.txt
-franc:0.181 - kosmos:0.651 - téléphon:0.121 - télécom:0.377 - 32:0.155 - prépai:0.11 - cart:0.186 - d’un:0.11 - publiphon:0.203 - ticket:0.118 - 
+franc:0.181 - kosmos:0.652 - téléphon:0.121 - télécom:0.376 - 32:0.155 - prépai:0.11 - cart:0.186 - d’un:0.11 - publiphon:0.203 - ticket:0.118 - 
 02d43.txt
 march:0.174 - dle:0.269 - lde:0.239 - duval:0.327 - tef:0.157 - lamblin:0.29 - cochery:0.192 - str:0.243 - gpt:0.185 - faignot:0.376 - 
 90mc01.txt
@@ -725,7 +725,7 @@ deuxsevr:0.305 - euros:0.185 - l’hôpital:0.161 - nuit:0.283 - forf:0.266 - am
 92d62.txt
 societ:0.101 - nfa:0.103 - canalis:0.241 - tuyal:0.298 - ductil:0.228 - pontàmousson:0.579 - diametr:0.145 - font:0.099 - biwat:0.426 - norm:0.097 - 
 98d48.txt
-mor:0.154 - d’av:0.438 - 1998:0.216 - financ:0.202 - l’industr:0.313 - 98d48:0.219 - ministr:0.182 - 246:0.2 - poi:0.164 - l’économ:0.225 - 
+mor:0.154 - d’av:0.438 - 1998:0.216 - financ:0.202 - l’industr:0.313 - 98d48:0.219 - ministr:0.182 - 246:0.2 - poi:0.164 - l’économ:0.224 - 
 99d19.txt
 catalogu:0.286 - societ:0.225 - legros:0.23 - prix:0.223 - paramat:0.221 - colson:0.317 - médical:0.221 - sec:0.345 - medical:0.201 - e3:0.234 - 
 97d41.txt
@@ -757,7 +757,7 @@ pâtisser:0.152 - pain:0.324 - guitton:0.191 - berreletang:0.322 - boulanger:0.6
 00mc17.txt
 passerel:0.29 - societ:0.127 - télécom:0.24 - sfr:0.3 - portail:0.234 - wappupcom:0.282 - terminal:0.311 - téléphon:0.119 - mobil:0.359 - wap:0.342 - 
 08d12.txt
-kymmen:0.192 - thébault:0.26 - contreplaqu:0.318 - «:0.181 - hauss:0.271 - plysorol:0.257 - joubert:0.251 - allin:0.229 - »:0.181 - rougi:0.236 - 
+kymmen:0.192 - thébault:0.26 - contreplaqu:0.318 - «:0.181 - hauss:0.271 - plysorol:0.257 - joubert:0.251 - allin:0.229 - »:0.18 - rougi:0.236 - 
 96d39.txt
 spirotechn:0.663 - societ:0.163 - matériel:0.127 - plongeur:0.119 - scubapro:0.201 - revendeur:0.163 - subchandler:0.425 - sousmarin:0.091 - magasin:0.147 - plong:0.281 - 
 14d20.txt
@@ -777,9 +777,9 @@ promotionnel:0.165 - sall:0.316 - cinem:0.396 - fncf:0.144 - l’exploit:0.142 -
 93d08.txt
 93d08:0.148 - biancon:0.148 - oce:0.405 - décembr:0.137 - per:0.159 - cass:0.136 - draguignan:0.232 - l’ordon:0.141 - cazal:0.27 - sbm:0.297 - 
 97d05.txt
-conseil:0.101 - réunion:0.183 - 1995:0.101 - victori:0.589 - laid:0.159 - sic:0.227 - aliz:0.326 - permanent:0.093 - export:0.112 - danan:0.359 - 
+conseil:0.101 - réunion:0.183 - 1995:0.101 - victori:0.589 - laid:0.159 - sic:0.227 - aliz:0.326 - permanent:0.094 - export:0.112 - danan:0.359 - 
 11d01.txt
-réunion:0.175 - somacom:0.17 - sempr:0.188 - «:0.277 - conteneur:0.274 - portuair:0.178 - sgm:0.188 - manutent:0.528 - samr:0.198 - »:0.278 - 
+réunion:0.175 - somacom:0.17 - sempr:0.188 - «:0.276 - conteneur:0.274 - portuair:0.178 - sgm:0.188 - manutent:0.528 - samr:0.198 - »:0.278 - 
 08d16.txt
 photograph:0.16 - societ:0.105 - photomaton:0.555 - cybervitrin:0.22 - claus:0.089 - d’ident:0.211 - d’un:0.077 - contrat:0.13 - d’emplac:0.096 - cabin:0.624 - 
 97d91.txt
@@ -787,7 +787,7 @@ d’appel:0.179 - 1997:0.24 - d’av:0.273 - villeneuv:0.197 - décembr:0.162 - 
 98mc07.txt
 voil:0.198 - societ:0.163 - ses:0.156 - aren:0.246 - leo:0.216 - ssm:0.14 - williwaw:0.368 - pwa:0.638 - sall:0.148 - planch:0.125 - 
 07d23.txt
-contribu:0.151 - z:0.286 - tel:0.196 - marg:0.146 - coût:0.16 - barem:0.138 - 2000:0.171 - epm:0.172 - press:0.162 - nmpp:0.545 - 
+contribu:0.15 - z:0.286 - tel:0.196 - marg:0.146 - coût:0.16 - barem:0.138 - 2000:0.171 - epm:0.172 - press:0.162 - nmpp:0.545 - 
 93d23.txt
 lordon:0.178 - saintmitrelesrempart:0.258 - palomar:0.258 - bouchesdurhôn:0.157 - 1988:0.121 - daixenprovent:0.196 - trunfio:0.516 - 93d23:0.129 - martigu:0.191 - irréguli:0.155 - 
 94d41.txt
@@ -817,7 +817,7 @@ lordon:0.201 - bourgenbress:0.277 - viriat:0.154 - 95d03:0.175 - concurrent:0.15
 01d44.txt
 00mc01:0.41 - télécom:0.458 - 01d44:0.158 - n°:0.151 - 2000:0.162 - 2001:0.172 - 01327:0.152 - vu:0.151 - réseau:0.207 - 9:0.158 - 
 05d65.txt
-oper:0.163 - march:0.178 - télécom:0.228 - bouygu:0.26 - «:0.231 - brut:0.152 - sfr:0.356 - »:0.225 - mobil:0.165 - orang:0.231 - 
+oper:0.163 - march:0.178 - télécom:0.228 - bouygu:0.26 - «:0.231 - brut:0.152 - sfr:0.357 - »:0.225 - mobil:0.165 - orang:0.231 - 
 00d14.txt
 product:0.077 - societ:0.098 - cooper:0.1 - briqueter:0.186 - rivereau:0.232 - ●:0.077 - lafon:0.176 - briqu:0.308 - sibo:0.713 - plâtri:0.301 - 
 00d56.txt
@@ -847,7 +847,7 @@ syndicat:0.121 - mory:0.22 - fioul:0.155 - demonchal:0.528 - combustibl:0.229 - 
 93d07.txt
 lordon:0.114 - mutual:0.255 - fonctionnair:0.131 - 5232:0.165 - subvent:0.154 - mgsp:0.546 - mfp:0.276 - dhorair:0.141 - mutuel:0.298 - dunion:0.156 - 
 00d52.txt
-barreau:0.342 - 1990:0.166 - nic:0.263 - honorair:0.439 - 000:0.167 - bâtonni:0.173 - barem:0.143 - dhonorair:0.164 - avocat:0.387 - d’honorair:0.15 - 
+barreau:0.342 - 1990:0.166 - nic:0.264 - honorair:0.439 - 000:0.167 - bâtonni:0.173 - barem:0.143 - dhonorair:0.164 - avocat:0.387 - d’honorair:0.15 - 
 13d14.txt
 strasbourg:0.179 - crov:0.254 - chart:0.154 - vétérinair:0.601 - d’alsac:0.225 - animal:0.119 - spa:0.488 - »:0.092 - sdvel:0.093 - snvel:0.196 - 
 92d59.txt
@@ -875,7 +875,7 @@ utb:0.169 - secc:0.641 - societ:0.164 - bayon:0.157 - jul:0.195 - mieg:0.213 - p
 97d06.txt
 produit:0.161 - n°97d06:0.167 - dépositair:0.457 - national:0.134 - d’av:0.251 - pharmaceut:0.431 - 178:0.213 - syndical:0.25 - n°861243:0.2 - chambr:0.202 - 
 02d71.txt
-rhôn:0.29 - maîtresbateli:0.344 - d’affret:0.174 - l’associ:0.134 - fluvial:0.411 - concurrent:0.133 - bassin:0.183 - rhônesaôn:0.326 - sorhon:0.217 - transport:0.16 - 
+rhôn:0.29 - maîtresbateli:0.344 - d’affret:0.174 - l’associ:0.134 - fluvial:0.411 - concurrent:0.133 - bassin:0.183 - rhônesaôn:0.326 - sorhon:0.218 - transport:0.16 - 
 10d21.txt
 machin:0.297 - résili:0.165 - locat:0.128 - «:0.154 - neopost:0.514 - client:0.14 - perfection:0.209 - contrat:0.178 - »:0.158 - sat:0.416 - 
 92d32.txt
@@ -897,7 +897,7 @@ céjib:0.492 - dépôtvent:0.174 - lenseign:0.118 - troc:0.392 - franchiseur:0.1
 04d45.txt
 dépositair:0.148 - «:0.142 - polynes:0.167 - messager:0.144 - nouvellecalédon:0.181 - export:0.307 - d’export:0.164 - press:0.551 - »:0.147 - nmpp:0.397 - 
 91d21.txt
-toulous:0.427 - publiqu:0.107 - journal:0.372 - mid:0.191 - tirag:0.106 - diffus:0.238 - sppr:0.181 - press:0.357 - dépêch:0.238 - diffuseur:0.149 - 
+toulous:0.427 - publiqu:0.107 - journal:0.372 - mid:0.191 - tirag:0.106 - diffus:0.238 - sppr:0.181 - press:0.357 - dépêch:0.239 - diffuseur:0.149 - 
 04d11.txt
 fashion:0.091 - newel:0.652 - rideau:0.086 - window:0.085 - societ:0.074 - germany:0.074 - sematec:0.619 - décor:0.082 - colmar:0.071 - gardini:0.172 - 
 06d14.txt
@@ -921,7 +921,7 @@ molinar:0.259 - stpe:0.236 - canalis:0.193 - traval:0.266 - suburbain:0.194 - tp
 00d31.txt
 guigu:0.636 - bourh:0.106 - concurrent:0.13 - 1205:0.162 - 00d31:0.201 - mme:0.191 - 2000:0.244 - imputent:0.165 - orthophon:0.401 - hagelsteen:0.123 - 
 09d39.txt
-cneth:0.399 - cur:0.209 - frais:0.105 - «:0.134 - exploit:0.13 - forf:0.089 - thermal:0.648 - curist:0.373 - »:0.135 - factur:0.092 - 
+cneth:0.399 - cur:0.209 - frais:0.105 - «:0.134 - exploit:0.13 - forf:0.089 - thermal:0.648 - curist:0.374 - »:0.135 - factur:0.092 - 
 13d16.txt
 keol:0.326 - transdev:0.27 - ferroviair:0.231 - «:0.137 - partenariat:0.2 - sncf:0.599 - »:0.131 - voyageur:0.125 - transport:0.263 - ct:0.166 - 
 03d44.txt
@@ -945,7 +945,7 @@ conseil:0.132 - societ:0.209 - dun:0.125 - grossist:0.38 - revendeur:0.167 - con
 10d16.txt
 sant:0.133 - plavix®:0.395 - clopidogrel:0.505 - princep:0.16 - sanofiavent:0.445 - «:0.138 - géner:0.229 - »:0.14 - sel:0.151 - tev:0.156 - 
 07d37.txt
-l’adeic:0.464 - distribu:0.209 - téléphon:0.208 - télécom:0.183 - photo:0.292 - boutiqu:0.222 - orang:0.137 - monomarqu:0.117 - mobil:0.346 - servic:0.154 - 
+l’adeic:0.464 - distribu:0.209 - téléphon:0.208 - télécom:0.183 - photo:0.292 - boutiqu:0.222 - orang:0.137 - monomarqu:0.117 - mobil:0.346 - servic:0.153 - 
 00d06.txt
 ista:0.612 - d’ist:0.278 - fournisseur:0.147 - electric:0.155 - adiv:0.264 - it:0.257 - convent:0.141 - capital:0.122 - microinformat:0.14 - créanc:0.163 - 
 98mc13.txt
@@ -959,13 +959,13 @@ dumoulin:0.137 - 669:0.312 - 1997:0.139 - fnpc:0.168 - societ:0.133 - grignon:0.
 91d55.txt
 géometr:0.537 - lordr:0.208 - dunit:0.106 - expert:0.375 - régional:0.114 - lunit:0.305 - valeur:0.203 - compt:0.174 - syndical:0.268 - chambr:0.219 - 
 02d12.txt
-séroul:0.241 - sudouest:0.131 - censur:0.113 - qu’il:0.102 - ciment:0.493 - prescript:0.186 - calci:0.264 - lafarg:0.187 - 4627:0.117 - domecq:0.154 - 
+séroul:0.241 - sudouest:0.131 - censur:0.113 - qu’il:0.102 - ciment:0.493 - prescript:0.186 - calci:0.265 - lafarg:0.187 - 4627:0.117 - domecq:0.154 - 
 03d28.txt
 novalab:0.167 - glycem:0.118 - lifescan:0.429 - johnson:0.126 - one:0.177 - unicheck:0.274 - bandelet:0.621 - dsi:0.31 - quick:0.097 - diabet:0.133 - 
 96d79.txt
 barreau:0.4 - mercurial:0.299 - «:0.212 - honorair:0.283 - bâtonni:0.195 - ren:0.285 - l’ordr:0.209 - avocat:0.396 - »:0.218 - d’honorair:0.136 - 
 09d23.txt
-risqu:0.11 - partenair:0.208 - l’agent:0.104 - «:0.163 - punto:0.604 - fa:0.499 - mango:0.203 - contrat:0.094 - »:0.165 - distributeur:0.245 - 
+risqu:0.11 - partenair:0.208 - l’agent:0.104 - «:0.162 - punto:0.604 - fa:0.499 - mango:0.203 - contrat:0.094 - »:0.165 - distributeur:0.245 - 
 05d11.txt
 passager:0.162 - ferroviair:0.151 - egl:0.129 - rail:0.261 - gar:0.175 - british:0.296 - sncf:0.248 - train:0.199 - airway:0.391 - eurostar:0.362 - 
 98d19.txt
@@ -975,9 +975,9 @@ optiqu:0.477 - boecklin:0.216 - hydron:0.216 - d’ophtalmolog:0.185 - neuhof:0.
 01d43.txt
 conseil:0.284 - jug:0.143 - toffolutt:0.218 - concurrent:0.151 - l4635:0.266 - 01d43:0.133 - rouen:0.155 - gallair:0.266 - seinemaritim:0.27 - d’instruct:0.158 - 
 90d35.txt
-utilitair:0.212 - annonc:0.14 - 1988:0.148 - comareg:0.406 - lautomobil:0.124 - loir:0.244 - societ:0.142 - concessionnair:0.229 - véhicul:0.268 - csncra:0.392 - 
+utilitair:0.212 - annonc:0.14 - 1988:0.148 - comareg:0.407 - lautomobil:0.124 - loir:0.244 - societ:0.142 - concessionnair:0.229 - véhicul:0.268 - csncra:0.392 - 
 92d21.txt
-90mc09:0.335 - 1990:0.24 - spfp:0.569 - 90d47:0.108 - express:0.101 - décis:0.128 - champeti:0.368 - conseil:0.108 - film:0.124 - lettrecirculair:0.15 - 
+90mc09:0.335 - 1990:0.24 - spfp:0.57 - 90d47:0.108 - express:0.101 - décis:0.128 - champeti:0.369 - conseil:0.108 - film:0.124 - lettrecirculair:0.15 - 
 06d26.txt
 contrat:0.088 - marqu:0.092 - yamah:0.474 - mbk:0.659 - ouest:0.109 - moto:0.279 - concessionnair:0.082 - motor:0.214 - lamy:0.11 - cm3:0.119 - 
 91d09.txt
@@ -989,7 +989,7 @@ societ:0.139 - dum:0.199 - sudest:0.169 - sac:0.162 - lefebvr:0.145 - lot:0.498 
 91d22.txt
 distributeur:0.142 - bosch:0.212 - enrafnonius:0.322 - revendeur:0.233 - sodipar:0.124 - mtmlead:0.161 - kinésithérapeut:0.349 - gicar:0.136 - nemectron:0.272 - verson:0.338 - 
 98d38.txt
-convent:0.12 - societ:0.128 - fourri:0.368 - val:0.226 - servic:0.162 - subvent:0.122 - chenil:0.47 - protectric:0.326 - animal:0.315 - d’ois:0.337 - 
+convent:0.119 - societ:0.128 - fourri:0.369 - val:0.226 - servic:0.162 - subvent:0.122 - chenil:0.47 - protectric:0.326 - animal:0.315 - d’ois:0.337 - 
 95d37.txt
 vaisset:0.161 - dayrenx:0.25 - 95d37:0.25 - 663:0.147 - statu:0.151 - vill:0.164 - ren:0.237 - vu:0.171 - f663:0.264 - denrob:0.4 - 
 92d24.txt
@@ -1027,7 +1027,7 @@ syndicat:0.139 - fabric:0.158 - alphacan:0.324 - rehautub:0.224 - raccord:0.154 
 96d63.txt
 artois:0.126 - societ:0.121 - davidian:0.274 - restaur:0.146 - bier:0.47 - marin:0.287 - sprm:0.171 - snembg:0.567 - martin:0.102 - pression:0.102 - 
 00mc15.txt
-societ:0.104 - sall:0.419 - cinem:0.157 - filmd:0.503 - cinéthéâtr:0.482 - film:0.223 - lamentin:0.243 - médiateur:0.118 - pointeàpitr:0.119 - eliz:0.181 - 
+societ:0.104 - sall:0.419 - cinem:0.157 - filmd:0.503 - cinéthéâtr:0.483 - film:0.223 - lamentin:0.243 - médiateur:0.118 - pointeàpitr:0.119 - eliz:0.181 - 
 15d05.txt
 keol:0.327 - transdev:0.203 - group:0.116 - ferroviair:0.211 - l’autor:0.094 - partenariat:0.125 - sncf:0.729 - mobil:0.131 - transport:0.159 - engag:0.116 - 
 99d13.txt
@@ -1037,13 +1037,13 @@ a:0.09 - chaillan:0.577 - societ:0.084 - juhan:0.109 - hospitali:0.109 - ht:0.08
 13d04.txt
 rte:0.282 - sun’r:0.372 - edf:0.507 - photovoltaïqu:0.257 - ptf:0.339 - «:0.109 - raccord:0.147 - enr:0.201 - »:0.11 - erdf:0.241 - 
 00d55.txt
-désouris:0.164 - l’orn:0.255 - servic:0.142 - lecorp:0.205 - ennem:0.149 - regni:0.164 - bromadiolon:0.205 - dératis:0.522 - féder:0.225 - l’eurl:0.378 - 
+désouris:0.164 - l’orn:0.255 - servic:0.142 - lecorp:0.205 - ennem:0.149 - regni:0.164 - bromadiolon:0.205 - dératis:0.522 - féder:0.224 - l’eurl:0.378 - 
 06d12.txt
 brenntag:0.681 - march:0.151 - gach:0.308 - univar:0.092 - chimiqu:0.146 - societ:0.162 - chim:0.122 - domin:0.094 - distributeur:0.114 - commod:0.356 - 
 93d31.txt
 lordon:0.239 - franc:0.177 - annul:0.161 - carburéacteur:0.239 - texaco:0.27 - 93d31:0.148 - cass:0.136 - raffinag:0.225 - agip:0.135 - nanterr:0.161 - 
 98d51.txt
-cour:0.151 - cooper:0.205 - d’appel:0.154 - rémuner:0.146 - revendeur:0.185 - 799:0.158 - concurrent:0.138 - philip:0.509 - distributeur:0.157 - chapel:0.156 - 
+cour:0.15 - cooper:0.205 - d’appel:0.154 - rémuner:0.146 - revendeur:0.185 - 799:0.158 - concurrent:0.138 - philip:0.509 - distributeur:0.157 - chapel:0.156 - 
 08d27.txt
 a:0.095 - franc:0.122 - saram:0.254 - dyneff:0.563 - pétroli:0.159 - navir:0.141 - sealin:0.496 - total:0.167 - port:0.095 - vetting:0.315 - 
 04d15.txt
@@ -1053,7 +1053,7 @@ quiétud:0.116 - funérair:0.649 - gnepf:0.555 - «:0.116 - d’epargn:0.098 - p
 01d23.txt
 anesthes:0.272 - abbott:0.583 - societ:0.152 - cahp:0.152 - l’isofluran:0.308 - cuv:0.169 - cacic:0.148 - évapor:0.136 - belamont:0.389 - d’isofluran:0.107 - 
 92d66.txt
-pil:0.156 - lot:0.127 - pont:0.185 - baudinchâteauneuf:0.254 - gtm:0.15 - pascal:0.311 - offre:0.147 - doffr:0.127 - chagnaud:0.471 - mirabeau:0.193 - 
+pil:0.156 - lot:0.127 - pont:0.185 - baudinchâteauneuf:0.254 - gtm:0.15 - pascal:0.311 - offre:0.147 - doffr:0.127 - chagnaud:0.472 - mirabeau:0.193 - 
 97d13.txt
 dintérêt:0.131 - redev:0.207 - min:0.181 - semmar:0.489 - automat:0.254 - navs:0.187 - d8:0.276 - boisson:0.185 - rung:0.159 - parisrung:0.273 - 
 99d61.txt
@@ -1065,7 +1065,7 @@ offre:0.108 - lextens:0.089 - strasbourg:0.108 - g:0.133 - pierrot:0.54 - ruiu:0
 95d79.txt
 eda:0.636 - 1995:0.191 - 792:0.242 - ccim:0.197 - ccimp:0.18 - marseilleprovent:0.174 - eurodollar:0.169 - 95d79:0.197 - dindustr:0.136 - lepet:0.133 - 
 11mc01.txt
-kial:0.38 - relay:0.516 - point:0.126 - «:0.112 - colis:0.423 - retr:0.15 - livraison:0.221 - post:0.258 - mondial:0.233 - »:0.11 - 
+kial:0.38 - relay:0.516 - point:0.126 - «:0.112 - colis:0.423 - retr:0.15 - livraison:0.221 - post:0.257 - mondial:0.233 - »:0.11 - 
 99d82.txt
 conseil:0.101 - solumedic:0.623 - d’appareillag:0.123 - orkyn’:0.59 - 463:0.167 - décembr:0.103 - concurrent:0.101 - n°:0.101 - 99d82:0.156 - vegl:0.105 - 
 15d12.txt
@@ -1089,7 +1089,7 @@ snadoc:0.158 - syndicat:0.165 - opticien:0.185 - dopticien:0.198 - opticienslune
 92d38.txt
 cooper:0.424 - g:0.137 - gitem:0.429 - cospreto:0.211 - elco:0.181 - adhérent:0.226 - scam:0.146 - qatec:0.236 - copyrec:0.335 - geram:0.153 - 
 10d04.txt
-maquet:0.636 - geting:0.139 - alm:0.624 - hospitali:0.119 - d’alm:0.218 - 2002:0.091 - offre:0.068 - tabl:0.148 - »:0.064 - «:0.063 - 
+maquet:0.636 - geting:0.139 - alm:0.624 - hospitali:0.118 - d’alm:0.218 - 2002:0.091 - offre:0.068 - tabl:0.148 - »:0.064 - «:0.063 - 
 03d19.txt
 lot:0.239 - smtv:0.167 - lauran:0.167 - ozil:0.298 - corvol:0.268 - sba:0.154 - dorel:0.291 - granulat:0.424 - delmonico:0.291 - morillon:0.268 - 
 98d73.txt
@@ -1125,7 +1125,7 @@ gontero:0.148 - béton:0.369 - carri:0.458 - 000:0.111 - bgp:0.364 - saintemarth
 08d28.txt
 group:0.161 - lot:0.252 - garen:0.168 - baglion:0.314 - carri:0.463 - montserrat:0.208 - vauriffi:0.246 - granulat:0.251 - sogetrap:0.212 - dde:0.191 - 
 12d09.txt
-franc:0.14 - allemand:0.141 - cot:0.151 - sachet:0.177 - meuni:0.299 - bach:0.225 - moulin:0.224 - farin:0.589 - mühle:0.26 - »:0.124 - 
+franc:0.14 - allemand:0.141 - cot:0.151 - sachet:0.178 - meuni:0.299 - bach:0.225 - moulin:0.224 - farin:0.589 - mühle:0.26 - »:0.124 - 
 97d14.txt
 rhôn:0.157 - mathonnier:0.147 - 634:0.179 - fluvial:0.557 - 97d14:0.147 - bateli:0.283 - bassin:0.165 - rhônesaôn:0.295 - sorhon:0.295 - transport:0.173 - 
 03d47.txt
@@ -1159,7 +1159,7 @@ départ:0.133 - sant:0.188 - ab:0.234 - sarl:0.117 - souscom:0.212 - lois:0.166 
 92d08.txt
 sarl:0.147 - transport:0.126 - al:0.12 - ambul:0.685 - 88507:0.131 - cornillon:0.145 - doffr:0.161 - ambulanci:0.188 - daffair:0.124 - gi:0.251 - 
 98d37.txt
-conseil:0.132 - eurodollar:0.175 - ccinc:0.185 - 1998:0.15 - eloy:0.164 - nicecôted’azur:0.407 - eda:0.492 - l’aéroport:0.131 - 812:0.252 - 98d37:0.203 - 
+conseil:0.132 - eurodollar:0.174 - ccinc:0.185 - 1998:0.15 - eloy:0.164 - nicecôted’azur:0.407 - eda:0.492 - l’aéroport:0.131 - 812:0.252 - 98d37:0.203 - 
 05d55.txt
 d’huil:0.176 - huil:0.148 - essentiel:0.082 - l’onippam:0.09 - prix:0.18 - lavand:0.382 - cihef:0.606 - l’huil:0.125 - lavandin:0.457 - producteur:0.121 - 
 00d13.txt
@@ -1201,7 +1201,7 @@ franc:0.158 - téléphon:0.297 - vent:0.144 - télécom:0.224 - consum:0.129 - s
 07d35.txt
 multimarqu:0.157 - matériel:0.171 - dentair:0.47 - siron:0.308 - prix:0.139 - d’un:0.134 - sogim:0.102 - smd:0.191 - distributeur:0.296 - sd:0.458 - 
 97mc03.txt
-mard:0.224 - bat:0.198 - societ:0.235 - tobacco:0.145 - batuk:0.398 - manufactur:0.164 - american:0.112 - rebel:0.615 - tabac:0.158 - coretab:0.113 - 
+mard:0.224 - bat:0.198 - societ:0.235 - tobacco:0.145 - batuk:0.398 - manufactur:0.164 - american:0.112 - rebel:0.616 - tabac:0.158 - coretab:0.113 - 
 98d56.txt
 pharmacien:0.462 - gard:0.305 - salamonevrard:0.422 - officin:0.228 - mme:0.134 - 5881:0.136 - d’urgenc:0.199 - l’esson:0.277 - dimanch:0.311 - servic:0.132 - 
 90d25.txt
@@ -1217,7 +1217,7 @@ noacco:0.21 - gt:0.159 - ben:0.23 - nievr:0.15 - égalitair:0.155 - répartit:0.
 12d18.txt
 télécom:0.275 - transitair:0.15 - «:0.163 - peering:0.285 - d’orang:0.144 - cogent:0.514 - fai:0.15 - »:0.161 - trans:0.408 - open:0.174 - 
 03d27.txt
-mjd:0.306 - barreau:0.257 - cergypontois:0.154 - val:0.332 - desoeuvr:0.181 - consult:0.136 - cdad:0.268 - convent:0.136 - dois:0.414 - avocat:0.222 - 
+mjd:0.306 - barreau:0.257 - cergypontois:0.154 - val:0.332 - desoeuvr:0.181 - consult:0.135 - cdad:0.268 - convent:0.136 - dois:0.414 - avocat:0.222 - 
 05d17.txt
 rd:0.299 - bourgogn:0.258 - 970:0.151 - moinsdis:0.126 - rog:0.175 - egtp:0.468 - appi:0.125 - lot:0.209 - rougeot:0.293 - gerland:0.166 - 
 01d74.txt
@@ -1251,9 +1251,9 @@ conseil:0.145 - 868:0.351 - 00:0.141 - saisin:0.179 - toshib:0.199 - concurrent:
 97d32.txt
 conseil:0.161 - coiffur:0.427 - aubry:0.29 - prescript:0.167 - concurrent:0.183 - a:0.138 - ministr:0.147 - jeanclaud:0.172 - 97d32:0.177 - detat:0.144 - 
 99mc03.txt
-bio:0.335 - sarl:0.138 - sanguin:0.442 - sang:0.231 - champagnearden:0.41 - l’agenc:0.186 - transfus:0.313 - reim:0.298 - public:0.142 - d’intérêt:0.244 - 
+bio:0.335 - sarl:0.138 - sanguin:0.442 - sang:0.231 - champagnearden:0.41 - l’agenc:0.186 - transfus:0.313 - reim:0.298 - public:0.141 - d’intérêt:0.244 - 
 00d05.txt
-conseil:0.158 - fertierpotti:0.189 - 00d05:0.23 - paris:0.218 - d’aéroport:0.182 - aéroport:0.378 - 2000:0.236 - hertz:0.208 - 1101:0.363 - europcar:0.221 - 
+conseil:0.157 - fertierpotti:0.192 - 00d05:0.23 - paris:0.218 - d’aéroport:0.182 - aéroport:0.377 - 2000:0.236 - hertz:0.208 - 1101:0.363 - europcar:0.221 - 
 92d41.txt
 locat:0.228 - descent:0.15 - lardech:0.296 - dembarc:0.299 - loueur:0.2 - nautiqu:0.18 - gorg:0.282 - sydileg:0.522 - embarc:0.177 - syndiqu:0.146 - 
 11d15.txt
@@ -1265,7 +1265,7 @@ chauffer:0.194 - «:0.144 - boisseau:0.264 - cochet:0.214 - badet:0.483 - bouill
 02d24.txt
 résili:0.142 - societ:0.196 - car:0.193 - 306:0.101 - buroservic:0.786 - 2001:0.095 - d’un:0.096 - contrat:0.104 - bureau:0.084 - mécanic:0.105 - 
 09d31.txt
-franc:0.096 - marketing:0.223 - football:0.174 - crochet:0.121 - droit:0.168 - contrat:0.146 - sportfiv:0.518 - sportif:0.12 - fff:0.566 - sport:0.118 - 
+franc:0.096 - marketing:0.222 - football:0.174 - crochet:0.121 - droit:0.168 - contrat:0.145 - sportfiv:0.518 - sportif:0.12 - fff:0.566 - sport:0.118 - 
 91d54.txt
 franc:0.101 - mélang:0.14 - sotoco:0.385 - desalt:0.175 - vh:0.35 - gobelet:0.09 - suchard:0.495 - kilogramm:0.187 - jacob:0.457 - cacao:0.175 - 
 03d63.txt
@@ -1279,7 +1279,7 @@ a:0.11 - conseil:0.11 - 989:0.132 - 00d92:0.106 - ziliotto:0.636 - bier:0.317 - 
 92d28.txt
 92d28:0.175 - 310:0.163 - marel:0.301 - auto:0.442 - toulousain:0.488 - pineau:0.15 - magnet:0.231 - 1992:0.133 - entretien:0.288 - unis:0.13 - 
 92d40.txt
-thermical:0.533 - societ:0.164 - chauffer:0.129 - cctp:0.118 - esy:0.307 - p:0.131 - calcul:0.137 - ine:0.21 - bât:0.226 - geteb:0.291 - 
+thermical:0.533 - societ:0.164 - chauffer:0.129 - cctp:0.118 - esy:0.307 - p:0.131 - calcul:0.136 - ine:0.21 - bât:0.226 - geteb:0.291 - 
 05d22.txt
 fermesauberg:0.198 - ferm:0.269 - «:0.337 - dordogn:0.201 - dagricultur:0.146 - bienvenu:0.483 - auberg:0.135 - réseau:0.221 - dordognepérigord:0.135 - »:0.337 - 
 07d10.txt
@@ -1287,7 +1287,7 @@ l’aoc:0.119 - fromag:0.238 - aoc:0.167 - comt:0.629 - cigc:0.273 - fmj:0.159 -
 96d69.txt
 a:0.113 - barreau:0.454 - quimp:0.368 - l’ordr:0.194 - honorair:0.271 - l’avocat:0.121 - bâtonni:0.207 - barem:0.209 - avocat:0.363 - d’honorair:0.202 - 
 01d25.txt
-conseil:0.117 - origny:0.114 - 01d25:0.122 - tlb:0.244 - béton:0.687 - orsa:0.331 - gondouin:0.122 - l’emploi:0.116 - mj:0.117 - transport:0.143 - 
+conseil:0.117 - origny:0.114 - 01d25:0.122 - tlb:0.244 - béton:0.686 - orsa:0.331 - gondouin:0.122 - l’emploi:0.116 - mj:0.117 - transport:0.143 - 
 00d39.txt
 1991:0.209 - societ:0.254 - matérial:0.211 - agglos:0.311 - ●:0.195 - hauss:0.19 - 20x20x50:0.193 - fabem:0.197 - agglomer:0.194 - pradi:0.19 - 
 97d12.txt
@@ -1295,7 +1295,7 @@ cyclist:0.189 - franc:0.244 - societ:0.193 - sportiv:0.148 - caravan:0.221 - lé
 09mc01.txt
 d’électr:0.167 - edf:0.48 - photovoltaïqu:0.39 - ciel:0.158 - «:0.151 - 3929:0.143 - solair:0.228 - enr:0.36 - »:0.141 - d’edf:0.293 - 
 98d16.txt
-l’annuair:0.294 - cm:0.202 - l’od:0.388 - vi:0.322 - annonceur:0.152 - annuair:0.442 - zon:0.14 - télécom:0.14 - professionnel:0.198 - pratiqu:0.157 - 
+l’annuair:0.294 - cm:0.202 - l’od:0.388 - vi:0.322 - annonceur:0.152 - annuair:0.443 - zon:0.14 - télécom:0.14 - professionnel:0.198 - pratiqu:0.157 - 
 99d49.txt
 produit:0.102 - societ:0.121 - tecnof:0.108 - ncr:0.108 - franchiseur:0.169 - yve:0.422 - roch:0.476 - beaut:0.171 - franchis:0.494 - tcb:0.173 - 
 09d25.txt
@@ -1319,7 +1319,7 @@ bat:0.376 - societ:0.205 - barbot:0.417 - hedg:0.153 - rebel:0.334 - uke:0.283 -
 05d39.txt
 mortuair:0.226 - pomp:0.241 - pontarli:0.421 - mair:0.164 - funebr:0.263 - chambr:0.152 - famill:0.153 - funérair:0.193 - reg:0.247 - municipal:0.299 - 
 00d35.txt
-électronic:0.306 - societ:0.244 - electronic:0.118 - hispainox:0.598 - appareil:0.114 - foir:0.119 - marketing:0.207 - vap:0.332 - iber:0.235 - vapoclean:0.161 - 
+électronic:0.307 - societ:0.244 - electronic:0.118 - hispainox:0.598 - appareil:0.114 - foir:0.119 - marketing:0.207 - vap:0.332 - iber:0.235 - vapoclean:0.161 - 
 00mc02.txt
 novalab:0.228 - lifescan:0.477 - johnson:0.134 - one:0.188 - diabet:0.103 - unicheck:0.408 - bandelet:0.576 - touch:0.127 - lecteur:0.124 - inc:0.137 - 
 04d52.txt
@@ -1335,7 +1335,7 @@ procath:0.462 - procatherm:0.247 - ruel:0.168 - sad:0.326 - lop:0.142 - societ:0
 95d22.txt
 statu:0.143 - central:0.156 - francepress:0.227 - lagenc:0.379 - 95d22:0.236 - barbeau:0.16 - pressecommun:0.472 - vu:0.161 - 394:0.261 - mathonni:0.147 - 
 96mc04.txt
-societ:0.147 - mobili:0.188 - français:0.14 - «:0.129 - l’acquisit:0.128 - jeux:0.558 - espinguet:0.425 - l’agr:0.126 - »:0.129 - détaill:0.161 - 
+societ:0.148 - mobili:0.188 - français:0.14 - «:0.129 - l’acquisit:0.128 - jeux:0.558 - espinguet:0.425 - l’agr:0.126 - »:0.129 - détaill:0.161 - 
 06d02.txt
 fievet:0.135 - central:0.277 - routi:0.26 - 08:0.141 - arden:0.237 - d’enrob:0.176 - ardennais:0.182 - €t:0.147 - enrob:0.51 - associ:0.153 - 
 06d34.txt
@@ -1345,7 +1345,7 @@ snef:0.271 - societ:0.229 - guigu:0.397 - chauss:0.221 - bourdin:0.272 - cochery
 96d80.txt
 d’électr:0.15 - product:0.216 - edf:0.452 - autonom:0.169 - «:0.156 - d’achat:0.15 - cogéner:0.314 - l’électr:0.196 - producteur:0.244 - d’edf:0.176 - 
 92d27.txt
-pharmacien:0.324 - tarn:0.155 - retrait:0.23 - reberg:0.336 - pharmaceut:0.144 - pensionnair:0.329 - tour:0.167 - maison:0.188 - parapharmaceut:0.197 - mazamet:0.448 - 
+pharmacien:0.324 - tarn:0.155 - retrait:0.23 - reberg:0.336 - pharmaceut:0.144 - pensionnair:0.329 - tour:0.167 - maison:0.188 - parapharmaceut:0.198 - mazamet:0.448 - 
 12d20.txt
 mutual:0.417 - triangl:0.124 - mutass:0.267 - opticien:0.368 - «:0.189 - mgsr:0.173 - mfp:0.153 - sor:0.489 - »:0.188 - mutuel:0.152 - 
 94mc03.txt
@@ -1361,7 +1361,7 @@ hautegaron:0.185 - dun:0.161 - toulousain:0.153 - fermetur:0.159 - monu:0.232 - 
 93d53.txt
 compact:0.549 - 584:0.218 - societ:0.144 - 93d53:0.201 - sdrm:0.165 - 1993:0.202 - courivaud:0.142 - vu:0.13 - compositeur:0.147 - euro:0.408 - 
 98d23.txt
-societ:0.189 - snc:0.136 - rout:0.157 - d’azur:0.256 - snaf:0.164 - lefebvr:0.154 - télécop:0.13 - martin:0.17 - spap:0.67 - gerland:0.197 - 
+societ:0.189 - snc:0.136 - rout:0.157 - d’azur:0.257 - snaf:0.164 - lefebvr:0.154 - télécop:0.13 - martin:0.17 - spap:0.669 - gerland:0.197 - 
 94d11.txt
 verr:0.145 - saintgobain:0.483 - sgv:0.305 - vitrag:0.562 - polyglass:0.233 - biv:0.233 - verri:0.095 - licenc:0.174 - climal:0.233 - societ:0.096 - 
 10d31.txt
@@ -1371,9 +1371,9 @@ garni:0.454 - societ:0.195 - march:0.141 - stcm:0.134 - laget:0.178 - rbtp:0.132
 94d04.txt
 1511:0.141 - primair:0.294 - 3221:0.314 - malad:0.28 - sécur:0.147 - lassur:0.146 - caiss:0.306 - csmti:0.178 - dassur:0.201 - mutuel:0.322 - 
 92mc11.txt
-mercat:0.156 - télécom:0.256 - orang:0.228 - conservatoir:0.133 - list:0.208 - market:0.177 - filetech:0.491 - fichi:0.226 - télécommun:0.125 - lannuair:0.209 - 
+mercat:0.156 - télécom:0.255 - orang:0.228 - conservatoir:0.133 - list:0.208 - market:0.177 - filetech:0.491 - fichi:0.226 - télécommun:0.125 - lannuair:0.209 - 
 06d30.txt
-syndicat:0.207 - stm:0.192 - «:0.185 - tax:0.388 - list:0.183 - radio:0.164 - tupp:0.24 - licenc:0.255 - marseil:0.333 - »:0.181 - 
+syndicat:0.207 - stm:0.192 - «:0.185 - tax:0.388 - list:0.183 - radio:0.164 - tupp:0.241 - licenc:0.255 - marseil:0.333 - »:0.181 - 
 07mc05.txt
 radios:0.176 - sit:0.126 - «:0.091 - eiffel:0.231 - tdf:0.659 - équip:0.117 - tour:0.128 - diffus:0.161 - towercast:0.446 - fm:0.097 - 
 07d14.txt
@@ -1405,11 +1405,11 @@ vent:0.159 - societ:0.157 - remis:0.171 - p:0.201 - hitach:0.583 - 19901991:0.15
 91d49.txt
 clolus:0.075 - rault:0.213 - pav:0.105 - voir:0.154 - modern:0.111 - bordur:0.125 - lot:0.102 - gran:0.841 - roussel:0.126 - caceg:0.135 - 
 91d52.txt
-syndicat:0.224 - salon:0.209 - imex:0.14 - automobil:0.238 - 1989:0.158 - sofacar:0.499 - guadeloup:0.334 - import:0.155 - japonais:0.172 - véhicul:0.312 - 
+syndicat:0.224 - salon:0.209 - imex:0.14 - automobil:0.238 - 1989:0.158 - sofacar:0.499 - guadeloup:0.334 - import:0.154 - japonais:0.172 - véhicul:0.312 - 
 05d06.txt
 fashion:0.308 - marc:0.331 - jacob’:0.279 - chaussur:0.187 - rossimod:0.396 - lux:0.134 - societ:0.151 - studio:0.2 - jacob:0.179 - lvmh:0.413 - 
 91d36.txt
-garag:0.371 - répar:0.191 - expert:0.124 - commun:0.151 - automobil:0.451 - 379:0.134 - bureau:0.248 - 91d36:0.129 - louest:0.432 - horair:0.112 - 
+garag:0.371 - répar:0.191 - expert:0.124 - commun:0.151 - automobil:0.451 - 379:0.134 - bureau:0.247 - 91d36:0.129 - louest:0.432 - horair:0.112 - 
 92d65.txt
 reproduct:0.151 - 1992:0.172 - citécâbl:0.515 - 92d65:0.136 - 393:0.141 - societ:0.235 - auteur:0.222 - vidéocommun:0.201 - musiqu:0.144 - compositeur:0.298 - 
 09d28.txt
@@ -1425,7 +1425,7 @@ télépher:0.168 - carteneig:0.284 - comit:0.21 - orion:0.236 - station:0.224 - 
 12d07.txt
 bois:0.246 - plastiqu:0.155 - fabric:0.133 - d’emballag:0.314 - m€:0.195 - fruit:0.171 - légum:0.256 - caget:0.27 - emballag:0.187 - op:0.541 - 
 02d05.txt
-a:0.105 - randi:0.142 - scientif:0.081 - cotis:0.081 - refus:0.12 - réintegr:0.227 - qu’il:0.152 - cne:0.731 - jehan:0.379 - 98d81:0.084 - 
+a:0.105 - randi:0.142 - scientif:0.081 - cotis:0.081 - refus:0.12 - réintegr:0.226 - qu’il:0.152 - cne:0.731 - jehan:0.379 - 98d81:0.084 - 
 97d61.txt
 fv:0.268 - gondrand:0.21 - dev:0.179 - pothin:0.254 - ghiglion:0.244 - daud:0.185 - déménag:0.291 - cachet:0.163 - séry:0.232 - continex:0.288 - 
 05d59.txt
@@ -1443,11 +1443,11 @@ médecin:0.575 - •:0.19 - ratp:0.505 - quot:0.101 - agent:0.123 - cabinet:0.10
 92d36.txt
 sodetram:0.133 - fv:0.178 - ag:0.162 - fonctionnair:0.134 - dev:0.247 - bedel:0.133 - déménag:0.572 - x:0.167 - trans:0.146 - dtsi:0.138 - 
 93d19.txt
-franc:0.203 - societ:0.207 - atc:0.125 - 1990:0.159 - vent:0.128 - sony:0.623 - magasin:0.108 - distributeur:0.172 - semavem:0.141 - chapel:0.273 - 
+franc:0.202 - societ:0.207 - atc:0.125 - 1990:0.159 - vent:0.128 - sony:0.623 - magasin:0.108 - distributeur:0.172 - semavem:0.141 - chapel:0.273 - 
 08d02.txt
 optiqu:0.239 - franc:0.146 - l’arcep:0.181 - télécom:0.304 - fibr:0.369 - boucl:0.166 - infrastructur:0.167 - fourreau:0.346 - déploi:0.338 - gen:0.164 - 
 01d56.txt
-conseil:0.232 - non:0.164 - décis:0.231 - ©:0.132 - publi:0.249 - concurrent:0.231 - 01d56:0.848 - n°:0.116 - 
+conseil:0.232 - non:0.163 - décis:0.231 - ©:0.132 - publi:0.248 - concurrent:0.231 - 01d56:0.848 - n°:0.116 - 
 01d15.txt
 ■:0.295 - af:0.176 - remis:0.314 - ca:0.154 - ht:0.122 - rfa:0.33 - 000:0.149 - 4:0.118 - reflex:0.124 - minolt:0.466 - 
 01d72.txt
@@ -1461,13 +1461,13 @@ tarnetgaron:0.351 - gendarmer:0.337 - trois:0.138 - prescript:0.141 - construct:
 05d49.txt
 machin:0.323 - postal:0.154 - locat:0.144 - d’affranch:0.304 - pitney:0.258 - bow:0.258 - contrat:0.143 - secap:0.343 - neopost:0.378 - sat:0.258 - 
 96d68.txt
-thionvill:0.188 - lot:0.249 - l’associ:0.212 - smur:0.215 - tsa:0.471 - atsu:0.297 - sanitair:0.235 - metzthionvill:0.204 - transport:0.206 - mosel:0.18 - 
+thionvill:0.188 - lot:0.248 - l’associ:0.212 - smur:0.215 - tsa:0.471 - atsu:0.297 - sanitair:0.235 - metzthionvill:0.204 - transport:0.206 - mosel:0.18 - 
 98d82.txt
-conseil:0.13 - concept:0.32 - 1998:0.198 - guedj:0.141 - concurrent:0.13 - 1040:0.301 - design:0.588 - 98d82:0.201 - societ:0.145 - ftmsfranc:0.201 - 
+conseil:0.131 - concept:0.32 - 1998:0.198 - guedj:0.141 - concurrent:0.13 - 1040:0.301 - design:0.588 - 98d82:0.201 - societ:0.145 - ftmsfranc:0.201 - 
 03d14.txt
 nacel:0.514 - franc:0.11 - societ:0.123 - 020082f:0.086 - haulott:0.642 - charpenti:0.108 - equip:0.108 - sem:0.234 - métall:0.094 - fusti:0.086 - 
 00d91.txt
-conseil:0.165 - 752:0.167 - domin:0.195 - strateg:0.17 - jeanpierr:0.154 - servel:0.282 - l’agenc:0.176 - déces:0.335 - andré:0.457 - audac:0.363 - 
+conseil:0.165 - 752:0.167 - domin:0.195 - strateg:0.17 - jeanpierr:0.154 - servel:0.282 - l’agenc:0.175 - déces:0.335 - andré:0.457 - audac:0.363 - 
 96d32.txt
 96d32:0.185 - bonthoux:0.136 - techniqu:0.17 - lartisanat:0.516 - toulousemidipyren:0.185 - centr:0.201 - conservatoir:0.159 - dassist:0.424 - expertscompt:0.163 - 860:0.211 - 
 92mc07.txt
@@ -1475,7 +1475,7 @@ conseil:0.165 - 752:0.167 - domin:0.195 - strateg:0.17 - jeanpierr:0.154 - serve
 93d61.txt
 93d61:0.19 - societ:0.191 - carburéacteur:0.153 - 1993:0.144 - elf:0.116 - saf:0.373 - barbeau:0.122 - 437:0.206 - anonym:0.127 - esso:0.635 - 
 04d46.txt
-•:0.138 - pomp:0.19 - x…:0.151 - courcouron:0.132 - funebr:0.207 - marin:0.402 - concurrent:0.128 - r:0.184 - d’un:0.169 - cod:0.142 - 
+•:0.138 - pomp:0.19 - x…:0.151 - courcouron:0.132 - funebr:0.207 - marin:0.402 - concurrent:0.128 - r:0.184 - d’un:0.169 - cod:0.141 - 
 06d18.txt
 sall:0.165 - cinem:0.168 - mediavis:0.613 - sep:0.14 - publiqu:0.137 - ascreenvis:0.271 - cinématograph:0.278 - circuit:0.16 - publicitair:0.137 - reg:0.289 - 
 95mc02.txt
@@ -1489,7 +1489,7 @@ côt:0.111 - détail:0.096 - sogé:0.549 - societ:0.161 - benoîtmalon:0.109 - �
 10d38.txt
 societ:0.13 - pagesjaun:0.768 - publiqu:0.107 - «:0.154 - annuair:0.3 - 2010:0.107 - agenc:0.145 - »:0.153 - publicitair:0.09 - annonceur:0.123 - 
 00d03.txt
-conseil:0.154 - fertierpotti:0.185 - 00d03:0.237 - aéroportuair:0.168 - 1049:0.37 - financ:0.219 - 2000:0.231 - l’industr:0.339 - ministr:0.198 - l’économ:0.243 - 
+conseil:0.154 - fertierpotti:0.188 - 00d03:0.237 - aéroportuair:0.168 - 1049:0.37 - financ:0.219 - 2000:0.231 - l’industr:0.339 - ministr:0.197 - l’économ:0.243 - 
 93d20.txt
 caiss:0.265 - agricol:0.117 - retrait:0.121 - cedt:0.53 - artisan:0.188 - cancav:0.177 - européen:0.132 - travailleur:0.116 - vieilless:0.222 - msa:0.152 - 
 99d76.txt
@@ -1527,7 +1527,7 @@ mpb:0.258 - porc:0.422 - viand:0.172 - bigard:0.207 - cooperl:0.231 - abatteur:0
 02d26.txt
 societ:0.161 - chaussur:0.431 - adidassalomon:0.099 - revendeur:0.06 - d’escrim:0.409 - marqu:0.07 - allstar:0.349 - prieur:0.464 - adid:0.299 - sport:0.3 - 
 04d05.txt
-servi:0.118 - alloc:0.112 - contingent:0.264 - phoenix:0.461 - laboratoir:0.296 - grossist:0.253 - quot:0.15 - médic:0.328 - pharm:0.343 - pfiz:0.114 - 
+servi:0.118 - alloc:0.113 - contingent:0.264 - phoenix:0.461 - laboratoir:0.296 - grossist:0.253 - quot:0.15 - médic:0.328 - pharm:0.343 - pfiz:0.114 - 
 99mc09.txt
 energ:0.502 - societ:0.086 - edf:0.176 - gaz:0.106 - d’achat:0.103 - d’un:0.088 - contrat:0.123 - bigorr:0.668 - central:0.094 - d’edf:0.101 - 
 97d77.txt
@@ -1545,11 +1545,11 @@ syndicat:0.212 - primair:0.125 - pharmacien:0.416 - smip:0.268 - laveyron:0.598 
 98d57.txt
 rohm:0.12 - atochem:0.413 - societ:0.166 - elf:0.303 - dupont:0.076 - mancozeb:0.279 - agri:0.459 - phytorus:0.535 - ha:0.088 - cymoxanil:0.177 - 
 99d35.txt
-consomm:0.134 - 97d88:0.146 - val:0.31 - 962:0.198 - l’union:0.231 - eurest:0.284 - surs:0.146 - fédéral:0.376 - d’ois:0.461 - 99d35:0.152 - 
+consomm:0.134 - 97d88:0.146 - val:0.309 - 962:0.198 - l’union:0.231 - eurest:0.284 - surs:0.146 - fédéral:0.376 - d’ois:0.461 - 99d35:0.152 - 
 93mc03.txt
 sftfinterflor:0.149 - spécial:0.139 - floritel:0.149 - interflor:0.658 - téléfleur:0.208 - réseau:0.155 - floral:0.178 - sftf:0.268 - fleurist:0.269 - transélit:0.149 - 
 05d30.txt
-chepar:0.486 - auchan:0.204 - l’hypermarch:0.146 - commercial:0.118 - zac:0.133 - zon:0.276 - hypermarch:0.139 - m2:0.152 - cavaillon:0.357 - voguet:0.415 - 
+chepar:0.487 - auchan:0.204 - l’hypermarch:0.146 - commercial:0.118 - zac:0.133 - zon:0.276 - hypermarch:0.139 - m2:0.152 - cavaillon:0.357 - voguet:0.415 - 
 95d48.txt
 baguetter:0.318 - émiss:0.204 - glem:0.177 - locat:0.182 - télévis:0.283 - dinstru:0.312 - prestamusic:0.256 - batter:0.249 - dem:0.211 - musiqu:0.225 - 
 06d20.txt
@@ -1585,7 +1585,7 @@ ténor:0.174 - citroën:0.118 - webed:0.422 - automobil:0.162 - solut:0.116 - ed
 15d20.txt
 résidentiel:0.234 - march:0.131 - cot:0.217 - remis:0.138 - «:0.377 - orang:0.301 - d’orang:0.209 - client:0.139 - »:0.387 - mobil:0.171 - 
 03d11.txt
-oper:0.186 - cor:0.418 - dacompt:0.132 - 1999:0.224 - casino:0.465 - commercial:0.132 - loced:0.189 - 2000:0.168 - demand:0.145 - doper:0.189 - 
+oper:0.186 - cor:0.418 - dacompt:0.132 - 1999:0.225 - casino:0.465 - commercial:0.132 - loced:0.189 - 2000:0.169 - demand:0.145 - doper:0.189 - 
 12d03.txt
 rénal:0.199 - sant:0.16 - patient:0.169 - bassin:0.141 - l’aural:0.368 - polyclin:0.216 - dialys:0.399 - modal:0.165 - l’arh:0.156 - l’irc:0.267 - 
 94d22.txt
@@ -1593,7 +1593,7 @@ billard:0.634 - william:0.176 - électron:0.214 - bally:0.202 - psd:0.445 - jeux
 97d46.txt
 a:0.118 - sarth:0.11 - log:0.114 - vall:0.279 - sppm:0.619 - dhlm:0.096 - ouest:0.187 - offre:0.156 - lot:0.245 - peintur:0.404 - 
 96d09.txt
-marty:0.259 - societ:0.094 - francel:0.108 - pennwalt:0.123 - tritur:0.133 - raffiner:0.157 - agri:0.089 - parazol:0.309 - soufr:0.755 - procèsverbal:0.098 - 
+marty:0.259 - societ:0.094 - francel:0.108 - pennwalt:0.123 - tritur:0.133 - raffiner:0.157 - agri:0.089 - parazol:0.309 - soufr:0.755 - procèsverbal:0.097 - 
 02d02.txt
 jonag:0.145 - prescript:0.2 - albertazz:0.155 - sog:0.198 - spac:0.152 - citral:0.253 - sad:0.289 - pusignan:0.149 - petav:0.299 - stracch:0.513 - 
 14d17.txt
@@ -1605,15 +1605,15 @@ brix:0.188 - pomp:0.143 - cherbourg:0.163 - «:0.116 - funebr:0.156 - funérair:
 94d56.txt
 sgco:0.283 - sbtp:0.252 - canalis:0.142 - traval:0.169 - sec2l:0.31 - assain:0.141 - rollist:0.273 - egtp:0.252 - entrepris:0.174 - theix:0.182 - 
 00d25.txt
-societ:0.107 - grandval:0.132 - 1157:0.287 - hydrau:0.746 - concurrent:0.12 - 2000:0.181 - mainten:0.211 - hagelsteen:0.114 - 00d25:0.186 - enregistr:0.097 - 
+societ:0.107 - grandval:0.132 - 1157:0.287 - hydrau:0.746 - concurrent:0.12 - 2000:0.182 - mainten:0.211 - hagelsteen:0.114 - 00d25:0.186 - enregistr:0.097 - 
 99d15.txt
 compagn:0.145 - cour:0.164 - l’expert:0.183 - d’appel:0.229 - rémuner:0.224 - parental:0.158 - jug:0.148 - barem:0.265 - d’expert:0.209 - expert:0.462 - 
 03d62.txt
 march:0.184 - district:0.261 - géograph:0.169 - coût:0.162 - dijonnais:0.202 - sig:0.309 - jeanlou:0.187 - consult:0.175 - ign:0.177 - l’ign:0.415 - 
 01d65.txt
-distribu:0.101 - andimap:0.103 - dépositair:0.132 - diffuseur:0.296 - parisien:0.171 - messager:0.48 - gionopress:0.098 - l’andimap:0.103 - press:0.575 - nmpp:0.17 - 
+distribu:0.1 - andimap:0.103 - dépositair:0.132 - diffuseur:0.296 - parisien:0.171 - messager:0.48 - gionopress:0.098 - l’andimap:0.103 - press:0.575 - nmpp:0.17 - 
 04d58.txt
-cajarc:0.272 - a:0.23 - march:0.122 - bisseuil:0.429 - pont:0.194 - bisseuilcapraro:0.181 - gaillac:0.129 - lot:0.217 - d’offr:0.122 - dde:0.355 - 
+cajarc:0.272 - a:0.23 - march:0.122 - bisseuil:0.429 - pont:0.194 - bisseuilcapraro:0.181 - gaillac:0.129 - lot:0.217 - d’offr:0.122 - dde:0.356 - 
 92d20.txt
 sogebr:0.403 - societ:0.128 - group:0.125 - alimentair:0.182 - robert:0.18 - kronenbourg:0.138 - spad:0.638 - chr:0.165 - boisson:0.298 - brasser:0.129 - 
 05d25.txt
@@ -1631,7 +1631,7 @@ marqu:0.157 - gaz:0.28 - liquéfi:0.208 - pétrol:0.185 - distributric:0.378 - p
 99d22.txt
 pftarimf:0.334 - traxl:0.334 - maily:0.205 - tardenois:0.207 - funebr:0.168 - walterfoc:0.347 - pft:0.193 - funérair:0.23 - barem:0.234 - pechenard:0.334 - 
 94d43.txt
-societ:0.169 - district:0.198 - patrimoin:0.19 - sogreah:0.486 - lingénier:0.116 - arcachon:0.184 - sudbassin:0.2 - littoral:0.401 - lègecapferret:0.22 - balineau:0.4 - 
+societ:0.169 - district:0.198 - patrimoin:0.19 - sogreah:0.486 - lingénier:0.116 - arcachon:0.184 - sudbassin:0.2 - littoral:0.401 - lègecapferret:0.22 - balineau:0.401 - 
 99d62.txt
 d’henday:0.172 - mas:0.377 - societ:0.134 - march:0.14 - sep:0.166 - socaeatlant:0.585 - courreg:0.101 - parking:0.175 - public:0.108 - he:0.355 - 
 01d12.txt
@@ -1649,7 +1649,7 @@ societ:0.096 - grossist:0.133 - tondeux:0.231 - commercial:0.138 - wolf:0.768 - 
 98d22.txt
 conseil:0.117 - 743:0.21 - concurrent:0.117 - 1998:0.133 - volkswagen:0.125 - cerv:0.722 - bernard:0.319 - bourgeon:0.171 - poi:0.135 - 98d22:0.18 - 
 08d34.txt
-oper:0.174 - pomp:0.256 - municipal:0.287 - funebr:0.279 - vill:0.214 - séjour:0.16 - déces:0.162 - funérair:0.282 - marseil:0.241 - reg:0.342 - 
+oper:0.174 - pomp:0.256 - municipal:0.287 - funebr:0.28 - vill:0.214 - séjour:0.16 - déces:0.162 - funérair:0.283 - marseil:0.241 - reg:0.342 - 
 07d39.txt
 parislondr:0.254 - passager:0.208 - coût:0.204 - rout:0.161 - ram:0.315 - airway:0.184 - train:0.281 - d’eurostar:0.218 - egl:0.197 - eurostar:0.374 - 
 90d36.txt
@@ -1659,7 +1659,7 @@ urban:0.318 - dévalu:0.118 - durban:0.349 - rémuner:0.112 - méthod:0.139 - sf
 02d58.txt
 rhôn:0.23 - sécam:0.215 - réunion:0.246 - cartran:0.199 - tvra:0.143 - car:0.228 - faur:0.233 - autocar:0.279 - lot:0.168 - transport:0.185 - 
 97d43.txt
-chequepoint:0.157 - gaillemar:0.524 - 884:0.1 - appareil:0.108 - beverag:0.491 - automat:0.125 - societ:0.181 - boisson:0.203 - cocacol:0.471 - distributeur:0.108 - 
+chequepoint:0.157 - gaillemar:0.524 - 884:0.1 - appareil:0.108 - beverag:0.491 - automat:0.125 - societ:0.181 - boisson:0.203 - cocacol:0.47 - distributeur:0.108 - 
 08d04.txt
 messager:0.081 - tronc:0.201 - dépositair:0.205 - coût:0.08 - automatis:0.161 - 2000:0.177 - system:0.122 - mlp:0.539 - press:0.328 - nmpp:0.548 - 
 95d23.txt
@@ -1675,7 +1675,7 @@ concurrent:0.11 - durgenc:0.287 - pharmacien:0.39 - lorganis:0.122 - pay:0.177 -
 03d26.txt
 fioul:0.133 - gaz:0.476 - naturel:0.176 - centr:0.129 - log:0.128 - gdf:0.504 - aid:0.102 - edf:0.278 - lélectr:0.129 - chauffag:0.299 - 
 02d46.txt
-franc:0.232 - télécom:0.441 - 2002:0.172 - fai:0.411 - command:0.179 - d’éligibil:0.14 - adsl:0.151 - wanadoo:0.171 - tonlin:0.296 - serveur:0.202 - 
+franc:0.231 - télécom:0.441 - 2002:0.172 - fai:0.411 - command:0.179 - d’éligibil:0.14 - adsl:0.151 - wanadoo:0.171 - tonlin:0.296 - serveur:0.202 - 
 95d80.txt
 797:0.131 - matrimonial:0.175 - fouger:0.183 - dagenc:0.124 - contactsolitudeloisir:0.327 - 95d80:0.109 - chapron:0.109 - nuptia:0.109 - mme:0.121 - geslin:0.653 - 
 11d11.txt
@@ -1685,7 +1685,7 @@ intérieur:0.166 - engag:0.139 - radios:0.218 - «:0.253 - regl:0.109 - radio:0.
 93d52.txt
 vignet:0.179 - urssaf:0.472 - cotis:0.201 - spectacl:0.382 - 611:0.141 - dalloc:0.125 - 2131:0.118 - social:0.126 - grenobl:0.125 - atryad:0.393 - 
 95mc11.txt
-distribu:0.089 - vent:0.084 - sélect:0.159 - societ:0.185 - marcout:0.089 - conservatoir:0.089 - refus:0.082 - carti:0.786 - contrat:0.107 - marcoutsoulhol:0.336 - 
+distribu:0.089 - vent:0.084 - sélect:0.159 - societ:0.185 - marcout:0.089 - conservatoir:0.088 - refus:0.082 - carti:0.786 - contrat:0.107 - marcoutsoulhol:0.336 - 
 91d23.txt
 snp:0.129 - lentrepris:0.19 - nic:0.153 - mid:0.155 - soma:0.129 - doffr:0.166 - epba:0.15 - séguran:0.258 - liz:0.17 - ross:0.625 - 
 00mc14.txt
@@ -1707,11 +1707,11 @@ societ:0.146 - supermarch:0.137 - champion:0.334 - marcadet:0.502 - 75:0.127 - f
 93d26.txt
 dial:0.326 - societ:0.103 - redev:0.105 - sdrm:0.571 - loisir:0.182 - phonogramm:0.127 - 89d24:0.196 - snep:0.479 - linjonct:0.139 - protocoleclub:0.152 - 
 04d06.txt
-mg:0.143 - pharmacien:0.129 - contingent:0.129 - laboratoir:0.166 - grossistesrépartiteur:0.148 - officin:0.196 - médic:0.228 - lamictal:0.432 - ocp:0.261 - gsk:0.508 - 
+mg:0.143 - pharmacien:0.129 - contingent:0.129 - laboratoir:0.166 - grossistesrépartiteur:0.148 - officin:0.196 - médic:0.228 - lamictal:0.432 - ocp:0.261 - gsk:0.509 - 
 15d15.txt
 nocib:0.178 - sam:0.353 - mezzanin:0.373 - gar:0.349 - banlieu:0.197 - 140092m:0.236 - a2c:0.186 - 140091f:0.218 - nord:0.166 - elior:0.172 - 
 01d34.txt
-seeing:0.417 - societ:0.11 - tourist:0.203 - nic:0.265 - d’azur:0.187 - voyag:0.107 - l’aéroport:0.112 - sight:0.417 - tourism:0.108 - joe’:0.452 - 
+seeing:0.417 - societ:0.11 - tourist:0.203 - nic:0.266 - d’azur:0.188 - voyag:0.107 - l’aéroport:0.112 - sight:0.417 - tourism:0.108 - joe’:0.451 - 
 03d52.txt
 lordr:0.182 - chirurgiensdent:0.444 - lart:0.162 - prothes:0.447 - x…:0.141 - hautesavoi:0.185 - dentair:0.475 - cnsd:0.146 - chirurgiendent:0.151 - illégal:0.103 - 
 03d64.txt
@@ -1727,7 +1727,7 @@ machin:0.152 - préinstall:0.2 - «:0.118 - logiciel:0.294 - gateway:0.165 - dig
 01d73.txt
 desoeuvr:0.518 - 4428:0.207 - commerc:0.14 - val:0.21 - barreau:0.305 - patrick:0.202 - cod:0.149 - 4203:0.17 - d’ois:0.313 - 4205:0.116 - 
 97d31.txt
-produit:0.203 - societ:0.152 - français:0.112 - johnson:0.686 - vall:0.175 - ivay:0.258 - discol:0.282 - professional:0.101 - distributeur:0.245 - dentretien:0.098 - 
+produit:0.203 - societ:0.152 - français:0.111 - johnson:0.686 - vall:0.175 - ivay:0.258 - discol:0.282 - professional:0.101 - distributeur:0.245 - dentretien:0.098 - 
 00d87.txt
 toursoper:0.279 - transmontagn:0.641 - societ:0.174 - azur:0.296 - 99mc10:0.101 - station:0.107 - l’injonct:0.093 - agenc:0.148 - praloup:0.247 - alp:0.362 - 
 93d33.txt
@@ -1745,21 +1745,21 @@ a:0.116 - traval:0.178 - euros:0.13 - lmr:0.17 - cors:0.138 - raffall:0.59 - off
 05d51.txt
 societ:0.186 - lot:0.162 - cili:0.554 - «:0.146 - db:0.115 - dufaylit:0.282 - somoclest:0.318 - steng:0.404 - »:0.143 - ccb:0.231 - 
 09d32.txt
-engag:0.161 - photomaton:0.756 - cybervitrin:0.124 - claus:0.117 - d’ident:0.11 - contrat:0.25 - d’emplac:0.097 - dur:0.08 - 08d16:0.078 - cabin:0.323 - 
+engag:0.161 - photomaton:0.757 - cybervitrin:0.124 - claus:0.117 - d’ident:0.11 - contrat:0.25 - d’emplac:0.097 - dur:0.08 - 08d16:0.078 - cabin:0.323 - 
 01mc06.txt
-franc:0.135 - option:0.166 - télécom:0.316 - pro:0.196 - malign:0.473 - tchatch:0.186 - offre:0.206 - présélect:0.152 - local:0.353 - lign:0.197 - 
+franc:0.135 - option:0.166 - télécom:0.316 - pro:0.197 - malign:0.473 - tchatch:0.186 - offre:0.206 - présélect:0.152 - local:0.353 - lign:0.197 - 
 02d48.txt
 descamp:0.784 - cathelain:0.124 - societ:0.178 - tp:0.125 - sad:0.145 - beugnet:0.179 - caudry:0.113 - a:0.108 - urfra:0.108 - télécop:0.109 - 
 09d06.txt
-sit:0.136 - train:0.192 - billet:0.254 - voyagessncfcom:0.274 - sncf:0.334 - expedi:0.302 - voyag:0.41 - vsc:0.419 - agenc:0.153 - ravel:0.195 - 
+sit:0.136 - train:0.192 - billet:0.254 - voyagessncfcom:0.274 - sncf:0.334 - expedi:0.302 - voyag:0.41 - vsc:0.419 - agenc:0.152 - ravel:0.195 - 
 97d51.txt
-hypromat:0.654 - franc:0.116 - societ:0.096 - centr:0.144 - franchiseur:0.198 - franchis:0.508 - contrat:0.095 - réseau:0.09 - claus:0.085 - lavag:0.256 - 
+hypromat:0.654 - franc:0.116 - societ:0.097 - centr:0.144 - franchiseur:0.198 - franchis:0.508 - contrat:0.095 - réseau:0.09 - claus:0.085 - lavag:0.256 - 
 02mc08.txt
 societ:0.159 - tourist:0.252 - marian:0.271 - scolair:0.121 - guglielmacc:0.118 - corsicar:0.486 - calv:0.419 - autocar:0.201 - lot:0.145 - cors:0.354 - 
 95d06.txt
 propriet:0.134 - droit:0.136 - bemim:0.219 - voisin:0.125 - afedd:0.241 - artistesinterpret:0.156 - phonogramm:0.176 - discothequ:0.323 - spre:0.504 - intellectuel:0.182 - 
 10d07.txt
-distribu:0.09 - march:0.105 - cadeau:0.525 - enseign:0.118 - cart:0.372 - d’un:0.097 - kadéos:0.56 - titr:0.101 - multienseign:0.188 - chequ:0.124 - 
+distribu:0.09 - march:0.105 - cadeau:0.525 - enseign:0.118 - cart:0.372 - d’un:0.097 - kadéos:0.56 - titr:0.1 - multienseign:0.188 - chequ:0.124 - 
 05d36.txt
 aven:0.167 - d’échéanc:0.225 - «:0.132 - claus:0.241 - collect:0.137 - decal:0.596 - contrat:0.245 - mobili:0.33 - »:0.12 - jc:0.151 - 
 99d85.txt
@@ -1803,9 +1803,9 @@ socarel:0.233 - béton:0.417 - pref:0.274 - architecton:0.251 - morin:0.196 - 20
 96d74.txt
 pomp:0.461 - région:0.111 - liber:0.194 - polyclin:0.313 - famill:0.157 - funebr:0.503 - huet:0.318 - obsequ:0.105 - parc:0.096 - charlevillemézi:0.125 - 
 98d30.txt
-a:0.142 - cico:0.246 - sogex:0.242 - march:0.149 - traval:0.171 - suburbain:0.137 - fily:0.187 - surbeco:0.17 - societ:0.272 - bir:0.511 - 
+a:0.142 - cico:0.246 - sogex:0.242 - march:0.149 - traval:0.171 - suburbain:0.137 - fily:0.187 - surbeco:0.17 - societ:0.273 - bir:0.511 - 
 94d24.txt
-sapn:0.11 - locas:0.116 - locat:0.074 - avant:0.076 - eurodollar:0.398 - ada:0.809 - voitur:0.096 - lvo:0.116 - deurodollar:0.11 - societ:0.106 - 
+sapn:0.11 - locas:0.116 - locat:0.074 - avant:0.075 - eurodollar:0.398 - ada:0.809 - voitur:0.096 - lvo:0.116 - deurodollar:0.11 - societ:0.106 - 
 96d72.txt
 distribu:0.09 - vent:0.062 - societ:0.087 - «:0.103 - saf:0.145 - rolex:0.879 - montr:0.192 - »:0.103 - distributeur:0.103 - liz:0.075 - 
 01mc05.txt
@@ -1823,7 +1823,7 @@ textil:0.119 - m€:0.156 - btb:0.524 - loueur:0.126 - vêt:0.13 - gi:0.122 - el
 12d19.txt
 chirurgiensdent:0.224 - peroxyd:0.206 - «:0.237 - l’éclairc:0.164 - dentair:0.306 - sourir:0.337 - d’éclairc:0.35 - d’hydrogen:0.207 - »:0.231 - dénigr:0.215 - 
 04d48.txt
-franc:0.162 - ver:0.19 - télécom:0.366 - fix:0.185 - sfr:0.232 - trafic:0.231 - cegetel:0.246 - cta:0.238 - »:0.135 - mobil:0.401 - 
+franc:0.161 - ver:0.19 - télécom:0.366 - fix:0.185 - sfr:0.232 - trafic:0.231 - cegetel:0.246 - cta:0.238 - »:0.134 - mobil:0.401 - 
 96d34.txt
 selli:0.564 - conseil:0.114 - vaisset:0.107 - 852:0.231 - 1996:0.169 - 96d34:0.175 - barbeau:0.112 - saôneetloir:0.114 - jeanyv:0.518 - notair:0.273 - 
 96d54.txt
@@ -1831,7 +1831,7 @@ societ:0.23 - 1995:0.145 - toshib:0.227 - atl:0.236 - abstract:0.274 - 95d16:0.1
 02d33.txt
 a:0.064 - societ:0.133 - scan:0.14 - coupon:0.594 - marketing:0.079 - nch:0.072 - gestion:0.144 - trait:0.068 - sogec:0.688 - réduct:0.079 - 
 03d46.txt
-ange:0.157 - •:0.185 - group:0.157 - fntv06:0.207 - nic:0.28 - €:0.193 - semiac:0.491 - fntv:0.188 - transport:0.192 - tanp:0.172 - 
+ange:0.157 - •:0.185 - group:0.157 - fntv06:0.207 - nic:0.281 - €:0.193 - semiac:0.491 - fntv:0.188 - transport:0.192 - tanp:0.172 - 
 99mc06.txt
 franc:0.208 - d’acces:0.228 - télécom:0.43 - interact:0.364 - fai:0.219 - offre:0.12 - internet:0.249 - adsl:0.369 - connexion:0.123 - groli:0.313 - 
 96d02.txt
@@ -1855,13 +1855,13 @@ lordon:0.122 - 1996:0.127 - semi:0.3 - deureetloir:0.14 - ffsa:0.27 - conservato
 05d68.txt
 a1:0.135 - distanc:0.18 - format:0.333 - l’éduc:0.135 - l’enseign:0.165 - cned:0.779 - a2:0.084 - chaned:0.1 - d’enseign:0.1 - priv:0.092 - 
 05d73.txt
-dom:0.379 - l’od:0.523 - «:0.144 - annuair:0.213 - perform:0.145 - l’agenc:0.122 - oda:0.136 - »:0.149 - overs:0.132 - hav:0.412 - 
+dom:0.379 - l’od:0.524 - «:0.144 - annuair:0.213 - perform:0.145 - l’agenc:0.122 - oda:0.136 - »:0.149 - overs:0.132 - hav:0.412 - 
 94d07.txt
 coiffur:0.391 - statu:0.139 - 94d07:0.243 - david:0.33 - 347:0.246 - franchis:0.222 - vu:0.157 - lou:0.205 - marion:0.169 - jean:0.195 - 
 98d21.txt
 seafranc:0.124 - irland:0.351 - sten:0.119 - brittany:0.497 - angleterr:0.384 - bretagn:0.267 - 724:0.153 - ferr:0.396 - 98d21:0.131 - portsmouth:0.116 - 
 91d15.txt
-lomb:0.31 - thorinius:0.195 - traval:0.31 - ramassamy:0.313 - lentrepris:0.223 - dublin:0.225 - 1988:0.134 - pradel:0.222 - exécut:0.2 - offre:0.138 - 
+lomb:0.31 - thorinius:0.196 - traval:0.309 - ramassamy:0.313 - lentrepris:0.223 - dublin:0.225 - 1988:0.134 - pradel:0.222 - exécut:0.2 - offre:0.138 - 
 99d09.txt
 pum:0.114 - l’irrig:0.183 - négoci:0.202 - l’adduct:0.168 - pvc:0.35 - potabl:0.134 - l’assain:0.156 - tub:0.649 - bât:0.11 - d’eau:0.122 - 
 95d15.txt
@@ -1879,11 +1879,11 @@ franc:0.195 - l’arcep:0.164 - deb:0.142 - télécom:0.556 - «:0.193 - outrem:
 99d28.txt
 conseil:0.128 - câbl:0.486 - région:0.205 - concurrent:0.112 - metz:0.446 - 1131:0.188 - comit:0.274 - abon:0.314 - 99d28:0.124 - chambr:0.112 - 
 92d05.txt
-tribunal:0.178 - devry:0.567 - parfum:0.216 - 92d05:0.165 - saintlaurent:0.262 - pineau:0.142 - yve:0.166 - dav:0.307 - instanc:0.209 - grand:0.137 - 
+tribunal:0.178 - devry:0.567 - parfum:0.216 - 92d05:0.165 - saintlaurent:0.262 - pineau:0.141 - yve:0.166 - dav:0.307 - instanc:0.209 - grand:0.137 - 
 96d25.txt
 a:0.136 - cégélec:0.165 - doffr:0.149 - sal:0.441 - daudet:0.264 - lot:0.144 - fourniergrospaud:0.153 - societ:0.19 - compagn:0.225 - sudelectr:0.334 - 
 97d79.txt
-a:0.13 - societ:0.13 - 1994:0.09 - reno:0.089 - raynaud:0.652 - seralu:0.462 - bibliothequ:0.091 - limog:0.169 - verial:0.146 - lot:0.144 - 
+a:0.13 - societ:0.13 - 1994:0.09 - reno:0.089 - raynaud:0.652 - seralu:0.462 - bibliothequ:0.091 - limog:0.169 - verial:0.146 - lot:0.143 - 
 94d26.txt
 dalsac:0.226 - lordon:0.2 - schubel:0.145 - strasal:0.145 - chauss:0.161 - bourdin:0.199 - cochery:0.195 - trabet:0.264 - 94d26:0.145 - basrhin:0.173 - 
 93d16.txt
@@ -1895,7 +1895,7 @@ societ:0.136 - fournisseur:0.132 - caprofem:0.657 - darty:0.503 - jvc:0.117 - t�
 01d75.txt
 canal:0.338 - societ:0.154 - droit:0.14 - tp:0.169 - télévisuel:0.2 - diffus:0.228 - plus:0.148 - préachat:0.281 - multivis:0.322 - film:0.248 - 
 06d21.txt
-viticulteur:0.137 - qnv:0.362 - cdvcmodef:0.124 - vin:0.239 - distill:0.127 - cognac:0.56 - bnic:0.314 - l’eaudev:0.166 - d’eaudev:0.134 - viticultur:0.132 - 
+viticulteur:0.137 - qnv:0.362 - cdvcmodef:0.124 - vin:0.239 - distill:0.127 - cognac:0.561 - bnic:0.314 - l’eaudev:0.166 - d’eaudev:0.134 - viticultur:0.132 - 
 98d59.txt
 conseil:0.122 - demand:0.129 - concurrent:0.151 - d’av:0.234 - l’associ:0.228 - château:0.448 - rel:0.36 - ouet:0.183 - d’hôtelsrestaur:0.117 - 98d59:0.117 - 
 12d06.txt
@@ -1911,7 +1911,7 @@ rab:0.107 - inovert:0.153 - profilag:0.121 - crepel:0.593 - rivi:0.296 - cudl:0.
 04mc02.txt
 télécom:0.226 - bouygu:0.199 - «:0.082 - orang:0.408 - cétélec:0.076 - caraïb:0.782 - d’un:0.079 - »:0.085 - mobil:0.103 - kiosqu:0.064 - 
 02d63.txt
-a:0.146 - franc:0.145 - télécom:0.318 - cofratel:0.401 - expertel:0.423 - ●:0.13 - pabx:0.117 - mainten:0.12 - d’un:0.162 - télécommun:0.173 - 
+a:0.146 - franc:0.145 - télécom:0.318 - cofratel:0.401 - expertel:0.424 - ●:0.13 - pabx:0.117 - mainten:0.12 - d’un:0.162 - télécommun:0.173 - 
 01d16.txt
 a:0.101 - group:0.11 - traval:0.18 - lign:0.188 - concess:0.13 - construct:0.108 - saturg:0.632 - tramway:0.301 - d’extens:0.103 - smtc:0.409 - 
 99d52.txt
@@ -1923,13 +1923,13 @@ franc:0.183 - societ:0.16 - actron:0.49 - perifem:0.21 - technolog:0.146 - brico
 09d36.txt
 télécom:0.267 - bouygu:0.109 - «:0.103 - orang:0.334 - terminaison:0.109 - d’orang:0.139 - caraïb:0.665 - antillesguyan:0.137 - »:0.104 - mobil:0.206 - 
 94d51.txt
-vachal:0.262 - devaut:0.211 - lentrepris:0.169 - maussir:0.216 - reclus:0.208 - dev:0.219 - gondrand:0.199 - déménag:0.256 - bardon:0.363 - vergn:0.262 - 
+vachal:0.262 - devaut:0.211 - lentrepris:0.169 - maussir:0.216 - reclus:0.208 - dev:0.218 - gondrand:0.199 - déménag:0.256 - bardon:0.363 - vergn:0.262 - 
 98d17.txt
 dunit:0.181 - interféron:0.246 - laboratoir:0.123 - intron:0.359 - dosag:0.232 - roferon:0.477 - roch:0.227 - scheringplough:0.261 - alpha:0.184 - mui:0.236 - 
 97d86.txt
-societ:0.086 - répar:0.267 - appareil:0.109 - chronotachygraph:0.474 - mannesmann:0.235 - contrat:0.068 - kienzl:0.675 - disqu:0.09 - vdo:0.201 - véhicul:0.093 - 
+societ:0.086 - répar:0.267 - appareil:0.109 - chronotachygraph:0.474 - station:0.068 - mannesmann:0.235 - kienzl:0.675 - disqu:0.09 - vdo:0.201 - véhicul:0.093 - 
 02d03.txt
-societ:0.166 - sall:0.162 - cinem:0.208 - écran:0.127 - némo:0.218 - publiqu:0.205 - médiavis:0.655 - cinématograph:0.215 - publicitair:0.16 - technic:0.19 - 
+societ:0.167 - sall:0.162 - cinem:0.208 - écran:0.127 - némo:0.218 - publiqu:0.205 - médiavis:0.655 - cinématograph:0.215 - publicitair:0.16 - technic:0.19 - 
 10d20.txt
 webcoupon:0.457 - ecoupon:0.363 - perifem:0.233 - «:0.093 - mldc:0.13 - l’ilec:0.114 - coupon:0.186 - highco:0.488 - sogec:0.386 - »:0.093 - 
 94mc02.txt
@@ -1937,11 +1937,11 @@ franc:0.101 - societ:0.142 - audipub:0.36 - mesur:0.155 - conservatoir:0.198 - l
 05d19.txt
 march:0.235 - g2:0.19 - a3:0.234 - a2:0.214 - a4:0.265 - a7:0.303 - d4:0.124 - d5:0.195 - bis:0.451 - dis:0.124 - 
 07mc03.txt
-franc:0.179 - raccord:0.23 - télécom:0.409 - «:0.127 - point:0.123 - dadduct:0.159 - solutel:0.677 - d’adduct:0.178 - »:0.132 - prestat:0.123 - 
+franc:0.179 - raccord:0.23 - télécom:0.409 - «:0.127 - point:0.123 - dadduct:0.159 - solutel:0.678 - d’adduct:0.178 - »:0.132 - prestat:0.123 - 
 95d51.txt
 roi:0.304 - westeel:0.229 - societ:0.17 - gay:0.216 - lentrepris:0.131 - clemenceau:0.145 - santern:0.533 - guérineau:0.28 - seei:0.229 - roqu:0.178 - 
 96d64.txt
-sgtl:0.151 - societ:0.216 - sog:0.136 - rout:0.13 - pietr:0.514 - mid:0.12 - gvtp:0.15 - amourdedieu:0.213 - gerland:0.476 - scr:0.317 - 
+sgtl:0.151 - societ:0.217 - sog:0.136 - rout:0.13 - pietr:0.514 - mid:0.12 - gvtp:0.15 - amourdedieu:0.213 - gerland:0.476 - scr:0.317 - 
 00d82.txt
 d’impuls:0.117 - miko:0.088 - cogesal:0.126 - l’impuls:0.111 - findus:0.286 - boncolac:0.133 - meubl:0.124 - glac:0.769 - congel:0.124 - sfig:0.097 - 
 96d07.txt
@@ -1949,7 +1949,7 @@ a:0.193 - cis:0.17 - nîm:0.174 - societ:0.212 - traval:0.283 - carrel:0.151 - m
 90mc06.txt
 societ:0.179 - discount:0.13 - p:0.203 - wagram:0.118 - vu:0.125 - programm:0.164 - sony:0.395 - jean:0.304 - 100:0.177 - chapel:0.403 - 
 04d33.txt
-•:0.173 - concurrent:0.148 - dvd:0.16 - téléviseur:0.172 - madelein:0.217 - prix:0.278 - hif:0.154 - distributeur:0.203 - darty:0.188 - magasin:0.226 - 
+•:0.173 - concurrent:0.148 - dvd:0.16 - téléviseur:0.172 - madelein:0.217 - prix:0.279 - hif:0.154 - distributeur:0.203 - darty:0.188 - magasin:0.226 - 
 99d14.txt
 mainten:0.11 - societ:0.114 - matériel:0.148 - tdf:0.82 - emettel:0.098 - collect:0.087 - diffus:0.139 - station:0.12 - chaîn:0.177 - réémiss:0.102 - 
 97d29.txt
@@ -1967,9 +1967,9 @@ aa:0.241 - bio:0.214 - lda:0.463 - vet:0.289 - vétérinair:0.273 - gd:0.215 - g
 99d02.txt
 energ:0.36 - edf:0.306 - gaz:0.126 - sarl:0.17 - dispatch:0.309 - contrat:0.15 - bigorr:0.489 - producteur:0.135 - prim:0.129 - fkw:0.256 - 
 90d29.txt
-artois:0.083 - caféshôtelsrestaur:0.083 - societ:0.145 - scob:0.667 - dun:0.081 - brasseur:0.115 - refus:0.093 - bier:0.121 - boisson:0.084 - interbrew:0.538 - 
+artois:0.083 - caféshôtelsrestaur:0.083 - societ:0.145 - scob:0.667 - dun:0.081 - brasseur:0.115 - refus:0.093 - bier:0.121 - boisson:0.084 - interbrew:0.539 - 
 92d37.txt
-biard:0.233 - mac:0.188 - dev:0.257 - déménageur:0.158 - ballut:0.234 - calv:0.32 - lherrou:0.288 - déménag:0.173 - floch:0.375 - craignougourio:0.34 - 
+biard:0.233 - mac:0.188 - dev:0.256 - déménageur:0.158 - ballut:0.234 - calv:0.32 - lherrou:0.288 - déménag:0.173 - floch:0.375 - craignougourio:0.34 - 
 99d24.txt
 conseil:0.159 - 443:0.263 - guerlain:0.372 - 1999:0.185 - famill:0.287 - vu:0.159 - maillotbouvi:0.188 - féder:0.269 - hagelsteen:0.15 - 99d24:0.245 - 
 07d25.txt
@@ -1997,7 +1997,7 @@ societ:0.175 - sinistr:0.09 - system:0.088 - informat:0.302 - twinsysdataguard:0
 05d63.txt
 routag:0.193 - tri:0.153 - affranch:0.126 - «:0.156 - datapost:0.333 - »:0.154 - courri:0.125 - post:0.405 - postal:0.135 - routeur:0.511 - 
 96d26.txt
-syndicat:0.158 - convent:0.153 - daquitain:0.186 - primair:0.166 - tax:0.245 - malad:0.331 - lotetgaron:0.577 - caiss:0.346 - dassur:0.139 - transport:0.15 - 
+syndicat:0.157 - convent:0.153 - daquitain:0.186 - primair:0.166 - tax:0.244 - malad:0.331 - lotetgaron:0.577 - caiss:0.346 - dassur:0.138 - transport:0.15 - 
 15d03.txt
 lait:0.205 - lsm:0.173 - «:0.149 - senagral:0.35 - mdd:0.237 - novand:0.261 - lactal:0.289 - »:0.153 - yopl:0.267 - laiti:0.231 - 
 01d49.txt
@@ -2007,13 +2007,13 @@ marennesoléron:0.565 - src:0.417 - conchylicultur:0.179 - dhuîtr:0.155 - prix:
 98d18.txt
 a:0.101 - christoph:0.183 - salondeprovent:0.13 - concess:0.079 - volkswagen:0.215 - palm:0.739 - véhicul:0.088 - contrat:0.103 - vagfranc:0.389 - audi:0.111 - 
 02d15.txt
-havr:0.371 - sogem:0.358 - manutentionnair:0.281 - mtv:0.214 - outillag:0.163 - terminal:0.183 - autonom:0.22 - ciph:0.267 - port:0.169 - manutent:0.18 - 
+havr:0.371 - sogem:0.358 - manutentionnair:0.281 - mtv:0.214 - outillag:0.163 - terminal:0.183 - autonom:0.22 - ciph:0.268 - port:0.169 - manutent:0.18 - 
 10d39.txt
 march:0.119 - 3m:0.368 - «:0.304 - panneau:0.119 - lacroix:0.132 - girod:0.155 - »:0.318 - signalis:0.397 - sodilor:0.199 - film:0.138 - 
 01mc04.txt
 produit:0.102 - tahor:0.333 - societ:0.156 - franc:0.111 - médic:0.1 - pharmaceut:0.141 - pharmadex:0.453 - zyprex:0.265 - lilly:0.312 - pfiz:0.447 - 
 10d06.txt
-tign:0.253 - hébergeur:0.22 - mécan:0.142 - stgm:0.596 - remont:0.14 - killy:0.201 - tour:0.164 - remis:0.229 - tourism:0.176 - transport:0.151 - 
+tign:0.254 - hébergeur:0.22 - mécan:0.142 - stgm:0.596 - remont:0.14 - killy:0.201 - tour:0.164 - remis:0.229 - tourism:0.176 - transport:0.151 - 
 91d11.txt
 retransmiss:0.211 - leurovis:0.105 - lofrt:0.778 - télévis:0.092 - sportiv:0.083 - éven:0.153 - lu:0.342 - sportif:0.117 - membr:0.143 - cinq:0.112 - 
 09d22.txt
@@ -2033,7 +2033,7 @@ répar:0.363 - ad:0.154 - automobil:0.134 - logiciel:0.131 - diagnostic:0.192 - 
 93d27.txt
 déméco:0.715 - membresactionnair:0.106 - p:0.104 - prix:0.154 - soustrait:0.104 - cub:0.094 - déménag:0.369 - syndical:0.119 - 100:0.091 - plancher:0.133 - 
 02d47.txt
-secodip:0.128 - societ:0.189 - pig:0.167 - grp:0.291 - audipub:0.268 - tv:0.269 - d’audienc:0.13 - micromarch:0.253 - médiametr:0.369 - vérimédi:0.428 - 
+secodip:0.128 - societ:0.189 - pig:0.167 - grp:0.292 - audipub:0.268 - tv:0.269 - d’audienc:0.13 - micromarch:0.253 - médiametr:0.369 - vérimédi:0.428 - 
 02mc01.txt
 canal:0.23 - référenc:0.132 - satellit:0.304 - chaîn:0.44 - astra:0.106 - programm:0.122 - diffus:0.115 - décodeur:0.203 - distributeur:0.135 - canalsatellit:0.509 - 
 08d10.txt
@@ -2047,7 +2047,7 @@ societ:0.142 - sall:0.257 - cinem:0.162 - ugc:0.616 - entré:0.135 - cinec:0.351
 12d10.txt
 nestl:0.135 - cot:0.153 - plateform:0.161 - canin:0.411 - royal:0.339 - hill’:0.273 - nppf:0.47 - »:0.127 - «:0.127 - magasin:0.136 - 
 97d85.txt
-societ:0.201 - group:0.175 - 1997:0.104 - référenc:0.106 - surveil:0.188 - réorganis:0.109 - protectionalarmesécur:0.155 - printafix:0.103 - monoprix:0.735 - gardiennag:0.246 - 
+societ:0.201 - group:0.174 - 1997:0.104 - référenc:0.106 - surveil:0.188 - réorganis:0.109 - protectionalarmesécur:0.155 - printafix:0.103 - monoprix:0.735 - gardiennag:0.246 - 
 04d25.txt
 oxandabaratz:0.143 - maîtris:0.142 - l’ordr:0.141 - l’associ:0.182 - d’architectur:0.38 - argi:0.143 - acp:0.263 - architect:0.472 - d’œuvr:0.205 - d’aquitain:0.259 - 
 94mc13.txt
@@ -2063,7 +2063,7 @@ gca:0.429 - canal:0.215 - mandatair:0.186 - héraut:0.168 - mi:0.155 - sportauto
 94d34.txt
 dcm:0.316 - pharmacien:0.403 - bic:0.172 - vidéograph:0.158 - miessel:0.215 - societ:0.19 - luprp:0.143 - syndical:0.161 - sdmt:0.368 - spieurop:0.327 - 
 02d11.txt
-sis:0.143 - électr:0.164 - immeubl:0.162 - ségur:0.264 - câblag:0.205 - avenu:0.152 - cégélec:0.176 - d’un:0.138 - 4627:0.177 - prescript:0.243 - 
+sis:0.143 - électr:0.164 - immeubl:0.162 - ségur:0.264 - câblag:0.206 - avenu:0.152 - cégélec:0.176 - d’un:0.138 - 4627:0.177 - prescript:0.243 - 
 92mc03.txt
 sis:0.185 - lappareillag:0.161 - lassoci:0.249 - dappareillag:0.482 - primair:0.18 - malad:0.315 - caiss:0.221 - roann:0.185 - dassur:0.158 - lusdifamed:0.14 - 
 95d55.txt
@@ -2079,7 +2079,7 @@ commun:0.116 - htm3:0.288 - cge:0.195 - potabl:0.157 - l’eau:0.253 - sle:0.693
 96d62.txt
 carayon:0.382 - 1991:0.108 - millau:0.151 - réunion:0.133 - ségal:0.141 - béton:0.164 - laveyron:0.198 - simat:0.35 - reneault:0.562 - societ:0.12 - 
 04d37.txt
-pomp:0.173 - pfg:0.294 - villeneuvesaintgeorg:0.18 - brysurmarn:0.218 - funebr:0.188 - saintmaur:0.267 - funérair:0.495 - ogf:0.25 - funérarium:0.284 - chambr:0.222 - 
+pomp:0.173 - pfg:0.294 - villeneuvesaintgeorg:0.18 - brysurmarn:0.218 - funebr:0.188 - saintmaur:0.267 - funérair:0.495 - ogf:0.25 - funérarium:0.284 - chambr:0.223 - 
 04d79.txt
 passager:0.312 - fromentin:0.221 - l’amporel:0.296 - viiv:0.284 - l’îl:0.179 - d’yeu:0.182 - «:0.165 - estival:0.173 - »:0.165 - reg:0.297 - 
 93d45.txt
@@ -2115,7 +2115,7 @@ charollaisbrion:0.137 - march:0.157 - routi:0.117 - rout:0.133 - saôneetloir:0.
 94d54.txt
 cotat:0.181 - darr:0.192 - terr:0.322 - fdse:0.297 - promot:0.185 - kilogramm:0.129 - pomm:0.509 - magasin:0.172 - cnipt:0.23 - pasdecal:0.272 - 
 99d80.txt
-dossolan:0.36 - societ:0.132 - laboratoir:0.195 - «:0.069 - flocag:0.076 - métallurg:0.338 - 3000:0.231 - d’isol:0.104 - »:0.069 - jbi:0.68 - 
+dossolan:0.36 - societ:0.133 - laboratoir:0.195 - «:0.069 - flocag:0.076 - métallurg:0.338 - 3000:0.231 - d’isol:0.104 - »:0.069 - jbi:0.68 - 
 95mc03.txt
 dadmiss:0.092 - societ:0.111 - 1994:0.095 - mair:0.086 - cann:0.2 - allotax:0.704 - conservatoir:0.091 - tax:0.1 - station:0.11 - laport:0.461 - 
 96d18.txt
@@ -2123,7 +2123,7 @@ lordr:0.279 - a:0.159 - pavlovic:0.256 - bosloup:0.284 - architect:0.438 - dauve
 01d67.txt
 societ:0.165 - midiméditerran:0.382 - mino:0.116 - jeanfrançois:0.558 - einstein:0.145 - technopôl:0.154 - château:0.11 - parachev:0.122 - gombert:0.164 - col:0.38 - 
 92d04.txt
-franc:0.096 - societ:0.101 - dun:0.098 - kormak:0.49 - claus:0.097 - concurrent:0.099 - quil:0.088 - associ:0.088 - govon:0.7 - nonconcurrent:0.201 - 
+franc:0.096 - societ:0.101 - dun:0.098 - kormak:0.49 - claus:0.097 - concurrent:0.099 - quil:0.087 - associ:0.088 - govon:0.7 - nonconcurrent:0.201 - 
 00mc19.txt
 tarifair:0.147 - franc:0.332 - l’art:0.153 - télécom:0.52 - lign:0.256 - commun:0.137 - forf:0.204 - offre:0.165 - télécommun:0.192 - local:0.142 - 
 01d64.txt
@@ -2131,7 +2131,7 @@ sudouest:0.143 - smitom:0.252 - sog:0.296 - tp:0.14 - screg:0.265 - atlant:0.268
 98d54.txt
 d’identif:0.093 - fromag:0.261 - d’origin:0.088 - comt:0.613 - comit:0.231 - product:0.116 - interprofessionnel:0.261 - laiti:0.113 - surtax:0.122 - gruyer:0.475 - 
 00mc05.txt
-câbl:0.537 - societ:0.109 - franc:0.13 - télécom:0.196 - abon:0.181 - planet:0.585 - 1999:0.108 - chaîn:0.252 - réseau:0.112 - analog:0.173 - 
+câbl:0.537 - societ:0.11 - franc:0.13 - télécom:0.196 - abon:0.181 - planet:0.585 - 1999:0.108 - chaîn:0.252 - réseau:0.112 - analog:0.173 - 
 05d24.txt
 stag:0.176 - picard:0.162 - gme:0.361 - rd:0.326 - screg:0.195 - lecat:0.305 - tpr:0.22 - nord:0.193 - d’offr:0.203 - col:0.232 - 
 96d29.txt
@@ -2139,7 +2139,7 @@ societ:0.159 - group:0.08 - 841:0.185 - discriminatoir:0.091 - besni:0.405 - par
 09d15.txt
 unik:0.253 - l‟offr:0.175 - d‟appel:0.262 - terminaison:0.198 - d‟un:0.323 - net‟:0.184 - sfr:0.195 - uma:0.17 - mobil:0.305 - orang:0.195 - 
 98d25.txt
-a:0.114 - 1989:0.121 - cerb:0.226 - laboratoir:0.434 - oris:0.166 - réactif:0.187 - nomenclatur:0.09 - biolog:0.559 - boycott:0.146 - spc:0.31 - 
+a:0.114 - 1989:0.12 - cerb:0.226 - laboratoir:0.434 - oris:0.166 - réactif:0.187 - nomenclatur:0.09 - biolog:0.559 - boycott:0.146 - spc:0.31 - 
 02d39.txt
 franc:0.131 - societ:0.279 - toshib:0.339 - vent:0.123 - grossist:0.172 - ordin:0.137 - concurrent:0.15 - sony:0.654 - portabl:0.116 - enjoindr:0.14 - 
 03d25.txt
@@ -2153,21 +2153,21 @@ spécial:0.161 - mgen:0.218 - lintérêt:0.142 - luniodf:0.44 - léduc:0.176 - s
 90d49.txt
 calar:0.134 - 1990:0.176 - laurent:0.116 - daurillac:0.122 - madelein:0.084 - hautcantal:0.536 - 325:0.132 - mauriac:0.508 - 90d49:0.134 - laiti:0.442 - 
 00d49.txt
-societ:0.236 - fournisseur:0.144 - caprofem:0.299 - semavem:0.528 - concurrent:0.141 - 00d49:0.173 - 523:0.21 - jean:0.219 - darty:0.224 - chapel:0.32 - 
+societ:0.236 - fournisseur:0.144 - caprofem:0.3 - semavem:0.528 - concurrent:0.141 - 00d49:0.173 - 523:0.21 - jean:0.219 - darty:0.224 - chapel:0.32 - 
 90d20.txt
 grill:0.164 - zon:0.12 - cib:0.523 - dollar:0.097 - crib:0.13 - prix:0.134 - gieb:0.398 - producteur:0.096 - banan:0.471 - banani:0.174 - 
 93d18.txt
 93d18:0.152 - charri:0.116 - 169:0.133 - f:0.13 - vu:0.124 - electron:0.11 - 499:0.171 - jean:0.449 - chapel:0.655 - 493:0.174 - 
 97d23.txt
-eda:0.511 - locat:0.243 - 1997:0.12 - ccimp:0.144 - 97d23:0.159 - marseilleprovent:0.14 - général:0.124 - marseillais:0.459 - sogemar:0.301 - 804:0.281 - 
+eda:0.511 - locat:0.242 - 1997:0.12 - ccimp:0.144 - 97d23:0.159 - marseilleprovent:0.14 - général:0.124 - marseillais:0.459 - sogemar:0.301 - 804:0.281 - 
 93d21.txt
 produit:0.125 - cor:0.374 - fournisseur:0.264 - publipromotionnel:0.13 - gmb:0.495 - societ:0.155 - dachat:0.122 - group:0.145 - distributeur:0.125 - magasin:0.162 - 
 14d05.txt
-réunion:0.153 - off:0.219 - mayott:0.26 - «:0.129 - terminaison:0.195 - srr:0.575 - sm:0.257 - march:0.132 - net:0.164 - mobil:0.18 - 
+réunion:0.153 - off:0.219 - mayott:0.26 - «:0.129 - terminaison:0.195 - srr:0.575 - sm:0.257 - march:0.132 - net:0.163 - mobil:0.18 - 
 95mc10.txt
 franc:0.222 - sport:0.153 - joueur:0.111 - club:0.324 - football:0.399 - divis:0.12 - championnat:0.239 - societ:0.111 - adid:0.391 - lnf:0.382 - 
 12d08.txt
-cot:0.179 - endiv:0.263 - «:0.207 - celfnord:0.361 - perl:0.202 - producteur:0.154 - x:0.17 - »:0.208 - d’endiv:0.16 - op:0.273 - 
+cot:0.178 - endiv:0.263 - «:0.207 - celfnord:0.361 - perl:0.202 - producteur:0.154 - x:0.17 - »:0.208 - d’endiv:0.16 - op:0.273 - 
 07d09.txt
 march:0.141 - céfuroxim:0.214 - laboratoir:0.334 - zinnat®:0.238 - €:0.219 - prix:0.123 - inject:0.259 - glaxo:0.575 - l’aciclov:0.153 - flavelab:0.229 - 
 92d34.txt
@@ -2191,7 +2191,7 @@ rey:0.428 - pomp:0.364 - 756:0.115 - l’entrepris:0.126 - funebr:0.397 - berg:0
 00d08.txt
 machin:0.113 - fed:0.197 - societ:0.114 - carrosser:0.162 - pont:0.429 - zon:0.116 - nemour:0.581 - niort:0.18 - peintur:0.247 - distributeur:0.211 - 
 00d90.txt
-societ:0.1 - anhyspani:0.348 - consider:0.138 - anhydrit:0.435 - lafarg:0.096 - anhysol:0.522 - morti:0.219 - l4202:0.105 - enquêt:0.116 - procèsverbal:0.119 - 
+societ:0.1 - anhyspani:0.348 - consider:0.139 - anhydrit:0.435 - lafarg:0.096 - anhysol:0.522 - morti:0.219 - l4202:0.105 - enquêt:0.116 - procèsverbal:0.119 - 
 98d05.txt
 barreau:0.141 - d’appel:0.158 - l’honorair:0.233 - l’ordr:0.26 - honorair:0.229 - l’avocat:0.231 - v:0.223 - colmar:0.292 - avocat:0.347 - d’honorair:0.322 - 
 91d38.txt
@@ -2235,21 +2235,21 @@ diledefr:0.123 - féder:0.123 - immobili:0.363 - liledefr:0.216 - fnaim:0.37 - a
 09d33.txt
 chep:0.666 - expéditeur:0.073 - «:0.085 - lpr:0.114 - fruit:0.091 - légum:0.121 - palet:0.584 - »:0.086 - locationgest:0.169 - loueurgestionnair:0.067 - 
 03d16.txt
-qualif:0.206 - clip:0.164 - lassoci:0.158 - cloison:0.272 - démont:0.138 - cerff:0.542 - certificat:0.183 - cong:0.14 - snfacloison:0.152 - qualibat:0.417 - 
+qualif:0.206 - clip:0.164 - lassoci:0.158 - cloison:0.272 - démont:0.138 - cerff:0.542 - certificat:0.183 - cong:0.14 - snfacloison:0.153 - qualibat:0.417 - 
 94d35.txt
 statu:0.158 - simon:0.157 - mallmann:0.156 - agricol:0.245 - usag:0.174 - barbeau:0.177 - vu:0.179 - 94d35:0.262 - 513:0.289 - soufr:0.504 - 
 95d07.txt
-salon:0.319 - societ:0.214 - ffsa:0.432 - assureexpo:0.242 - bureau:0.123 - vidal:0.192 - lassur:0.21 - compagn:0.129 - féder:0.131 - dassur:0.376 - 
+salon:0.319 - societ:0.214 - ffsa:0.432 - assureexpo:0.242 - bureau:0.123 - vidal:0.192 - lassur:0.21 - compagn:0.129 - féder:0.131 - dassur:0.375 - 
 01d40.txt
 kleb:0.162 - societ:0.118 - jcb:0.73 - renault:0.161 - agricol:0.311 - malecot:0.194 - matériel:0.208 - agricultur:0.172 - concessionnair:0.127 - manutent:0.231 - 
 00d37.txt
-d’électron:0.193 - societ:0.163 - séanc:0.182 - 861:0.338 - 00d37:0.282 - concurrent:0.328 - jourquin:0.232 - rocheteauweb:0.237 - class:0.167 - rapporteur:0.147 - 
+d’électron:0.193 - societ:0.163 - séanc:0.182 - 861:0.338 - 00d37:0.282 - concurrent:0.328 - jourquin:0.232 - rocheteauweb:0.237 - class:0.168 - rapporteur:0.147 - 
 97d20.txt
 girard:0.142 - rhum:0.113 - reynoird:0.771 - sprag:0.131 - societ:0.106 - guadeloup:0.123 - primister:0.32 - group:0.089 - hayot:0.263 - guyan:0.085 - 
 08d05.txt
 lagarder:0.196 - cdg:0.317 - adp:0.484 - boutiqu:0.142 - passager:0.161 - aéroport:0.288 - d’adp:0.164 - terminal:0.161 - douan:0.157 - sda:0.272 - 
 98mc14.txt
-chauffeur:0.135 - aéroportuair:0.157 - d’azur:0.166 - locat:0.212 - ccinc:0.631 - nic:0.169 - l’aéroport:0.287 - nicecôt:0.238 - d’industr:0.145 - véhicul:0.188 - 
+chauffeur:0.135 - aéroportuair:0.157 - d’azur:0.167 - locat:0.212 - ccinc:0.631 - nic:0.17 - l’aéroport:0.287 - nicecôt:0.238 - d’industr:0.145 - véhicul:0.188 - 
 07d30.txt
 télévis:0.238 - terrestr:0.209 - m6:0.158 - sit:0.142 - tdf:0.52 - emettel:0.146 - hertzien:0.275 - chaîn:0.211 - diffus:0.218 - analog:0.286 - 
 96d08.txt
@@ -2277,7 +2277,7 @@ l’atsu:0.311 - 78:0.113 - h:0.186 - gard:0.487 - ambul:0.282 - préfectoral:0.
 96mc09.txt
 distribu:0.054 - societ:0.069 - jcb:0.914 - renault:0.049 - agricol:0.071 - matériel:0.109 - agricultur:0.055 - concessionnair:0.115 - manutent:0.157 - conservatoir:0.057 - 
 07mc02.txt
-télévis:0.239 - terrestr:0.21 - sit:0.158 - tdf:0.467 - emettel:0.18 - hertzien:0.288 - diffus:0.272 - contrat:0.147 - chaîn:0.18 - analog:0.289 - 
+télévis:0.239 - terrestr:0.211 - sit:0.158 - tdf:0.467 - emettel:0.18 - hertzien:0.288 - diffus:0.272 - contrat:0.147 - chaîn:0.18 - analog:0.289 - 
 94mc01.txt
 restaur:0.138 - beverag:0.325 - caf:0.188 - societ:0.133 - hôtel:0.173 - bouteil:0.305 - boisson:0.18 - cocacol:0.415 - centilitr:0.421 - orangin:0.397 - 
 04d57.txt
@@ -2291,13 +2291,13 @@ societ:0.123 - «:0.156 - beverag:0.336 - sirop:0.125 - goût:0.124 - boisson:0.
 94mc11.txt
 selli:0.412 - notarial:0.219 - prêt:0.125 - sudest:0.353 - agricol:0.323 - charoll:0.138 - ordinal:0.148 - notariat:0.199 - jeanyv:0.27 - cred:0.342 - 
 04d27.txt
-diffuseur:0.146 - l’œuvr:0.159 - coproducteur:0.182 - l’usp:0.272 - jap:0.181 - droit:0.198 - contrat:0.127 - tf:0.421 - producteur:0.197 - audiovisuel:0.297 - 
+diffuseur:0.146 - l’œuvr:0.159 - coproducteur:0.182 - l’usp:0.272 - jap:0.181 - droit:0.198 - contrat:0.127 - tf:0.422 - producteur:0.197 - audiovisuel:0.297 - 
 03d22.txt
 franc:0.178 - march:0.231 - traval:0.164 - télécom:0.401 - test:0.171 - 103:0.248 - licenc:0.275 - document:0.177 - sofrecom:0.194 - dinfotopograph:0.146 - 
 96d73.txt
 aubd:0.106 - ci:0.108 - torréfact:0.235 - ardial:0.106 - ladoux:0.106 - torréfi:0.097 - ricardo:0.106 - sorco:0.134 - caf:0.782 - brûler:0.142 - 
 00d73.txt
-a:0.174 - siged:0.433 - societ:0.175 - edf:0.305 - d’emballag:0.119 - conteneur:0.156 - contamin:0.169 - snmo:0.505 - typ:0.115 - emballag:0.264 - 
+a:0.174 - siged:0.433 - societ:0.176 - edf:0.305 - d’emballag:0.119 - conteneur:0.156 - contamin:0.169 - snmo:0.505 - typ:0.115 - emballag:0.264 - 
 01d71.txt
 conseil:0.223 - non:0.157 - décis:0.222 - ©:0.127 - publi:0.239 - concurrent:0.222 - 01d71:0.861 - n°:0.111 - 
 93d17.txt
@@ -2321,11 +2321,11 @@ conseil:0.223 - non:0.157 - décis:0.222 - ©:0.127 - publi:0.239 - concurrent:0
 01d46.txt
 franc:0.239 - ver:0.173 - renault:0.413 - télécom:0.495 - fix:0.146 - 1999:0.124 - trafic:0.225 - offre:0.113 - mobil:0.243 - itiner:0.154 - 
 01d33.txt
-le12:0.181 - fertierpotti:0.141 - societ:0.156 - 01d33:0.181 - libert:0.159 - air:0.575 - 98d29:0.171 - vu:0.187 - 737:0.212 - 95d18:0.171 - 
+le12:0.181 - fertierpotti:0.143 - societ:0.156 - 01d33:0.181 - libert:0.159 - air:0.575 - 98d29:0.171 - vu:0.187 - 737:0.212 - 95d18:0.171 - 
 96d41.txt
-tholy:0.219 - delaitr:0.482 - gymnas:0.166 - societ:0.101 - curien:0.436 - adampierrat:0.395 - lot:0.21 - jai:0.116 - peduzz:0.083 - offre:0.119 - 
+tholy:0.219 - delaitr:0.482 - gymnas:0.166 - societ:0.101 - curien:0.436 - adampierrat:0.395 - lot:0.21 - jai:0.115 - peduzz:0.083 - offre:0.118 - 
 07d11.txt
-ejl:0.265 - march:0.172 - marn:0.211 - morin:0.357 - colasest:0.388 - scregest:0.416 - lot:0.227 - group:0.147 - eurovi:0.255 - scr:0.185 - 
+ejl:0.265 - march:0.172 - marn:0.211 - morin:0.357 - colasest:0.389 - scregest:0.416 - lot:0.227 - group:0.147 - eurovi:0.255 - scr:0.185 - 
 97d60.txt
 dentrepris:0.231 - gross:0.154 - leuropéen:0.17 - caprio:0.274 - gepral:0.483 - léon:0.211 - a:0.141 - doeuvr:0.151 - floriot:0.223 - bet:0.246 - 
 06d36.txt
@@ -2343,9 +2343,9 @@ débit:0.157 - beverag:0.136 - chrdn:0.174 - boycott:0.176 - conféder:0.178 - a
 91d14.txt
 a:0.106 - march:0.082 - matérial:0.123 - lentrepris:0.148 - loffr:0.079 - moul:0.573 - concurrent:0.077 - sogemeg:0.593 - guadeloup:0.083 - baiemahault:0.254 - 
 91d33.txt
-rossetto:0.568 - march:0.106 - olivero:0.535 - lubay:0.1 - 21327:0.1 - enquêteur:0.102 - offre:0.102 - doffr:0.161 - quil:0.105 - lauzetubay:0.1 - 
+rossetto:0.568 - march:0.106 - olivero:0.535 - lubay:0.1 - 21327:0.1 - enquêteur:0.102 - offre:0.102 - doffr:0.161 - quil:0.104 - lauzetubay:0.1 - 
 05d27.txt
-germon:0.391 - minim:0.2 - pêch:0.19 - bascopêch:0.164 - fkg:0.199 - prix:0.178 - fiom:0.181 - thon:0.453 - »:0.157 - op:0.253 - 
+germon:0.391 - minim:0.199 - pêch:0.19 - bascopêch:0.164 - fkg:0.199 - prix:0.178 - fiom:0.181 - thon:0.453 - »:0.157 - op:0.253 - 
 95d24.txt
 demand:0.117 - pyramid:0.408 - 745:0.095 - cuisin:0.473 - lesieur:0.438 - cbi:0.157 - societ:0.143 - hubert:0.335 - conservatoir:0.142 - bain:0.111 - 
 98d31.txt
@@ -2373,7 +2373,7 @@ gardemeubl:0.182 - ag:0.481 - tarb:0.15 - déménageur:0.341 - fid:0.222 - syndi
 15d14.txt
 distribu:0.156 - pernod:0.172 - ricard:0.165 - jjsbf:0.218 - saem:0.233 - pernodricard:0.252 - solitair:0.19 - bolton:0.239 - territoir:0.166 - dnao:0.313 - 
 03d53.txt
-produit:0.196 - biotherm:0.671 - pharmac:0.112 - lux:0.18 - esb:0.148 - magasin:0.115 - d’hygien:0.116 - gephav:0.313 - parfumer:0.203 - cosmet:0.163 - 
+produit:0.195 - biotherm:0.671 - pharmac:0.112 - lux:0.18 - esb:0.148 - magasin:0.115 - d’hygien:0.116 - gephav:0.313 - parfumer:0.203 - cosmet:0.163 - 
 13d19.txt
 sapec:0.175 - cot:0.128 - weldom:0.721 - enseign:0.113 - bricolag:0.152 - d’aim:0.237 - altimat:0.167 - magasin:0.244 - bourgsaintmauric:0.239 - préemption:0.207 - 
 97mc06.txt
@@ -2387,13 +2387,13 @@ apporteur:0.179 - courtag:0.177 - polic:0.178 - vi:0.223 - l’assur:0.277 - cou
 07d12.txt
 societ:0.155 - sall:0.214 - cinem:0.411 - fncf:0.139 - loisichequ:0.496 - cinéchequ:0.154 - chèquescinem:0.185 - europalac:0.382 - chequ:0.161 - path:0.147 - 
 94mc14.txt
-product:0.216 - edf:0.31 - cogéner:0.192 - valenerg:0.22 - slec:0.165 - cgc:0.199 - délectr:0.192 - lenlev:0.183 - lélectr:0.205 - chauffag:0.269 - 
+product:0.216 - edf:0.31 - cogéner:0.192 - valenerg:0.22 - slec:0.165 - cgc:0.199 - délectr:0.192 - lenlev:0.184 - lélectr:0.205 - chauffag:0.269 - 
 04d22.txt
 franc:0.286 - téléphon:0.202 - télécom:0.609 - primal:0.153 - sfr:0.131 - abon:0.157 - distanc:0.148 - longu:0.14 - télécommun:0.153 - mobil:0.315 - 
 94d45.txt
 joël:0.233 - roulland:0.358 - cotis:0.214 - cidrer:0.339 - dinstitu:0.143 - dupont:0.254 - laniec:0.43 - briqu:0.279 - cidr:0.189 - etabl:0.136 - 
 98d75.txt
-school:0.351 - abc:0.222 - ccinc:0.614 - d’enseign:0.163 - d’azur:0.115 - rosset:0.193 - nicecôt:0.165 - l’ais:0.175 - 1015:0.134 - alpesmaritim:0.117 - 
+school:0.351 - abc:0.222 - ccinc:0.614 - d’enseign:0.163 - d’azur:0.116 - rosset:0.193 - nicecôt:0.165 - l’ais:0.175 - 1015:0.134 - alpesmaritim:0.117 - 
 08d03.txt
 d’hôt:0.148 - gît:0.6 - labellis:0.16 - «:0.245 - ferm:0.283 - héberg:0.13 - bienvenu:0.39 - réseau:0.123 - rural:0.119 - »:0.241 - 
 93d38.txt
@@ -2407,7 +2407,7 @@ télécom:0.173 - bouygu:0.225 - sfr:0.318 - fréquenc:0.174 - l’accord:0.171 
 95d81.txt
 cyclist:0.164 - statu:0.109 - societ:0.165 - tour:0.214 - barbeau:0.123 - 95d81:0.181 - amme:0.725 - 734:0.219 - mouilleseau:0.181 - vu:0.124 - 
 02d76.txt
-societ:0.141 - perret:0.146 - villeurbann:0.12 - courtag:0.386 - dassur:0.232 - groupalph:0.414 - courti:0.298 - lopac:0.27 - préconsult:0.192 - cgu:0.353 - 
+societ:0.142 - perret:0.146 - villeurbann:0.12 - courtag:0.386 - dassur:0.232 - groupalph:0.414 - courti:0.298 - lopac:0.27 - préconsult:0.192 - cgu:0.353 - 
 90mc12.txt
 lécol:0.529 - montagn:0.13 - municipal:0.143 - moniteur:0.136 - snow:0.415 - fun:0.328 - cauteret:0.332 - ski:0.305 - reg:0.12 - lechen:0.175 - 
 07d28.txt
@@ -2425,7 +2425,7 @@ franc:0.118 - matériel:0.259 - alcatel:0.248 - adpc:0.396 - fnpc:0.405 - transm
 05d47.txt
 societ:0.161 - démil:0.245 - alsetex:0.209 - af:0.251 - simt:0.359 - destruct:0.136 - sotradex:0.405 - munit:0.211 - lot:0.166 - formétal:0.389 - 
 09d40.txt
-ramasseur:0.104 - d’huil:0.248 - huil:0.749 - eco:0.181 - régéner:0.227 - sevi:0.242 - usag:0.264 - d’eco:0.084 - dhuil:0.101 - 2009:0.082 - 
+ramasseur:0.104 - d’huil:0.248 - huil:0.749 - eco:0.181 - régéner:0.227 - sevi:0.242 - usag:0.263 - d’eco:0.084 - dhuil:0.101 - 2009:0.082 - 
 94d01.txt
 dodin:0.214 - shor:0.227 - plaisanc:0.18 - off:0.173 - campenon:0.182 - sogé:0.177 - courbot:0.329 - spad:0.194 - corvol:0.313 - morillon:0.313 - 
 05d66.txt
@@ -2439,7 +2439,7 @@ stgm:0.229 - transport:0.179 - autocar:0.217 - bridet:0.292 - scolair:0.237 - ft
 01d50.txt
 ntb:0.687 - modern:0.14 - 1274:0.242 - econom:0.168 - concurrent:0.089 - 2001:0.106 - ren:0.123 - 01d50:0.137 - l’eurl:0.487 - comptoir:0.158 - 
 99d47.txt
-conseil:0.159 - fertierpotti:0.191 - français:0.165 - 1999:0.185 - 702:0.286 - concurrent:0.158 - 99d47:0.245 - agenc:0.33 - press:0.334 - féder:0.358 - 
+conseil:0.159 - fertierpotti:0.194 - français:0.165 - 1999:0.185 - 702:0.286 - concurrent:0.158 - 99d47:0.245 - agenc:0.33 - press:0.333 - féder:0.358 - 
 06d10.txt
 souscript:0.09 - télécom:0.339 - bouygu:0.406 - «:0.117 - sfr:0.148 - grossist:0.292 - contrat:0.153 - »:0.114 - mobil:0.147 - stockcom:0.546 - 
 92d45.txt
@@ -2449,11 +2449,11 @@ a:0.166 - societ:0.215 - normand:0.204 - viafranc:0.179 - lalitt:0.272 - beugnet
 00d47.txt
 edf:0.31 - centr:0.158 - d’éclairag:0.151 - citélum:0.627 - tourcoing:0.133 - edfgdf:0.127 - lumi:0.173 - l’éclairag:0.136 - public:0.154 - architectur:0.183 - 
 99d73.txt
-societ:0.114 - 1999:0.159 - d’avocat:0.407 - cofratel:0.15 - 1149:0.237 - cabinet:0.253 - plichon:0.601 - civil:0.215 - professionnel:0.144 - 99d73:0.159 - 
+societ:0.114 - 1999:0.159 - d’avocat:0.407 - cofratel:0.15 - 1149:0.237 - cabinet:0.253 - plichon:0.601 - civil:0.215 - professionnel:0.144 - 99d73:0.158 - 
 04d07.txt
-pâtisser:0.177 - pain:0.241 - boulang:0.31 - euros:0.163 - marn:0.141 - boulanger:0.531 - 2001:0.143 - baguet:0.357 - féder:0.174 - gramm:0.151 - 
+pâtisser:0.177 - pain:0.241 - boulang:0.311 - euros:0.163 - marn:0.141 - boulanger:0.531 - 2001:0.143 - baguet:0.357 - féder:0.174 - gramm:0.151 - 
 95d50.txt
-regl:0.131 - lapsad:0.294 - sicl:0.288 - linstall:0.151 - extincteur:0.33 - lapsaird:0.31 - dextincteur:0.212 - install:0.141 - syfex:0.341 - apsad:0.146 - 
+regl:0.131 - lapsad:0.294 - sicl:0.288 - linstall:0.151 - extincteur:0.33 - lapsaird:0.31 - dextincteur:0.212 - install:0.14 - syfex:0.341 - apsad:0.146 - 
 01d21.txt
 01d21:0.183 - 1236:0.27 - societ:0.184 - wapppupcom:0.183 - wappupcom:0.693 - 2001:0.189 - enregistr:0.119 - radiotéléphon:0.114 - hagelsteen:0.112 - saisin:0.146 - 
 01d35.txt
@@ -2461,7 +2461,7 @@ barreau:0.316 - medirec:0.204 - honorair:0.23 - bâtonni:0.292 - bordeau:0.193 -
 94d36.txt
 stroukoff:0.173 - rosenfeld:0.208 - iledefr:0.145 - parkod:0.139 - millot:0.164 - mme:0.11 - parfumeursdétaill:0.693 - syndical:0.104 - dasni:0.208 - parfumer:0.248 - 
 96d06.txt
-203:0.204 - commerc:0.173 - sacem:0.167 - 96d06:0.238 - défens:0.289 - comit:0.351 - barbeau:0.152 - dupouy:0.165 - artisan:0.506 - favr:0.145 - 
+203:0.204 - commerc:0.173 - sacem:0.167 - 96d06:0.238 - défens:0.289 - comit:0.351 - barbeau:0.152 - dupouy:0.165 - artisan:0.505 - favr:0.145 - 
 95d82.txt
 variabl:0.116 - chanti:0.197 - 1994:0.208 - béton:0.717 - méditerranéen:0.147 - coût:0.184 - seyn:0.106 - societ:0.12 - sup:0.155 - linjonct:0.143 - 
 96mc08.txt
@@ -2471,7 +2471,7 @@ adisco:0.115 - javel:0.161 - vitherm:0.387 - glob:0.3 - richet:0.453 - prom:0.19
 98d55.txt
 syndicat:0.178 - candidatur:0.202 - handicap:0.125 - tax:0.337 - scolair:0.152 - départemental:0.304 - féder:0.238 - alpesmaritim:0.557 - trajet:0.126 - artisan:0.218 - 
 02d32.txt
-conform:0.13 - societ:0.17 - d’attest:0.114 - renault:0.337 - attest:0.123 - vi:0.155 - sevic:0.549 - constructeur:0.125 - véhicul:0.417 - délivr:0.205 - 
+conform:0.13 - societ:0.171 - d’attest:0.114 - renault:0.337 - attest:0.123 - vi:0.155 - sevic:0.549 - constructeur:0.125 - véhicul:0.417 - délivr:0.205 - 
 98d76.txt
 franc:0.167 - bmg:0.231 - emi:0.289 - virgin:0.184 - éditeur:0.127 - music:0.203 - fnac:0.224 - sony:0.134 - polygram:0.37 - disqu:0.4 - 
 93d32.txt
@@ -2487,7 +2487,7 @@ syndicat:0.102 - contresign:0.129 - societ:0.138 - conservatoir:0.099 - syndifr:
 09d35.txt
 hospitali:0.24 - servic:0.174 - hyérois:0.15 - smur:0.171 - ambul:0.168 - sdis:0.388 - sanitair:0.147 - d’urgenc:0.253 - brignol:0.228 - transport:0.17 - 
 97mc05.txt
-syndicat:0.143 - chirurgiensdent:0.187 - protocol:0.293 - mgen:0.489 - libéral:0.146 - honorair:0.139 - prothet:0.218 - dentair:0.343 - léduc:0.144 - fsdl:0.216 - 
+syndicat:0.143 - chirurgiensdent:0.187 - protocol:0.293 - mgen:0.489 - libéral:0.146 - honorair:0.139 - prothet:0.218 - dentair:0.343 - léduc:0.144 - fsdl:0.217 - 
 04d40.txt
 leuropqn:0.154 - spqr:0.185 - national:0.143 - »:0.126 - gratuit:0.139 - press:0.365 - quotidien:0.413 - minut:0.212 - «:0.131 - europqn:0.399 - 
 92d55.txt
@@ -2495,7 +2495,7 @@ syndicat:0.206 - électoral:0.159 - imprimeur:0.43 - tarif:0.169 - imprimer:0.21
 95d14.txt
 voil:0.182 - sport:0.247 - fanatic:0.208 - sr:0.283 - bic:0.421 - prix:0.161 - societ:0.185 - acetec:0.191 - tig:0.299 - planch:0.256 - 
 02d16.txt
-héliint:0.422 - passager:0.117 - societ:0.164 - vol:0.111 - nic:0.303 - rivi:0.321 - lhélist:0.169 - bungalow:0.218 - l’hélist:0.234 - hélicopter:0.498 - 
+héliint:0.422 - passager:0.117 - societ:0.164 - vol:0.111 - nic:0.304 - rivi:0.321 - lhélist:0.168 - bungalow:0.218 - l’hélist:0.234 - hélicopter:0.498 - 
 10d29.txt
 tri:0.177 - d’ecoemballag:0.16 - repris:0.243 - déchet:0.176 - ecoemballag:0.616 - collect:0.207 - recycleur:0.189 - valorplast:0.292 - repreneur:0.146 - recyclag:0.259 - 
 01d57.txt
@@ -2505,7 +2505,7 @@ denrobag:0.234 - societ:0.204 - central:0.215 - appi:0.211 - enrob:0.276 - dexpl
 00d11.txt
 00d11:0.198 - secours69:0.198 - l’associ:0.308 - 1064:0.47 - guedj:0.139 - concurrent:0.153 - 2000:0.193 - secour:0.353 - 69:0.181 - samu:0.157 - 
 14d15.txt
-montur:0.115 - «:0.128 - encreur:0.117 - trodat:0.763 - océan:0.322 - tampon:0.144 - empreint:0.261 - »:0.128 - shiny:0.098 - colop:0.123 - 
+montur:0.115 - «:0.127 - encreur:0.117 - trodat:0.763 - océan:0.322 - tampon:0.144 - empreint:0.261 - »:0.128 - shiny:0.098 - colop:0.123 - 
 90d33.txt
 1990:0.163 - lartisanat:0.539 - petit:0.234 - conféder:0.397 - 90d33:0.155 - 217:0.136 - chaînegaz:0.155 - entrepris:0.129 - bât:0.298 - etm:0.133 - 
 07d08.txt
@@ -2513,7 +2513,7 @@ vicat:0.428 - anchet:0.109 - ciment:0.562 - négoci:0.113 - vrac:0.153 - lafarg:
 02d50.txt
 justici:0.429 - déleg:0.143 - 020001f:0.246 - défens:0.188 - l’associ:0.24 - dordogn:0.251 - 2002:0.165 - 4621:0.15 - fonci:0.228 - cred:0.173 - 
 07d50.txt
-toy:0.22 - carrefour:0.242 - lego:0.35 - max:0.151 - «:0.239 - prix:0.164 - jouet:0.226 - pégas:0.353 - »:0.247 - magasin:0.137 - 
+toy:0.22 - carrefour:0.242 - lego:0.35 - max:0.151 - «:0.239 - prix:0.164 - jouet:0.226 - pégas:0.354 - »:0.247 - magasin:0.137 - 
 97d16.txt
 châlonmégard:0.603 - fromager:0.164 - pressag:0.251 - 1994:0.106 - étag:0.128 - fromag:0.204 - linstall:0.106 - damianigrisollet:0.326 - press:0.133 - reblochon:0.408 - 
 11d16.txt
@@ -2553,7 +2553,7 @@ concentr:0.109 - fr:0.119 - societ:0.148 - group:0.101 - d’euros:0.108 - colru
 99mc08.txt
 franc:0.175 - ténor:0.316 - télécom:0.325 - ciseau:0.129 - prépai:0.254 - cart:0.382 - télécart:0.377 - téléphon:0.209 - publiphon:0.216 - cabin:0.165 - 
 98d34.txt
-tat:0.233 - d’orly:0.422 - sud:0.16 - l’aviat:0.157 - aérogar:0.205 - ouest:0.212 - orly:0.386 - air:0.327 - l’aérogar:0.189 - compagn:0.197 - 
+tat:0.233 - d’orly:0.422 - sud:0.159 - l’aviat:0.157 - aérogar:0.205 - ouest:0.212 - orly:0.386 - air:0.327 - l’aérogar:0.189 - compagn:0.197 - 
 00mc12.txt
 societ:0.126 - scan:0.483 - coupon:0.525 - annonceur:0.123 - claus:0.077 - d’exclus:0.08 - bon:0.087 - conservatoir:0.068 - sogec:0.573 - réduct:0.071 - 
 00d29.txt
@@ -2565,13 +2565,13 @@ l’articl:0.123 - cours:0.208 - statut:0.18 - besançon:0.401 - l’associ:0.40
 07d13.txt
 cmn:0.324 - déleg:0.126 - lign:0.147 - subvent:0.152 - ferr:0.17 - 2006:0.127 - corsic:0.257 - cors:0.269 - sncm:0.531 - 2007:0.144 - 
 14d07.txt
-électrodomest:0.115 - cot:0.382 - samsung:0.477 - «:0.162 - téléviseur:0.235 - 2014:0.151 - »:0.136 - voir:0.184 - 2013:0.172 - 2012:0.218 - 
+électrodomest:0.115 - cot:0.382 - samsung:0.477 - «:0.162 - téléviseur:0.236 - 2014:0.151 - »:0.136 - voir:0.184 - 2013:0.172 - 2012:0.218 - 
 93d15.txt
-delectr:0.119 - électr:0.299 - edf:0.16 - région:0.129 - 1946:0.139 - sdf:0.593 - sécur:0.207 - syndical:0.205 - déquip:0.298 - chambr:0.165 - 
+delectr:0.119 - électr:0.299 - edf:0.16 - région:0.129 - 1946:0.139 - sdf:0.593 - sécur:0.207 - syndical:0.205 - déquip:0.298 - chambr:0.166 - 
 90d30.txt
-1990:0.22 - garag:0.385 - laurent:0.145 - août:0.12 - 333:0.161 - ford:0.124 - 90d30:0.168 - sengl:0.67 - thouvenot:0.113 - alsacien:0.123 - 
+1990:0.22 - garag:0.385 - laurent:0.145 - août:0.119 - 333:0.161 - ford:0.124 - 90d30:0.168 - sengl:0.67 - thouvenot:0.113 - alsacien:0.123 - 
 15d17.txt
-résidentiel:0.233 - réunion:0.132 - off:0.203 - c€:0.13 - mayott:0.266 - nd:0.182 - srr:0.458 - net:0.142 - mobil:0.147 - 1567:0.236 - 
+résidentiel:0.233 - réunion:0.132 - off:0.203 - c€:0.13 - mayott:0.266 - nd:0.182 - srr:0.458 - net:0.142 - mobil:0.147 - 1567:0.237 - 
 93d46.txt
 automobil:0.101 - garag:0.16 - cnpa:0.155 - général:0.118 - agent:0.263 - calvados:0.252 - syndical:0.33 - dassur:0.471 - chambr:0.267 - fnsag:0.379 - 
 89mc07.txt
@@ -2595,9 +2595,9 @@ dhl:0.175 - heppn:0.159 - :0.175 - «:0.17 - messager:0.228 - tlf:0.19 - sche
 99d67.txt
 camif:0.343 - societ:0.167 - concurrent:0.126 - n’apportent:0.139 - hageslteen:0.108 - darty:0.262 - brun:0.234 - philip:0.545 - distributeur:0.108 - semavem:0.265 - 
 02d08.txt
-vent:0.156 - concurrent:0.127 - societ:0.224 - factur:0.111 - franc:0.168 - 1333:0.13 - qu’il:0.131 - condit:0.132 - barem:0.125 - sony:0.608 - 
+vent:0.156 - concurrent:0.127 - societ:0.224 - factur:0.111 - franc:0.167 - 1333:0.13 - qu’il:0.131 - condit:0.132 - barem:0.125 - sony:0.608 - 
 96d77.txt
-orléan:0.126 - d’aixenprovent:0.14 - conféder:0.189 - cscv:0.593 - 96d77:0.184 - syndical:0.138 - grenobl:0.195 - aixenprovent:0.14 - génin:0.138 - riom:0.308 - 
+orléan:0.126 - d’aixenprovent:0.14 - conféder:0.189 - cscv:0.593 - 96d77:0.184 - syndical:0.138 - grenobl:0.194 - aixenprovent:0.14 - génin:0.138 - riom:0.309 - 
 90mc02.txt
 détail:0.132 - societ:0.171 - cher:0.142 - f:0.154 - «:0.171 - concurrent:0.209 - plus:0.154 - jvc:0.573 - prim:0.14 - vidéo:0.175 - 
 93d51.txt
@@ -2607,7 +2607,7 @@ inscrit:0.144 - expert:0.434 - laboratoir:0.209 - polic:0.337 - scientif:0.31 - 
 07d49.txt
 défibrill:0.353 - l’appel:0.181 - 2001:0.143 - snitem:0.367 - chu:0.238 - biotronik:0.249 - d’offr:0.258 - guid:0.159 - medical:0.181 - medtronic:0.187 - 
 97d54.txt
-chauffeur:0.09 - syndicat:0.202 - cours:0.269 - intérieur:0.081 - gietrt:0.693 - tax:0.3 - toulon:0.264 - station:0.09 - var:0.107 - gi:0.192 - 
+chauffeur:0.09 - syndicat:0.202 - cours:0.269 - intérieur:0.081 - gietrt:0.694 - tax:0.3 - toulon:0.264 - station:0.09 - var:0.107 - gi:0.192 - 
 97d63.txt
 lordon:0.146 - ultrafr:0.451 - 97d63:0.159 - fabriqu:0.151 - prescript:0.149 - concurrent:0.164 - ministr:0.132 - conseil:0.144 - laiti:0.314 - detat:0.129 - 
 90mc05.txt
@@ -2627,7 +2627,7 @@ machin:0.28 - sedim:0.481 - répar:0.108 - dateli:0.148 - agricol:0.353 - fnar:0
 03d49.txt
 conseil:0.168 - a:0.126 - sais:0.113 - 1351:0.174 - x…:0.223 - 2003:0.127 - généalog:0.715 - emploisolidar:0.108 - laffair:0.133 - nav:0.127 - 
 91d59.txt
-géometr:0.167 - 1990:0.16 - traval:0.168 - f:0.229 - 000:0.152 - cabinet:0.516 - géosavoi:0.215 - chiffr:0.132 - daffair:0.194 - gi:0.277 - 
+géometr:0.167 - 1990:0.16 - traval:0.168 - f:0.229 - 000:0.151 - cabinet:0.516 - géosavoi:0.215 - chiffr:0.132 - daffair:0.194 - gi:0.277 - 
 13d07.txt
 googl:0.61 - sit:0.106 - ekanop:0.458 - 2010:0.102 - d’ekanop:0.134 - adsens:0.25 - moteur:0.112 - adword:0.317 - »:0.104 - «:0.111 - 
 02d20.txt
@@ -2637,7 +2637,7 @@ conseil:0.136 - isct:0.298 - sarl:0.386 - pigi:0.397 - dijon:0.129 - millet:0.18
 05d44.txt
 sall:0.143 - cinem:0.233 - marseil:0.165 - provençal:0.555 - méridional:0.288 - marseillais:0.157 - press:0.185 - quotidien:0.257 - publicitair:0.196 - provenc:0.287 - 
 99d64.txt
-a:0.077 - bau:0.346 - march:0.077 - armep:0.557 - maîtris:0.067 - construct:0.144 - societ:0.101 - d’un:0.068 - seribat:0.391 - sidep:0.47 - 
+a:0.077 - bau:0.346 - march:0.077 - armep:0.557 - maîtris:0.066 - construct:0.144 - societ:0.101 - d’un:0.068 - seribat:0.391 - sidep:0.47 - 
 98d63.txt
 conseil:0.14 - societ:0.186 - 754:0.25 - vu:0.139 - 1998:0.159 - concurrent:0.167 - 98d63:0.215 - 95mc09:0.204 - jean:0.345 - chapel:0.503 - 
 97d10.txt
@@ -2649,11 +2649,11 @@ préférent:0.189 - demplac:0.286 - claus:0.191 - oferrall:0.261 - louag:0.181 -
 96d05.txt
 brochur:0.116 - lordon:0.112 - 1992:0.098 - mus:0.341 - chartr:0.539 - ellenberg:0.097 - 809:0.117 - paul:0.111 - fuk:0.486 - amis:0.266 - 
 97d38.txt
-salon:0.16 - societ:0.13 - europ:0.169 - lifcplv:0.268 - parrainag:0.149 - snplv:0.268 - reedoip:0.134 - pop:0.288 - cep:0.417 - exposium:0.549 - 
+salon:0.16 - societ:0.13 - europ:0.169 - lifcplv:0.268 - parrainag:0.149 - snplv:0.268 - reedoip:0.134 - pop:0.288 - cep:0.417 - exposium:0.55 - 
 98d02.txt
 50000:0.118 - barreau:0.362 - fr:0.476 - l’ordr:0.217 - honorair:0.166 - bâtonni:0.127 - 00000:0.264 - d’aurillac:0.392 - avocat:0.297 - d’honorair:0.238 - 
 97d02.txt
-conseil:0.151 - vert:0.235 - d’ayrenx:0.22 - barbeau:0.149 - lign:0.285 - 765:0.409 - concurrent:0.15 - chin:0.148 - thé:0.382 - 97d02:0.232 - 
+conseil:0.151 - vert:0.235 - d’ayrenx:0.22 - barbeau:0.149 - lign:0.284 - 765:0.409 - concurrent:0.15 - chin:0.148 - thé:0.382 - 97d02:0.232 - 
 04d41.txt
 légend:0.462 - ses:0.448 - x…:0.175 - alain:0.199 - moto:0.208 - elveal:0.141 - véhicul:0.186 - rétroviseur:0.2 - l’auto:0.248 - samv:0.141 - 
 96d19.txt
@@ -2665,7 +2665,7 @@ group:0.204 - nc:0.174 - srde:0.324 - ogfc:0.324 - granulat:0.298 - lepuix:0.14 
 10d01.txt
 apple:0.597 - «:0.134 - orang:0.336 - l’iphon:0.262 - terminal:0.151 - d’orang:0.132 - »:0.141 - 08mc01:0.173 - mobil:0.208 - engag:0.161 - 
 07d24.txt
-point:0.103 - vent:0.164 - léonid:0.827 - …:0.129 - chocolat:0.208 - revendeur:0.167 - jeff:0.095 - confiser:0.279 - brug:0.092 - détaill:0.074 - 
+point:0.103 - vent:0.163 - léonid:0.827 - …:0.129 - chocolat:0.208 - revendeur:0.167 - jeff:0.095 - confiser:0.279 - brug:0.092 - détaill:0.074 - 
 02d31.txt
 attest:0.167 - societ:0.131 - conform:0.155 - l’immatricul:0.141 - sevic:0.387 - récept:0.132 - constructeur:0.195 - véhicul:0.451 - délivr:0.245 - man:0.354 - 
 97d33.txt
@@ -2693,9 +2693,9 @@ societ:0.151 - néo:0.382 - business:0.265 - 305:0.201 - bier:0.125 - barbeau:0.
 11d02.txt
 march:0.226 - cot:0.155 - terh:0.22 - lanfry:0.285 - lefevr:0.447 - quélin:0.193 - offre:0.176 - pradeau:0.125 - l’églis:0.151 - dagand:0.147 - 
 08d06.txt
-médecin:0.461 - syndicat:0.225 - …:0.243 - l’umesp:0.266 - csmf:0.153 - sml:0.142 - syngof:0.145 - cnamlib:0.14 - »:0.195 - «:0.193 - 
+médecin:0.461 - syndicat:0.225 - …:0.242 - l’umesp:0.266 - csmf:0.153 - sml:0.142 - syngof:0.145 - cnamlib:0.14 - »:0.195 - «:0.193 - 
 95d32.txt
-92d13:0.474 - sarth:0.225 - ludec:0.344 - cnpa:0.344 - lautomobil:0.146 - ouestfr:0.12 - locomot:0.127 - 72:0.144 - largus:0.125 - ladec:0.411 - 
+92d13:0.475 - sarth:0.225 - ludec:0.344 - cnpa:0.344 - lautomobil:0.146 - ouestfr:0.12 - locomot:0.127 - 72:0.144 - largus:0.125 - ladec:0.411 - 
 03d70.txt
 franc:0.122 - societ:0.169 - christian:0.181 - x…:0.404 - concess:0.238 - volkswagen:0.54 - ren:0.117 - d’un:0.12 - protocol:0.163 - group:0.142 - 
 98d64.txt
@@ -2705,7 +2705,7 @@ d’affermag:0.093 - commun:0.146 - saintmichelsurorg:0.596 - potabl:0.129 - sue
 99d68.txt
 salon:0.354 - vidal:0.179 - ffsa:0.477 - l’assur:0.278 - assureexpo:0.423 - d’assur:0.154 - 1992:0.129 - compagn:0.171 - féder:0.122 - societ:0.122 - 
 98mc03.txt
-tarifair:0.133 - franc:0.272 - télécom:0.514 - réseau:0.13 - 97201:0.131 - scolair:0.267 - internet:0.225 - télécommun:0.127 - segment:0.213 - d’interconnexion:0.15 - 
+tarifair:0.133 - franc:0.271 - télécom:0.514 - réseau:0.13 - 97201:0.131 - scolair:0.267 - internet:0.225 - télécommun:0.127 - segment:0.213 - d’interconnexion:0.15 - 
 04d74.txt
 anglonormand:0.149 - granvill:0.092 - condor:0.418 - lin:0.318 - demeraud:0.114 - emeraud:0.416 - ferr:0.198 - île:0.096 - saintmalo:0.155 - channiland:0.53 - 
 07d27.txt
@@ -2721,11 +2721,11 @@ canal:0.223 - câbl:0.508 - franc:0.135 - télécom:0.2 - câblooper:0.192 - pla
 94mc12.txt
 pontivyen:0.183 - societ:0.167 - pomp:0.404 - saintthuriau:0.122 - saintniel:0.427 - pontivy:0.244 - funebr:0.44 - funérair:0.154 - beaudr:0.305 - etabl:0.152 - 
 02d74.txt
-02d74:0.142 - d’offic:0.175 - d’impuls:0.229 - 00d82:0.258 - 2002:0.152 - l’achat:0.114 - 2001:0.183 - crem:0.299 - glac:0.583 - industriel:0.128 - 
+02d74:0.142 - d’offic:0.175 - d’impuls:0.229 - 00d82:0.258 - 2002:0.152 - l’achat:0.113 - 2001:0.183 - crem:0.299 - glac:0.583 - industriel:0.128 - 
 96d44.txt
 eurocom:0.325 - societ:0.252 - médi:0.252 - annonceur:0.146 - carat:0.435 - despac:0.216 - p:0.163 - tom:0.202 - 100:0.144 - publicitair:0.144 - 
 12d24.txt
-off:0.215 - sfr:0.328 - «:0.173 - orang:0.24 - trafic:0.165 - d’abond:0.342 - offre:0.183 - net:0.279 - mobil:0.174 - »:0.173 - 
+off:0.216 - sfr:0.328 - «:0.173 - orang:0.24 - trafic:0.165 - d’abond:0.342 - offre:0.183 - net:0.279 - mobil:0.174 - »:0.173 - 
 95d64.txt
 societ:0.12 - barbeau:0.107 - besançon:0.111 - 715:0.192 - courivaud:0.118 - marcel:0.442 - reuseau:0.665 - weil:0.139 - 95d64:0.166 - international:0.207 - 
 90d40.txt
@@ -2751,7 +2751,7 @@ affili:0.292 - pillon:0.243 - syndicat:0.225 - prothes:0.168 - patronal:0.161 - 
 05d71.txt
 conseil:0.168 - saisin:0.127 - 1081:0.377 - juillet:0.147 - bitumin:0.137 - toffolutt:0.447 - concurrent:0.141 - rouen:0.159 - calvados:0.127 - d’instruct:0.144 - 
 94d30.txt
-franc:0.141 - central:0.162 - dalb:0.181 - béton:0.622 - sobé:0.456 - 1989:0.205 - p:0.151 - lemploi:0.115 - prix:0.132 - 100:0.135 - 
+franc:0.14 - central:0.162 - dalb:0.181 - béton:0.622 - sobé:0.456 - 1989:0.205 - p:0.151 - lemploi:0.115 - prix:0.132 - 100:0.135 - 
 03d37.txt
 odmf:0.199 - stomatologu:0.316 - mgen:0.442 - convent:0.16 - honorair:0.138 - ssfodf:0.576 - dentofacial:0.141 - convention:0.111 - praticien:0.138 - odf:0.209 - 
 04d36.txt
@@ -2773,9 +2773,9 @@ richard:0.23 - randon:0.136 - diffuseur:0.234 - didi:0.201 - cart:0.253 - cartog
 02d49.txt
 l’articl:0.193 - 1998:0.175 - prescript:0.223 - accompl:0.159 - auvergn:0.234 - août:0.169 - monu:0.205 - cod:0.161 - 4627:0.163 - acte:0.171 - 
 99d04.txt
-concentr:0.154 - eul:0.169 - sud:0.154 - europ:0.153 - nrj:0.497 - ip:0.14 - nostalg:0.278 - rmc:0.311 - radio:0.161 - reg:0.206 - 
+concentr:0.154 - eul:0.169 - sud:0.154 - europ:0.153 - nrj:0.497 - ip:0.14 - nostalg:0.278 - rmc:0.311 - radio:0.161 - reg:0.205 - 
 09d16.txt
-lolf:0.115 - cégap:0.293 - univers:0.542 - logiciel:0.233 - winpai:0.127 - humain:0.118 - gestion:0.144 - lamu:0.267 - virtuali:0.267 - harpeg:0.305 - 
+lolf:0.115 - cégap:0.293 - univers:0.542 - logiciel:0.233 - winpai:0.127 - humain:0.118 - gestion:0.143 - lamu:0.267 - virtuali:0.267 - harpeg:0.305 - 
 95mc08.txt
 prospect:0.115 - lod:0.308 - conservatoir:0.113 - strateg:0.198 - lagenc:0.4 - annuair:0.115 - loffic:0.172 - agenc:0.111 - dannonc:0.17 - audac:0.564 - 
 95d52.txt
@@ -2799,7 +2799,7 @@ ejl:0.214 - ch:0.275 - blondet:0.158 - filipp:0.547 - monin:0.138 - lot:0.246 - 
 13d09.txt
 cdpgf:0.195 - vilmor:0.459 - terrain:0.113 - eiffag:0.42 - construct:0.354 - roussillon:0.358 - d’ouvrag:0.108 - sas:0.12 - d’eiffag:0.099 - pénitentiair:0.111 - 
 99d39.txt
-campagn:0.17 - 99d39:0.215 - 1999:0.162 - korff:0.431 - financ:0.199 - pharmac:0.232 - 527:0.237 - ministr:0.179 - l’économ:0.221 - cosmet:0.27 - 
+campagn:0.17 - 99d39:0.215 - 1999:0.163 - korff:0.431 - financ:0.199 - pharmac:0.232 - 527:0.237 - ministr:0.179 - l’économ:0.221 - cosmet:0.27 - 
 04d35.txt
 négoci:0.133 - doux:0.146 - récolt:0.349 - vin:0.475 - socodivin:0.371 - rivesalt:0.127 - hl:0.355 - civdn:0.212 - achat:0.137 - quantit:0.136 - 
 06d11.txt
@@ -2813,13 +2813,13 @@ produit:0.092 - vest:0.091 - societ:0.13 - serap:0.274 - vêt:0.185 - l’agent:
 01d09.txt
 machin:0.281 - locat:0.209 - d’affranch:0.367 - pitney:0.332 - bow:0.332 - chebbat:0.273 - secap:0.166 - jmc:0.229 - postal:0.248 - sat:0.187 - 
 07mc01.txt
-d’électr:0.222 - consomm:0.198 - edf:0.382 - éligibil:0.22 - claus:0.162 - kalibrax:0.348 - client:0.216 - contrat:0.277 - l’électr:0.182 - march:0.144 - 
+d’électr:0.222 - consomm:0.198 - edf:0.382 - éligibil:0.22 - claus:0.162 - kalibrax:0.348 - client:0.216 - contrat:0.276 - l’électr:0.182 - march:0.143 - 
 03d60.txt
 distribu:0.115 - bijouti:0.142 - sélect:0.167 - societ:0.112 - horloger:0.125 - vent:0.112 - carti:0.695 - montr:0.152 - marcoutsoulhol:0.189 - distributeur:0.19 - 
 02mc09.txt
 tahor:0.139 - lilly:0.191 - glaxosmithklin:0.153 - laboratoir:0.342 - médic:0.166 - merck:0.116 - mf:0.142 - pharmajet:0.444 - msd:0.306 - pfiz:0.217 - 
 97d65.txt
-a:0.145 - conseil:0.145 - 97d65:0.186 - savinien:0.15 - àde:0.186 - prescript:0.176 - concurrent:0.144 - fait:0.14 - dentretien:0.212 - lentill:0.267 - 
+a:0.145 - conseil:0.145 - 97d65:0.186 - savinien:0.15 - àde:0.186 - prescript:0.176 - concurrent:0.144 - fait:0.139 - dentretien:0.212 - lentill:0.267 - 
 03d17.txt
 autorout:0.324 - shel:0.231 - elf:0.289 - pétroli:0.162 - prix:0.229 - station:0.572 - bp:0.152 - carbur:0.179 - esso:0.188 - stationsservic:0.121 - 
 02d65.txt
@@ -2833,7 +2833,7 @@ tnmsc:0.115 - havr:0.125 - tpo:0.706 - perrigault:0.343 - terminal:0.192 - portu
 96d56.txt
 conseil:0.11 - societ:0.116 - béton:0.624 - «:0.104 - chanti:0.272 - 94mc10:0.355 - l’injonct:0.305 - var:0.214 - »:0.104 - l’emploi:0.109 - 
 97d28.txt
-societ:0.195 - pomp:0.318 - villepint:0.179 - pfg:0.359 - famill:0.152 - dumond:0.192 - bondy:0.231 - funebr:0.347 - montfermeil:0.185 - funérair:0.261 - 
+societ:0.196 - pomp:0.318 - villepint:0.179 - pfg:0.359 - famill:0.152 - dumond:0.192 - bondy:0.231 - funebr:0.347 - montfermeil:0.185 - funérair:0.261 - 
 98d62.txt
 franc:0.181 - societ:0.248 - psm:0.337 - guez:0.184 - d’outrem:0.149 - d’imager:0.181 - médical:0.252 - hogu:0.184 - philip:0.239 - gem:0.314 - 
 92d35.txt
@@ -2845,7 +2845,7 @@ bernovill:0.209 - ■:0.147 - nolot:0.175 - fioul:0.316 - saintquentin:0.123 - d
 03d34.txt
 teich:0.161 - group:0.215 - denquêt:0.13 - rocad:0.212 - €:0.289 - bordelais:0.154 - offre:0.17 - doffr:0.133 - lélarg:0.132 - march:0.229 - 
 05d46.txt
-marqu:0.119 - répar:0.357 - horloger:0.138 - ateli:0.139 - jaeg:0.493 - €:0.151 - lecoultr:0.493 - montr:0.141 - détach:0.143 - mouret:0.156 - 
+marqu:0.118 - répar:0.357 - horloger:0.138 - ateli:0.139 - jaeg:0.493 - €:0.151 - lecoultr:0.493 - montr:0.141 - détach:0.143 - mouret:0.156 - 
 12d22.txt
 l’autor:0.059 - societ:0.056 - engag:0.069 - pagesjaun:0.876 - publiqu:0.108 - «:0.127 - annuair:0.131 - agenc:0.188 - »:0.129 - annonceur:0.114 - 
 04d23.txt
@@ -2867,7 +2867,7 @@ callu:0.131 - coiffur:0.383 - 94d06:0.238 - dessang:0.419 - statu:0.136 - jacqu:
 90d38.txt
 burlion:0.066 - bagneux:0.085 - benech:0.049 - gambet:0.047 - roy:0.067 - bechu:0.072 - cer:0.066 - montroug:0.056 - autoécol:0.95 - cer92sud:0.06 - 
 98d20.txt
-nîm:0.252 - tarascon:0.237 - pomp:0.259 - extérieur:0.119 - funebr:0.282 - beaucair:0.189 - pfse:0.535 - déces:0.137 - funérair:0.379 - chambr:0.15 - 
+nîm:0.252 - tarascon:0.237 - pomp:0.258 - extérieur:0.119 - funebr:0.282 - beaucair:0.189 - pfse:0.535 - déces:0.137 - funérair:0.379 - chambr:0.15 - 
 03d69.txt
 distribu:0.132 - produit:0.113 - societ:0.111 - sr:0.158 - prothes:0.198 - cap:0.089 - dentair:0.244 - contrat:0.103 - ivoclar:0.763 - dépôt:0.092 - 
 01d60.txt
@@ -2919,11 +2919,11 @@ vulco:0.437 - michelin:0.539 - pneumat:0.173 - manufacturi:0.177 - cprm:0.273 - 
 93d50.txt
 gevaert:0.217 - dagf:0.137 - compugraphic:0.477 - revendeur:0.172 - accord:0.133 - p:0.139 - hdu:0.119 - transf:0.096 - agfa:0.558 - film:0.243 - 
 11d08.txt
-distribu:0.113 - cadeau:0.563 - enseign:0.132 - btoc:0.175 - cart:0.355 - kadéos:0.158 - multienseign:0.33 - chequ:0.111 - accentiv’kadéos:0.388 - d’accentiv’kadéos:0.109 - 
+distribu:0.112 - cadeau:0.563 - enseign:0.132 - btoc:0.175 - cart:0.355 - kadéos:0.158 - multienseign:0.33 - chequ:0.111 - accentiv’kadéos:0.388 - d’accentiv’kadéos:0.109 - 
 14mc02.txt
 résidentiel:0.178 - energ:0.123 - consomm:0.136 - march:0.191 - gaz:0.342 - su:0.361 - client:0.199 - offre:0.157 - gdf:0.442 - trv:0.423 - 
 95d25.txt
-societ:0.185 - startbarl:0.531 - ordur:0.115 - sonev:0.197 - 1992:0.107 - stan:0.206 - dhyer:0.295 - ménager:0.093 - cpsp:0.482 - silim:0.28 - 
+societ:0.186 - startbarl:0.531 - ordur:0.115 - sonev:0.197 - 1992:0.107 - stan:0.206 - dhyer:0.295 - ménager:0.093 - cpsp:0.482 - silim:0.28 - 
 02d27.txt
 l’articl:0.218 - syndicat:0.201 - collect:0.128 - intercommunal:0.36 - concess:0.124 - 4621:0.139 - territorial:0.164 - cod:0.133 - bargemon:0.381 - d’électrif:0.34 - 
 00d69.txt
@@ -2955,7 +2955,7 @@ toursoper:0.096 - cfo:0.532 - mond:0.13 - omves:0.128 - coup:0.123 - billet:0.55
 01d17.txt
 havr:0.18 - societ:0.122 - march:0.113 - norelec:0.368 - lacheray:0.162 - forlumen:0.297 - mailleray:0.108 - chillou:0.094 - sfe:0.652 - basill:0.094 - 
 91mc06.txt
-1991:0.08 - societ:0.18 - brevet:0.126 - conservatoir:0.089 - cart:0.09 - innovatron:0.591 - ingenico:0.074 - applicam:0.591 - licenc:0.136 - 91mc06:0.074 - 
+1991:0.08 - societ:0.18 - brevet:0.126 - conservatoir:0.089 - cart:0.09 - innovatron:0.591 - ingenico:0.074 - applicam:0.591 - licenc:0.135 - 91mc06:0.074 - 
 91d04.txt
 mutual:0.473 - convent:0.221 - opticien:0.565 - opticiensluneti:0.111 - doptiqu:0.175 - caiss:0.108 - n°:0.102 - syndical:0.139 - chambr:0.11 - mutuel:0.187 - 
 92d57.txt
@@ -2963,7 +2963,7 @@ radios:0.108 - rémuner:0.259 - rtl:0.127 - voisin:0.103 - phonogramm:0.305 - dr
 95d65.txt
 societ:0.113 - 601:0.223 - afer:0.197 - nocaud:0.786 - courivaud:0.139 - barbeau:0.126 - 95d65:0.197 - vu:0.127 - 1995:0.143 - enregistr:0.103 - 
 08mc01.txt
-apple:0.561 - telecom:0.13 - «:0.141 - orang:0.337 - l’iphon:0.324 - terminal:0.216 - iphon:0.221 - 2008:0.146 - mobil:0.153 - »:0.134 - 
+apple:0.562 - telecom:0.13 - «:0.14 - orang:0.337 - l’iphon:0.324 - terminal:0.216 - iphon:0.222 - 2008:0.146 - mobil:0.153 - »:0.134 - 
 91d07.txt
 lécol:0.127 - franc:0.118 - lecol:0.2 - syndicat:0.098 - moniteur:0.413 - snow:0.091 - grandbornand:0.097 - cauteret:0.158 - ski:0.751 - écol:0.091 - 
 00d22.txt
@@ -2971,7 +2971,7 @@ societ:0.206 - log:0.192 - ouest:0.187 - hlm:0.133 - lot:0.172 - chaudi:0.181 - 
 90d28.txt
 photograph:0.097 - societ:0.122 - appareil:0.126 - minolt:0.625 - nikon:0.12 - p:0.167 - fnac:0.323 - jean:0.231 - 100:0.145 - chapel:0.356 - 
 96d52.txt
-d’officin:0.455 - syndicat:0.198 - barbeau:0.108 - 1996:0.122 - national:0.136 - pharmac:0.364 - vétérinair:0.582 - n°96d52:0.169 - 277:0.161 - vegl:0.114 - 
+d’officin:0.455 - syndicat:0.198 - barbeau:0.108 - 1996:0.122 - national:0.135 - pharmac:0.364 - vétérinair:0.582 - n°96d52:0.169 - 277:0.161 - vegl:0.114 - 
 95d38.txt
 coefficient:0.108 - rolesco:0.282 - froid:0.17 - cfc:0.199 - frigorif:0.636 - fluid:0.188 - frigorigen:0.16 - snefcc:0.282 - dair:0.088 - cofriset:0.282 - 
 06mc01.txt
@@ -3013,7 +3013,7 @@ seetp:0.247 - ejl:0.157 - societ:0.175 - nicor:0.151 - berthold:0.21 - ornain:0.
 96d10.txt
 lod:0.301 - cm:0.214 - soleil:0.133 - télécom:0.196 - annuair:0.404 - versaill:0.152 - jaun:0.483 - pag:0.303 - publicitair:0.132 - lannuair:0.133 - 
 09d17.txt
-conseil:0.161 - sant:0.151 - pharmacien:0.472 - régional:0.194 - l’ordr:0.287 - pharmac:0.254 - médic:0.218 - bassenormand:0.183 - »:0.166 - «:0.161 - 
+conseil:0.161 - sant:0.151 - pharmacien:0.473 - régional:0.194 - l’ordr:0.287 - pharmac:0.254 - médic:0.218 - bassenormand:0.183 - »:0.166 - «:0.161 - 
 97d59.txt
 franc:0.233 - societ:0.111 - 1997:0.107 - sarl:0.183 - actron:0.485 - 876:0.163 - system:0.174 - checkpoint:0.647 - ckp:0.171 - périfem:0.085 - 
 95mc06.txt
@@ -3031,13 +3031,11 @@ barreau:0.375 - vi:0.209 - 6294:0.159 - conféder:0.345 - d’aurillac:0.138 - s
 01d48.txt
 conseil:0.092 - urbain:0.096 - d’affermag:0.167 - consomm:0.113 - cergypontois:0.743 - l’aven:0.091 - fédéral:0.317 - 93122:0.109 - l’union:0.195 - chauffag:0.181 - 
 95d83.txt
-lordon:0.079 - pelleti:0.078 - lentrepris:0.23 - quélin:0.56 - saintlou:0.132 - payeux:0.591 - offre:0.077 - doffr:0.133 - entrepris:0.093 - muraill:0.194 - 
+lordon:0.079 - pelleti:0.078 - lentrepris:0.229 - quélin:0.56 - saintlou:0.132 - payeux:0.591 - offre:0.077 - doffr:0.133 - entrepris:0.093 - muraill:0.194 - 
 00d16.txt
 societ:0.14 - béton:0.167 - carri:0.582 - cofirem:0.204 - bgp:0.146 - saintemarth:0.399 - lafarg:0.162 - granulat:0.284 - bail:0.161 - col:0.248 - 
-00d02.txt~
-conseil:0.174 - fertierpotti:0.21 - 00d02:0.255 - d’industr:0.156 - 1093:0.398 - d’azur:0.161 - concurrent:0.174 - societ:0.155 - cit:0.301 - hagelsteen:0.164 - 
 05d61.txt
-guintol:0.262 - scétaurout:0.252 - group:0.14 - traval:0.235 - converso:0.149 - soges:0.252 - l’ades:0.441 - tunnel:0.183 - d’uriol:0.149 - brion:0.155 - 
+guintol:0.263 - scétaurout:0.252 - group:0.14 - traval:0.235 - converso:0.149 - soges:0.252 - l’ades:0.441 - tunnel:0.183 - d’uriol:0.149 - brion:0.155 - 
 93d04.txt
 societ:0.181 - moulinex:0.261 - dun:0.118 - universal:0.436 - électroménager:0.161 - seb:0.243 - philip:0.176 - appareil:0.092 - rasoir:0.606 - consider:0.088 - 
 91d43.txt
@@ -3083,7 +3081,7 @@ urbain:0.239 - societ:0.117 - mobili:0.422 - claus:0.103 - ●:0.124 - collect:0
 03d05.txt
 cod:0.142 - l’entretien:0.165 - répar:0.201 - analyseur:0.345 - d’échapp:0.28 - amgi:0.182 - d’analyseur:0.182 - 03d05:0.182 - 1004:0.136 - gaz:0.27 - 
 13d22.txt
-concentr:0.183 - castel:0.583 - d’euros:0.137 - kbb:0.147 - patriarch:0.214 - contrôl:0.137 - confidentiel:0.177 - l’oper:0.196 - copagef:0.254 - group:0.154 - 
+concentr:0.183 - castel:0.583 - d’euros:0.137 - kbb:0.147 - patriarch:0.214 - contrôl:0.137 - confidentiel:0.177 - l’oper:0.196 - copagef:0.255 - group:0.154 - 
 93d40.txt
 tlpd:0.34 - societ:0.18 - option:0.207 - grossist:0.09 - sifcostanley:0.742 - p:0.114 - vrp:0.145 - loutillag:0.084 - stanley:0.133 - 100:0.099 - 
 99d56.txt
@@ -3101,7 +3099,7 @@ produit:0.075 - ■:0.096 - celloplast:0.555 - chlorat:0.573 - soud:0.364 - dés
 97d92.txt
 pomp:0.359 - municipal:0.35 - servic:0.207 - funebr:0.392 - extérieur:0.125 - famill:0.177 - déces:0.151 - funérair:0.389 - marseil:0.239 - prestat:0.103 - 
 96d49.txt
-médecin:0.773 - pum:0.142 - syndicat:0.122 - gard:0.337 - lordr:0.104 - amien:0.147 - sos:0.289 - remplac:0.118 - servic:0.101 - samu:0.12 - 
+médecin:0.773 - pum:0.142 - syndicat:0.122 - gard:0.337 - lordr:0.104 - amien:0.147 - sos:0.289 - remplac:0.118 - servic:0.1 - samu:0.12 - 
 07d19.txt
 compagn:0.126 - 030088:0.175 - lib:0.189 - partag:0.117 - aérien:0.267 - air:0.318 - concurrent:0.147 - cod:0.119 - denquêt:0.241 - antill:0.29 - 
 14d12.txt
@@ -3125,9 +3123,9 @@ kremm:0.149 - autohaus:0.159 - automobil:0.139 - concess:0.116 - concessionnair:
 10d28.txt
 ceic:0.272 - cir:0.124 - cred:0.163 - banqu:0.544 - bancair:0.128 - d’un:0.104 - chequ:0.402 - remet:0.098 - l’eic:0.255 - interbancair:0.239 - 
 90d31.txt
-télécommun:0.128 - lod:0.619 - officiel:0.137 - publiqu:0.113 - dabon:0.106 - annuair:0.405 - jaun:0.176 - hav:0.118 - publicitair:0.135 - lannuair:0.152 - 
+télécommun:0.128 - lod:0.619 - officiel:0.137 - publiqu:0.112 - dabon:0.106 - annuair:0.405 - jaun:0.176 - hav:0.118 - publicitair:0.135 - lannuair:0.152 - 
 95d28.txt
-lordon:0.152 - conseil:0.15 - 95d28:0.165 - bocarr:0.165 - concurrent:0.149 - dabus:0.185 - industriel:0.149 - tic:0.301 - 728:0.185 - dépossed:0.157 - 
+lordon:0.152 - conseil:0.15 - 95d28:0.165 - bocarr:0.165 - concurrent:0.15 - dabus:0.185 - industriel:0.149 - tic:0.301 - 728:0.185 - dépossed:0.157 - 
 04d69.txt
 affili:0.159 - societ:0.15 - amiabl:0.204 - huissi:0.427 - justic:0.203 - recouvr:0.408 - convergent:0.317 - d’huissi:0.116 - créanc:0.25 - l’étud:0.093 - 
 99d54.txt
@@ -3135,7 +3133,7 @@ distribu:0.076 - societ:0.15 - d’un:0.05 - lunet:0.304 - silhouet:0.531 - mont
 04d66.txt
 spectacl:0.209 - sall:0.313 - popb:0.135 - billet:0.369 - stad:0.143 - l’olympi:0.14 - billetter:0.628 - producteur:0.196 - pal:0.161 - locat:0.122 - 
 91d02.txt
-lordon:0.137 - carri:0.255 - pugetsurargen:0.283 - visit:0.146 - saintraphaël:0.25 - raphaélois:0.149 - zott:0.298 - disjoint:0.165 - 91d02:0.149 - 1584d:0.149 - 
+lordon:0.137 - carri:0.255 - pugetsurargen:0.283 - visit:0.146 - saintraphaël:0.25 - raphaélois:0.149 - zott:0.299 - disjoint:0.165 - 91d02:0.149 - 1584d:0.149 - 
 03d20.txt
 franco:0.327 - cl:0.159 - entrepositairesgross:0.341 - beverag:0.11 - entrepôt:0.097 - tarif:0.151 - fnb:0.153 - boisson:0.235 - cce:0.101 - cocacol:0.634 - 
 97d66.txt
@@ -3143,7 +3141,7 @@ franco:0.327 - cl:0.159 - entrepositairesgross:0.341 - beverag:0.11 - entrepôt:
 00d10.txt
 verr:0.108 - fournisseur:0.137 - référenc:0.105 - prix:0.108 - franchiseur:0.147 - alain:0.328 - montur:0.275 - franchis:0.462 - afflelou:0.572 - lentill:0.14 - 
 99mc12.txt
-franc:0.198 - téléphon:0.28 - march:0.141 - ola:0.249 - télécom:0.573 - bouygu:0.282 - 1999:0.21 - societ:0.191 - mobil:0.195 - portabl:0.136 - 
+franc:0.198 - téléphon:0.28 - march:0.141 - ola:0.249 - télécom:0.573 - bouygu:0.282 - 1999:0.211 - societ:0.191 - mobil:0.195 - portabl:0.136 - 
 10d24.txt
 enfenconfi:0.28 - sit:0.157 - maternel:0.318 - monenfantfr:0.227 - «:0.206 - assist:0.126 - famill:0.157 - »:0.191 - caf:0.132 - cnaf:0.563 - 
 92d16.txt
@@ -3171,15 +3169,15 @@ produit:0.137 - alifax:0.498 - samsung:0.1 - «:0.115 - 2008:0.081 - concurrent:
 92mc02.txt
 enterpris:0.563 - societ:0.163 - limited:0.366 - casset:0.122 - activ:0.135 - 52:0.102 - band:0.263 - nintendo:0.385 - action:0.107 - télévent:0.109 - 
 02d41.txt
-franc:0.234 - bas:0.146 - télécom:0.444 - coût:0.141 - annuair:0.505 - intelmat:0.19 - d’annuair:0.166 - jaun:0.173 - fichi:0.165 - renseign:0.13 - 
+franc:0.233 - bas:0.146 - télécom:0.444 - coût:0.141 - annuair:0.505 - intelmat:0.19 - d’annuair:0.166 - jaun:0.173 - fichi:0.165 - renseign:0.13 - 
 06d07.txt
 a:0.146 - march:0.196 - fougeroll:0.135 - traval:0.155 - bouygu:0.208 - gtm:0.149 - –:0.157 - offre:0.164 - soletanch:0.34 - quillery:0.189 - 
 98d33.txt
-1990:0.138 - societ:0.207 - berthouly:0.196 - tp:0.105 - ●:0.14 - ht:0.123 - jouli:0.612 - entrepris:0.172 - crégut:0.126 - fil:0.201 - 
+1990:0.138 - societ:0.207 - berthouly:0.196 - tp:0.105 - ●:0.14 - ht:0.123 - jouli:0.612 - entrepris:0.171 - crégut:0.126 - fil:0.201 - 
 94d58.txt
 lordon:0.097 - fiscal:0.097 - societ:0.121 - pomp:0.549 - concurrent:0.109 - 94d58:0.105 - funebr:0.599 - 640:0.109 - libert:0.108 - tva:0.104 - 
 08d21.txt
-franc:0.22 - téléphon:0.127 - raccord:0.147 - télécom:0.505 - dadduct:0.167 - solutel:0.469 - localis:0.237 - déplac:0.162 - prestat:0.22 - immobili:0.125 - 
+franc:0.219 - téléphon:0.127 - raccord:0.147 - télécom:0.505 - dadduct:0.167 - solutel:0.469 - localis:0.237 - déplac:0.162 - prestat:0.22 - immobili:0.125 - 
 05d60.txt
 planari:0.345 - l’îl:0.441 - maritim:0.173 - cann:0.155 - tran:0.174 - congreg:0.415 - l’immacul:0.212 - cistercien:0.243 - saint:0.163 - visiteur:0.159 - 
 06d33.txt
@@ -3195,13 +3193,13 @@ conseil:0.131 - béghinsay:0.154 - sucr:0.233 - sucrer:0.141 - gardel:0.253 - la
 15d16.txt
 golf:0.752 - sportiv:0.108 - l’assur:0.138 - d’assur:0.129 - ff:0.339 - 2015:0.112 - féder:0.117 - licenci:0.156 - joueur:0.11 - 2012:0.161 - 
 99d34.txt
-distribu:0.232 - publicitair:0.156 - cinem:0.154 - ugc:0.327 - matériel:0.155 - amlf:0.424 - affich:0.189 - cinématograph:0.191 - postal:0.169 - film:0.243 - 
+distribu:0.231 - publicitair:0.156 - cinem:0.154 - ugc:0.327 - matériel:0.155 - amlf:0.424 - affich:0.189 - cinématograph:0.191 - postal:0.169 - film:0.243 - 
 15d07.txt
-distribu:0.088 - cot:0.101 - phytosanitair:0.117 - agroscient:0.631 - «:0.15 - puc:0.121 - prix:0.143 - »:0.147 - distributeur:0.139 - dow:0.566 - 
+distribu:0.088 - cot:0.101 - phytosanitair:0.117 - agroscient:0.631 - «:0.15 - puc:0.121 - prix:0.143 - »:0.147 - distributeur:0.138 - dow:0.566 - 
 95d16.txt
 cardioachat:0.349 - dachat:0.156 - atl:0.268 - len:0.197 - cardiolog:0.229 - biomedic:0.227 - échograph:0.163 - medical:0.421 - sonotron:0.268 - toshib:0.234 - 
 96d21.txt
-spher:0.13 - hôteli:0.18 - 1996:0.132 - conféder:0.14 - ibis:0.616 - discothequ:0.199 - cafeti:0.207 - hôtel:0.292 - franchis:0.187 - cfhrcd:0.258 - 
+spher:0.13 - hôteli:0.18 - 1996:0.131 - conféder:0.14 - ibis:0.616 - discothequ:0.199 - cafeti:0.207 - hôtel:0.292 - franchis:0.187 - cfhrcd:0.258 - 
 00d50.txt
 informat:0.114 - casinos:0.096 - mobili:0.167 - français:0.244 - coût:0.095 - jeux:0.766 - mainten:0.254 - d’un:0.107 - contrat:0.104 - kf:0.112 - 
 00d75.txt
@@ -3227,7 +3225,7 @@ médecin:0.575 - monsieur:0.122 - convent:0.218 - 1625:0.185 - lefrançois:0.295
 03mc04.txt
 bonif:0.1 - dépositair:0.189 - diffuseur:0.112 - messager:0.163 - saemtp:0.176 - mlp:0.559 - éditeur:0.122 - press:0.249 - tid:0.087 - nmpp:0.58 - 
 00d32.txt
-domain:0.177 - sit:0.299 - l’afnic:0.54 - annuair:0.158 - fr:0.139 - concurrent:0.129 - recherch:0.18 - moteur:0.252 - internet:0.161 - psinet:0.208 - 
+domain:0.177 - sit:0.298 - l’afnic:0.54 - annuair:0.158 - fr:0.139 - concurrent:0.129 - recherch:0.18 - moteur:0.252 - internet:0.161 - psinet:0.208 - 
 10d27.txt
 cprm:0.447 - partenair:0.152 - michelin:0.647 - «:0.19 - négoci:0.107 - manufacturi:0.194 - vulco:0.149 - pneus:0.21 - »:0.182 - servic:0.104 - 
 08d14.txt
@@ -3269,11 +3267,11 @@ d’électr:0.15 - edf:0.239 - pow:0.304 - verdes:0.513 - l’électr:0.132 - ca
 94d31.txt
 produit:0.114 - coiffur:0.526 - salon:0.284 - dessang:0.445 - franchiseur:0.149 - jacqu:0.251 - franchis:0.435 - franklin:0.162 - holding:0.073 - réseau:0.111 - 
 09d03.txt
-transporteur:0.154 - gep:0.213 - ponsaty:0.166 - vaill:0.161 - l’udsist:0.158 - catalan:0.25 - autocar:0.259 - vidal:0.153 - lot:0.28 - transport:0.266 - 
+transporteur:0.154 - gep:0.213 - ponsaty:0.166 - vaill:0.161 - l’udsist:0.158 - catalan:0.25 - autocar:0.259 - vidal:0.153 - lot:0.28 - transport:0.265 - 
 96d40.txt
 vignet:0.118 - skieur:0.102 - cart:0.139 - neig:0.446 - orion:0.289 - station:0.235 - ff:0.096 - féder:0.222 - ticket:0.176 - ski:0.606 - 
 00d60.txt
-fertierpotti:0.083 - societ:0.123 - 1215:0.233 - interact:0.113 - 00mc09:0.213 - entertainment:0.581 - jpf:0.563 - eidos:0.202 - 2000:0.181 - d60:0.106 - 
+fertierpotti:0.084 - societ:0.123 - 1215:0.233 - interact:0.113 - 00mc09:0.213 - entertainment:0.58 - jpf:0.563 - eidos:0.202 - 2000:0.181 - d60:0.106 - 
 01d63.txt
 dag:0.265 - fat:0.179 - biard:0.17 - militair:0.336 - guyan:0.231 - déménag:0.487 - sogudem:0.219 - ttg:0.222 - dev:0.176 - ho:0.179 - 
 92d44.txt
@@ -3285,13 +3283,13 @@ grill:0.122 - entrepris:0.071 - laaf:0.779 - automobil:0.115 - dépannag:0.122 -
 97d18.txt
 lordr:0.28 - conseil:0.117 - sant:0.108 - pharmacien:0.593 - régional:0.134 - domicil:0.213 - médic:0.401 - duceau:0.167 - central:0.102 - portag:0.334 - 
 00mc11.txt
-héliint:0.401 - societ:0.105 - nicecann:0.151 - nic:0.278 - rivi:0.34 - l’hélist:0.332 - palm:0.217 - d’atterrissag:0.249 - beach:0.249 - hélicopter:0.43 - 
+héliint:0.401 - societ:0.105 - nicecann:0.151 - nic:0.279 - rivi:0.339 - l’hélist:0.332 - palm:0.217 - d’atterrissag:0.249 - beach:0.249 - hélicopter:0.43 - 
 91mc04.txt
 societ:0.201 - europ:0.243 - laviat:0.225 - vol:0.179 - servic:0.115 - aero:0.571 - chart:0.24 - air:0.38 - marchand:0.107 - demand:0.12 - 
 95d31.txt
 conseil:0.104 - conduit:0.092 - 1992:0.14 - lenseign:0.168 - ladec:0.578 - décis:0.143 - maineetloir:0.212 - 92d12:0.503 - sanction:0.129 - linjonct:0.116 - 
 07d45.txt
-csrp:0.309 - vent:0.128 - march:0.119 - contingent:0.265 - laboratoir:0.282 - grossistesrépartiteur:0.251 - médic:0.362 - grossist:0.198 - pharmaceut:0.148 - pfiz:0.415 - 
+csrp:0.309 - vent:0.128 - march:0.119 - contingent:0.265 - laboratoir:0.282 - grossistesrépartiteur:0.251 - médic:0.362 - grossist:0.198 - pharmaceut:0.148 - pfiz:0.416 - 
 04d10.txt
 sall:0.267 - cinem:0.31 - ugc:0.478 - entré:0.152 - cinec:0.114 - cart:0.378 - 2000:0.137 - film:0.102 - d’abon:0.139 - illim:0.234 - 
 05d75.txt
@@ -3303,7 +3301,7 @@ cholstat:0.157 - st’halt:0.47 - 1342:0.252 - l’associ:0.243 - chambr:0.142 -
 04d67.txt
 vent:0.149 - grossist:0.283 - mobil:0.161 - «:0.128 - sfr:0.579 - terminal:0.169 - télécom:0.196 - »:0.125 - distributeur:0.178 - pack:0.324 - 
 06d01.txt
-tarifair:0.117 - barem:0.128 - pt:0.123 - dom:0.155 - polynes:0.153 - nouvellecalédon:0.154 - export:0.215 - d’export:0.2 - press:0.343 - nmpp:0.596 - 
+tarifair:0.117 - barem:0.128 - pt:0.123 - dom:0.155 - polynes:0.153 - nouvellecalédon:0.154 - export:0.215 - d’export:0.2 - press:0.343 - nmpp:0.597 - 
 95mc16.txt
 eda:0.337 - locat:0.217 - ccimp:0.462 - eurodollar:0.308 - doccup:0.135 - marseilleprovent:0.184 - laéroport:0.281 - véhicul:0.135 - ada:0.299 - sogemar:0.311 - 
 02mc04.txt
@@ -3345,7 +3343,7 @@ sograland:0.263 - gout:0.249 - sograg:0.219 - emga:0.241 - mouneu:0.219 - semc:0
 95d19.txt
 lordon:0.095 - dun:0.082 - 679:0.119 - sarl:0.158 - commun:0.121 - bartolo:0.103 - pcbpromot:0.619 - banc:0.463 - 95d19:0.103 - publiprint:0.266 - 
 02d13.txt
-conseil:0.122 - censur:0.14 - vall:0.179 - marn:0.167 - prescript:0.264 - feux:0.164 - d’un:0.15 - 4627:0.144 - l’éclairag:0.14 - ccgvm:0.315 - 
+conseil:0.123 - censur:0.14 - vall:0.179 - marn:0.167 - prescript:0.263 - feux:0.164 - d’un:0.15 - 4627:0.144 - l’éclairag:0.14 - ccgvm:0.315 - 
 04d51.txt
 glexpedi:0.21 - voyag:0.297 - billet:0.298 - voyagessncfcom:0.355 - ravel:0.195 - sncf:0.405 - expedi:0.153 - train:0.263 - gl:0.19 - lastminutecom:0.26 - 
 95d11.txt
@@ -3363,7 +3361,7 @@ duboz:0.174 - 1992:0.229 - laurent:0.195 - financ:0.157 - discothequ:0.166 - 91d
 90d27.txt
 sturm:0.503 - remis:0.145 - isos:0.124 - p:0.132 - bleg:0.248 - tuiler:0.273 - alsac:0.118 - briqu:0.362 - 100:0.115 - tuil:0.47 - 
 97d27.txt
-montreuil:0.15 - societ:0.179 - pomp:0.348 - pfg:0.251 - funebr:0.38 - intermarbr:0.171 - montfermeil:0.164 - funérair:0.388 - pfgiledefr:0.148 - chambr:0.152 - 
+montreuil:0.15 - societ:0.179 - pomp:0.348 - pfg:0.251 - funebr:0.38 - intermarbr:0.171 - montfermeil:0.164 - funérair:0.388 - pfgiledefr:0.148 - chambr:0.153 - 
 94mc04.txt
 fançais:0.233 - conservatoir:0.266 - 1994:0.23 - 94mc04:0.233 - ecl:0.424 - d’escrim:0.195 - loin:0.285 - 123:0.171 - européen:0.173 - avirl:0.233 - 
 03d35.txt
@@ -3377,7 +3375,7 @@ chauffeur:0.216 - l’aérodrom:0.253 - itc:0.168 - tropicar:0.177 - st:0.201 - 
 98d09.txt
 conseil:0.129 - concurrent:0.128 - billetter:0.168 - 1996:0.179 - sportiv:0.14 - national:0.125 - football:0.38 - ligu:0.418 - 814:0.233 - datasport:0.328 - 
 96d66.txt
-lait:0.432 - berri:0.235 - référent:0.161 - prélev:0.174 - esne:0.165 - laiter:0.349 - producteur:0.232 - l’onil:0.312 - quantit:0.229 - laiti:0.202 - 
+lait:0.432 - berri:0.235 - référent:0.16 - prélev:0.174 - esne:0.165 - laiter:0.349 - producteur:0.232 - l’onil:0.312 - quantit:0.229 - laiti:0.202 - 
 06d24.txt
 distribu:0.127 - vent:0.169 - marqu:0.109 - franc:0.12 - lotus:0.141 - festin:0.819 - montr:0.093 - internet:0.147 - distributeur:0.093 - bijouram:0.142 - 
 99d71.txt
