@@ -22,4 +22,8 @@ for cluster in matrix:
 	listOfCluster.append(dico)
 	size += 1
 
+with open("cluster49.txt","w") as outfile:
+	for key,val in listOfCluster[-1].items():
+		outfile.write(str(key)+":"+str(val)+'\n')
+
 print listOfCluster[-1]
