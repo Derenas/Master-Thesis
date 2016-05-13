@@ -31,4 +31,8 @@ Marie-Dominique Hagelsteen
 
 © Conseil de la concurrence
 
+<<<<<<< HEAD
 
+=======
+
+>>>>>>> 65731833ce47e4eeaa569bee2b4a190593f1e219

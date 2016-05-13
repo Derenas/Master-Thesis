@@ -1,9 +1,14 @@
 # -*- coding: utf-8 -*-
+<<<<<<< HEAD
 import sys
+=======
+
+>>>>>>> 65731833ce47e4eeaa569bee2b4a190593f1e219
 import nltk
 import string
 import os
 import io
+<<<<<<< HEAD
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.stem import SnowballStemmer
 from nltk.tokenize import WordPunctTokenizer
@@ -20,6 +25,17 @@ def loadStopWords():
 			#ajoute les mots en unicode car plus simple à comparer par la suite
 			french_stop_words.append(stemmer.stem(line.decode('unicode_escape')))
 	return french_stop_words
+=======
+
+from sklearn.feature_extraction.text import TfidfVectorizer
+from nltk.stem import SnowballStemmer
+from nltk.tokenize import WordPunctTokenizer
+
+path = '../../../Avis_Decisions/pdftotext/Decisions'
+path = 'echantillon'
+token_dict = {}
+stemmer = SnowballStemmer('french')
+>>>>>>> 65731833ce47e4eeaa569bee2b4a190593f1e219
 
 def stem_tokens(tokens, stemmer):
     stemmed = []
@@ -28,10 +44,16 @@ def stem_tokens(tokens, stemmer):
     return stemmed
 
 def tokenize(text): 
+<<<<<<< HEAD
+=======
+    #wordtokenizer = WordPunctTokenizer()
+    #tokens = wordtokenizer.tokenize(text)
+>>>>>>> 65731833ce47e4eeaa569bee2b4a190593f1e219
     tokens = nltk.word_tokenize(text)
     stems = stem_tokens(tokens, stemmer)
     return stems
 
+<<<<<<< HEAD
 def column(matrix, i):
     return [row[i] for row in matrix]
 
@@ -177,3 +199,40 @@ if(len(sys.argv)>=2):
 		tfidf(sys.argv[1])
 else:
 	tfidf()
+=======
+for subdir, dirs, files in os.walk(path):
+    for file in files:
+		print file
+        file_path = subdir + os.path.sep + file
+        shakes = open(file_path, 'r')
+        text = ' '.join([line.rstrip() for line in shakes])
+        lowers = text.lower()
+        no_punctuation = lowers.translate(None, string.punctuation)
+        token_dict[file] = no_punctuation
+
+#this can take some time
+tfidf = TfidfVectorizer(tokenizer=tokenize, stop_words='english')
+tfs = tfidf.fit_transform(token_dict.values())
+feature_names = tfidf.get_feature_names()
+f = io.open('features.txt','w',encoding='utf-8')
+for name in feature_names:
+	f.write(name+'\n')
+f.close()
+matrix = io.open('matrice.txt','w',encoding='utf-8')
+print tfs.getnnz(), tfs.shape[0], tfs.shape[1]
+lines = tfs.shape[1]
+cols = tfs.shape[0]
+for name in feature_names:
+	matrix.write(name+'\t')
+matrix.write(u'\n')
+for col in range(0,cols):
+	for line in range(0,lines):
+		#print tfs[col,line]
+		freq = tfs[col,line]
+		matrix.write(unicode(round(freq,4))+'\t')
+	matrix.write(u'\n')
+matrix.close()
+'''for col in tfs.nonzero()[1]:
+	print feature_names[col], ' - ', tfs[1, col]'''
+	
+>>>>>>> 65731833ce47e4eeaa569bee2b4a190593f1e219

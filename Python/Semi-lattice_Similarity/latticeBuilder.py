@@ -12,7 +12,10 @@ from concepts import Context
 import graphviz
 import filesGetter as fg
 import sys
+<<<<<<< HEAD
 import roman
+=======
+>>>>>>> 65731833ce47e4eeaa569bee2b4a190593f1e219
 
 #Ecrit la liste des attributs dans un fichier externe
 def writeAttributes(liste,name):
@@ -23,8 +26,13 @@ def writeAttributes(liste,name):
 	res.close()
 
 #Ecrit la liste des concepts et leur nombre dans un fichier externe
+<<<<<<< HEAD
 def writeConcepts(lattice,name):
 	res = open('latticeEtContext/concepts'+name+'.txt','w')
+=======
+def writeConcepts(lattice):
+	res = open('conceptsartdoc.txt','w')
+>>>>>>> 65731833ce47e4eeaa569bee2b4a190593f1e219
 	i = 0
 	listeconcepts = []
 	for extent, intent in lattice:
@@ -145,18 +153,27 @@ def buildAttributes(setOfAttributes):
 
 
 #Construit la lattice à partir de documents
+<<<<<<< HEAD
 def buildLattice(pattern = True, inputFiles = "dec", inputAttributes = "arts"):
 	if pattern == True:
 		name = "WithPS"
 	else:
 		name = "WithoutPS"
 	print inputFiles, inputAttributes, name
+=======
+def buildLattice(inputFiles = "dec", inputAttributes = "artsdocs"):
+	print inputFiles, inputAttributes
+>>>>>>> 65731833ce47e4eeaa569bee2b4a190593f1e219
 	#Le contexte a construire
 	matrixAttribute = []
 	#
 	listFiles = []
 	#Liste des fichiers lus pour construire le contexte
 	if(inputFiles == "dec"):
+<<<<<<< HEAD
+=======
+		print "cuocou"
+>>>>>>> 65731833ce47e4eeaa569bee2b4a190593f1e219
 		listAllFiles = fg.getAllDecisions()
 	elif(inputFiles == "avis"):
 		listAllFiles = fg.getAllAvis()
@@ -175,6 +192,10 @@ def buildLattice(pattern = True, inputFiles = "dec", inputAttributes = "arts"):
 	if (inputAttributes == "arts"):
 		expre = expreAttribute()
 	elif(inputAttributes == "artsdocs"):
+<<<<<<< HEAD
+=======
+		print "lol"
+>>>>>>> 65731833ce47e4eeaa569bee2b4a190593f1e219
 		expre = expreAttribute()+'|'+regex.exprReguliereDecision()
 	else:
 		print "choix non reconnu. Choix possibles : 'arts' 'docs' 'artsdocs'"
@@ -202,6 +223,7 @@ def buildLattice(pattern = True, inputFiles = "dec", inputAttributes = "arts"):
 			print str(int(i))+' fichiers lus sur '+str(lengthAllFiles)
 	#Modification des attributs pour éviter les doublons
 	setOfAttributes = list(setOfAttributes)
+<<<<<<< HEAD
 
 	for item in setOfAttributes:
 		setFormated.add(regex.formatArticle(item))
@@ -212,6 +234,13 @@ def buildLattice(pattern = True, inputFiles = "dec", inputAttributes = "arts"):
 	#Nombre d'attributs dans le contexte
 	lenset = len(setFormated)
 	print str(lenset)
+=======
+	for item in setOfAttributes:
+		setFormated.add(regex.formatArticle(item))
+	setFormated =  list(setFormated)
+	#Nombre d'attributs dans le contexte
+	lenset = len(setFormated)
+>>>>>>> 65731833ce47e4eeaa569bee2b4a190593f1e219
 	#Construction du contexte
 	for dfile in listAllFiles:
 		f = open(dfile, 'r')
@@ -228,6 +257,7 @@ def buildLattice(pattern = True, inputFiles = "dec", inputAttributes = "arts"):
 			attributFormated = regex.removeAccent(attributFormated)
 			attributFormated = correctSyntaxe(attributFormated)
 			attributFormated = regex.supprNumero(attributFormated)
+<<<<<<< HEAD
 			attributFormated = regex.formatArticle(attributFormated)
 			#Si pattern, on découpe chaque attribut
 			if pattern == True:
@@ -242,6 +272,12 @@ def buildLattice(pattern = True, inputFiles = "dec", inputAttributes = "arts"):
 				index = setFormated.index(attributFormated)
 				listuple[index] = True
 
+=======
+			#Trouver l'indice de l'attribut
+			index = setFormated.index(regex.formatArticle(attributFormated))
+			#Mettre à jour la valeur
+			listuple[index] = True
+>>>>>>> 65731833ce47e4eeaa569bee2b4a190593f1e219
 		i = i + 0.5
 		if i%100==0:
 			print str(int(i))+' fichiers lus sur '+str(lengthAllFiles)
@@ -250,13 +286,20 @@ def buildLattice(pattern = True, inputFiles = "dec", inputAttributes = "arts"):
 		matrixAttribute.append(nuplet)
 	print str(int(i))+' fichiers lus sur '+str(lengthAllFiles)
 	#Sauvegarde les attributs dans un txt
+<<<<<<< HEAD
 	writeAttributes(setFormated,name)
 	#sauvegarde le contexte dans un json
 	exportContext(listFiles,setFormated,matrixAttribute,name)
+=======
+	writeAttributes(setFormated)
+	#sauvegarde le contexte dans un json
+	exportContext(listFiles,setFormated,matrixAttribute)
+>>>>>>> 65731833ce47e4eeaa569bee2b4a190593f1e219
 	c = Context(listFiles,setFormated,matrixAttribute)
 	print "construction de la lattice. Cela peut prendre quelques instants"
 	c.lattice.graphviz(view=True)
 	#Sauvegarde le contexte dans un txt
+<<<<<<< HEAD
 	writeConcepts(c.lattice,name)
 	c.tofile('latticeEtContext/saveLatticeWithPS.txt',frmat='cxt',encoding='utf-8')
 
@@ -266,6 +309,14 @@ if(len(sys.argv)>=2):
 			buildLattice(sys.argv[1],sys.argv[2],sys.argv[3])
 		else:
 			buildLattice(sys.argv[1],sys.argv[2])
+=======
+	writeConcepts(c.lattice)
+	c.tofile('saveLattice.txt',frmat='cxt',encoding='utf-8')
+
+if(len(sys.argv)==2):
+	if(len(sys.argv)>=3):
+		buildLattice(sys.argv[1],sys.argv[2])
+>>>>>>> 65731833ce47e4eeaa569bee2b4a190593f1e219
 	else:
 		buildLattice(sys.argv[1])
 else:
