@@ -1,18 +1,15 @@
 B
 
+3
 4
-5
 
-A
-B
-C
-D
-tomate
-fromage
-vin
-lait
-lessive
-XX.X.
-.XX.X
-XXX..
-.XXXX
+05d31
+99d01
+15d20
+420-1 C
+211-1 SS
+464-8 C
+411-1 T
+X.X.
+XX.X
+X.XX

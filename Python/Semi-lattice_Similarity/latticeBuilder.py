@@ -203,10 +203,13 @@ def buildLattice(pattern = True, inputFiles = "dec", inputAttributes = "arts"):
 	if pattern == True:
 		developAttributes = buildAttributes(setFormated)
 		setFormated =  list(developAttributes)
+	else:
+		setFormated = list(setFormated)
 
 	#Nombre d'attributs dans le contexte
 	lenset = len(setFormated)
 	print str(lenset)
+	writeAttributes(setFormated,name)
 	#Construction du contexte
 	for dfile in listAllFiles:
 		f = open(dfile, 'r')
@@ -245,7 +248,6 @@ def buildLattice(pattern = True, inputFiles = "dec", inputAttributes = "arts"):
 		matrixAttribute.append(nuplet)
 	print str(int(i))+' fichiers lus sur '+str(lengthAllFiles)
 	#Sauvegarde les attributs dans un txt
-	writeAttributes(setFormated,name)
 	#sauvegarde le contexte dans un json
 	exportContext(listFiles,setFormated,matrixAttribute,name)
 	c = Context(listFiles,setFormated,matrixAttribute)

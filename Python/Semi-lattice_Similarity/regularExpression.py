@@ -22,7 +22,7 @@ def removeAccent(word):
 
 #retourne l'expression reguliere des différents codes légaux
 def expreReguliereCode():
-	listecodes = ['général des collectivités', 'commerce', 'postes et télécommunications', 'procédure civile', 'sécurité sociale', 'marchés publics', 'communes', 'travail', 'tourisme', 'santé public']
+	listecodes = ['général des collectivités', 'commerce', 'postes et télécommunications', 'procédure civile', 'sécurité sociale', 'marchés publics', 'communes', 'travail', 'tourisme', 'santé public','consommation']
 	liens = r'(d(u|e|es))? (la )?'
 	res = '(c|C)ode '
 	res = res + liens
@@ -30,9 +30,23 @@ def expreReguliereCode():
 	res = res + discodes
 	return res
 
+'''def expreReguliereCode():
+	liens = r'(d(u|e|es))? (la )?'
+	res = '(c|C)ode '
+	res = res + liens
+	print res
+	listecodes = []
+	with open("Semi-lattice_Similarity/ListeCode.txt","r") as infile:
+		for line in infile.readlines():
+			line = re.sub('\n','',line)
+			listecodes.append(re.sub(r'res','',line))
+	discodes = listToDisjonction(listecodes)
+	res = res + discodes
+	return res'''
+
 #retourne l'expression reguliere des articles des codes légaux
 def expreReguliereArticle():
-	romanNumbers = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV']
+	romanNumbers = ['Ier','I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV']
 	disroman = listToDisjonction(romanNumbers)
 	res = '((l|L)ivre '+disroman+'|'
 	res = res + '(L|R|D).( )?[0-9]{1,4}((-| )[0-9]{1,3})?(-[0-9]{1,2})?(-[0-9]{1,2})?(, alinéa )?( et suivants)?( (I|II|III|IV|V))?)'

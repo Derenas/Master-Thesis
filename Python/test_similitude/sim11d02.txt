@@ -1,8 +1,0 @@
-11d02.txt 21
-06d03.txt 9
-10d39.txt 9
-12d08.txt 9
-02d42.txt 9
-10d28.txt 9
-06d07.txt 10
-08a05.txt 10

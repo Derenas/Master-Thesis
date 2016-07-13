@@ -1,5 +1,7 @@
 Treillis et pattern structure (définition), fca, concept, context, stabilité, lift, support, lien entre texte
 
+découper les attributs
+
 word2vec, comment ça marche, comment s'en servir? Calcul de distance dans un espace à X dimensions (X = 100)
 
 tf -idf : le calculer, s'en servir pour générer des distances entre documents...

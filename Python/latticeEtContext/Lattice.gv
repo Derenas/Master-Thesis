@@ -1,0 +1,25 @@
+// <Lattice object of 2 atoms 6 concepts 2 coatoms at 0x7fac926de510>
+digraph Lattice {
+	node [label="" shape=circle style=filled width=.25]
+	edge [dir=none labeldistance=1.5 minlen=2]
+		c0
+		c1
+			c1 -> c1 [color=transparent headlabel="99d01" labelangle=270]
+			c1 -> c1 [color=transparent labelangle=90 taillabel="211-1 SS"]
+			c1 -> c0
+		c2
+			c2 -> c2 [color=transparent headlabel="15d20" labelangle=270]
+			c2 -> c0
+		c3
+			c3 -> c3 [color=transparent headlabel="05d31" labelangle=270]
+			c3 -> c3 [color=transparent labelangle=90 taillabel="464-8 C"]
+			c3 -> c2
+		c4
+			c4 -> c4 [color=transparent labelangle=90 taillabel="411-1 T"]
+			c4 -> c1
+			c4 -> c2
+		c5
+			c5 -> c5 [color=transparent labelangle=90 taillabel="420-1 C"]
+			c5 -> c3
+			c5 -> c4
+}
